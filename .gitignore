@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+out/
+*.pdf
+*.docx
+*.pptx
+!docs/**/*.pdf
