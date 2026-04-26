@@ -1,12 +1,13 @@
 # Belajar Bahasa Arab
 
-Paket pembelajaran bahasa Arab untuk Muslim Indonesia, fokus pada pemahaman Al-Qur'an dan teks klasik.
+Paket pembelajaran bahasa Arab untuk Muslim Indonesia, fokus pada pemahaman Al-Qur'an dan teks klasik. Diterbitkan oleh **Cahaya Tauhid** dengan lisensi [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE).
 
 ## Komponen
 
 - `textbook/` — buku teks (materi inti, penjelasan)
 - `workbook/` — buku latihan (soal, drill, kunci jawaban)
 - `slides/` — slide presentasi (untuk pengajar)
+- `audio/` — rekaman pelafalan kosakata, kalimat, dan bacaan korpus; latihan listening
 
 ## Desain
 
