@@ -1,0 +1,34 @@
+% LaTeX preamble untuk paket Cahaya Tauhid
+% Digunakan oleh pandoc → xelatex pipeline (lihat Makefile)
+%
+% Pandoc loads babel dengan bidi=basic (untuk Indonesian + RTL).
+% Header ini menambah Arabic ke babel dan command \ayat dan \hadits.
+
+% Tambah Arabic ke babel (pandoc cuma load Indonesian sebagai main)
+\babelprovide[import]{arabic}
+
+% Font Mushaf Madinah (Rasm Utsmani) untuk semua teks Arab dalam paket
+\babelfont[arabic]{rm}[Script=Arabic, Scale=1.15]{Amiri Quran}
+
+\usepackage{parskip}
+
+% Ayat Al-Qur'an: rata tengah, RTL otomatis via babel arabic
+\newcommand{\ayat}[1]{%
+  \par\medskip%
+  \begin{center}%
+  {\Large\foreignlanguage{arabic}{#1}}%
+  \end{center}%
+  \medskip%
+}
+
+% Hadits / matan klasik
+\newcommand{\hadits}[1]{%
+  \par\medskip%
+  \begin{center}%
+  {\foreignlanguage{arabic}{#1}}%
+  \end{center}%
+  \medskip%
+}
+
+% Inline Arabic via \ar{...}
+\newcommand{\ar}[1]{\foreignlanguage{arabic}{#1}}
