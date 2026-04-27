@@ -4,6 +4,8 @@ Paket pembelajaran bahasa Arab klasik berjenjang untuk Muslim Indonesia dewasa, 
 
 Diterbitkan oleh **Cahaya Tauhid** dengan lisensi [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE).
 
+🌐 **Slide presentasi online**: https://cahayatauhid.github.io/belajar-bahasa-arab/
+
 ## Audiens
 
 Bapak/ibu profesional Indonesia, dewasa, Muslim, tanpa background pesantren atau studi Islam formal. Asumsi: bisa baca Al-Qur'an dengan tajwid, belum bisa memisahkan kata per kata.
@@ -48,13 +50,17 @@ make workbook
 make clean
 ```
 
-Slide langsung dibuka di browser:
+Slide langsung dibuka di browser, baik secara lokal maupun via GitHub Pages:
 
 ```bash
+# lokal
 open slides/pelajaran-01/index.html
+
+# online
+open https://cahayatauhid.github.io/belajar-bahasa-arab/pelajaran-01/
 ```
 
-Navigasi slide: arrow keys, PageUp/PageDown, atau tombol next/prev.
+Navigasi slide: arrow keys (←/→), spasi, PageUp/PageDown, atau tombol next/prev. Slide auto-redeploy ke GitHub Pages setiap kali ada perubahan di `slides/**` di branch `main`.
 
 ## Status
 
