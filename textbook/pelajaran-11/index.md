@@ -61,7 +61,7 @@ Pelajaran ini di Blok 2 (Marfu'at) membahas dua yang **rafa**:
 
 Dua sisanya (**khabar kana** dan **isim inna**) berada di keadaan **nashb** dan akan dibahas di Blok 3 (Manshubat).
 
-## 1. Isim Kana
+## Isim Kana
 
 Setelah dimasuki \ar{كَانَ} atau saudaranya, mubtada **berubah jabatan** menjadi **isim kana**. Tetapi tetap di keadaan rafa.
 
@@ -116,7 +116,7 @@ Contoh dengan \ar{لَيْسَ}:
 - \ar{الرَّجُلُ} --- isim laysa, marfu'
 - \ar{كَاذِبًا} --- khabar laysa, manshub
 
-## 2. Khabar Inna
+## Khabar Inna
 
 Setelah dimasuki \ar{إِنَّ} atau saudaranya, khabar **tetap di keadaan rafa**. Tetapi sekarang jabatannya disebut **khabar inna**, bukan lagi sekadar khabar.
 

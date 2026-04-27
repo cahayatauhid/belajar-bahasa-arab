@@ -61,14 +61,14 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 ### Blok 4 — Majrurat (Sesi 19–21)
 
 19. Harf jarr — daftar dan contoh dari Al-Qur'an
-20. Idhafah — frasa kepemilikan (mis. كِتَابُ الطَّالِبِ = "kitab si pelajar"); analogi dengan *of* dan *'s* dalam Inggris (*the student's book*), dan akhiran -*nya* dalam Indonesia
+20. Idhafah — frasa kepemilikan (mis. \ar{كِتَابُ الطَّالِبِ} = "kitab si pelajar"); analogi dengan *of* dan *'s* dalam Inggris (*the student's book*), dan akhiran -*nya* dalam Indonesia
 21. Tabi' yang majrur
 
 ### Blok 5 — Majzumat (Sesi 22–24)
 
 22. Fi'il mudhari: kapan rafa', nashb, jazm — bagan keputusan
-23. Adawat jazm satu fi'il (لَمْ، لَمَّا، lam amr, la nahyi)
-24. Adawat syarat — jazm dua fi'il (إِنْ، مَنْ، مَا، مَتَى, dll.); syarat dan jawab
+23. Adawat jazm satu fi'il (\ar{لَمْ، لَمَّا،} lam amr, la nahyi)
+24. Adawat syarat — jazm dua fi'il (\ar{إِنْ، مَنْ، مَا، مَتَى}, dll.); syarat dan jawab
 
 ### Blok 6 — Dhamir (Sesi 25–27)
 
@@ -79,10 +79,10 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 ### Blok 7 — Shorf Garis Besar (Sesi 28–33)
 
 28. Tashrif fi'il madhi, mudhari, amr — pola dasar; pengenalan *Tashrif al-'Izzi* sebagai matn rujukan
-29. Tsulatsi mujarrad — tiga wazan (فَعَلَ-يَفْعُلُ، فَعَلَ-يَفْعِلُ، فَعِلَ-يَفْعَلُ); juga فَعُلَ
-30. Tsulatsi mazid bi-harf wahid — أَفْعَلَ، فَعَّلَ، فَاعَلَ + makna utama
-31. Tsulatsi mazid bi-harfain — تَفَعَّلَ، تَفَاعَلَ، اِفْتَعَلَ، اِنْفَعَلَ، اِفْعَلَّ + makna utama
-32. Tsulatsi mazid bi-tsalatsah ahruf — اِسْتَفْعَلَ + 3 wazan jarang + makna utama
+29. Tsulatsi mujarrad — tiga wazan (\ar{فَعَلَ}-\ar{يَفْعُلُ، فَعَلَ}-\ar{يَفْعِلُ، فَعِلَ}-\ar{يَفْعَلُ}); juga \ar{فَعُلَ}
+30. Tsulatsi mazid bi-harf wahid — \ar{أَفْعَلَ، فَعَّلَ، فَاعَلَ} + makna utama
+31. Tsulatsi mazid bi-harfain — \ar{تَفَعَّلَ، تَفَاعَلَ، اِفْتَعَلَ، اِنْفَعَلَ، اِفْعَلَّ} + makna utama
+32. Tsulatsi mazid bi-tsalatsah ahruf — \ar{اِسْتَفْعَلَ} + 3 wazan jarang + makna utama
 33. Mashdar, ism fa'il, ism maf'ul — pengaruh wazan terhadap makna; rangkuman peta shorf; review keseluruhan Level 1; pembacaan matn *Jurumiyyah* secara overview
 
 ---
@@ -94,7 +94,7 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 ### Blok 1 — I'rab Detail dan Tanda Far'i (Sesi 1–5)
 
 1. Mu'rab vs mabni — kategorisasi penuh; review dari Level 1
-2. Asma' al-khamsah (أَبٌ، أَخٌ، حَمٌ، فُو، ذُو) dengan i'rab tanda huruf
+2. Asma' al-khamsah (\ar{أَبٌ، أَخٌ، حَمٌ، فُو، ذُو}) dengan i'rab tanda huruf
 3. Mutsanna — i'rab dengan alif (rafa') dan ya' (nashb/jarr)
 4. Jamak mudzakkar salim — i'rab dengan waw (rafa') dan ya' (nashb/jarr)
 5. Jamak mu'annats salim — i'rab dengan kasrah pengganti fathah pada nashb; asma' ghair munsharif
@@ -116,10 +116,10 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 15. Maf'ul muthlaq — fungsi taukid, naw'i, 'adadi
 16. Maf'ul fih (zharf zaman dan zharf makan) — daftar zharf; mubham vs mukhtash
 17. Maf'ul li-ajlih — syarat-syarat
-18. Maf'ul ma'ah — penggunaan dengan وَاوُ المعيّة
+18. Maf'ul ma'ah — penggunaan dengan \ar{وَاوُ المعيّة}
 19. Hal — varian (mufrad, jumlah, syibhul jumlah); shahibul hal
 20. Tamyiz — dzat dan nisbah; manshub atau majrur dengan min
-21. Mustathna — varian إلا، غير، سوى، خلا، عدا، حاشا; syarat manshub vs ikut mustathna minhu
+21. Mustathna — varian \ar{إلا، غير، سوى، خلا، عدا، حاشا}; syarat manshub vs ikut mustathna minhu
 22. Munada — lima jenis (mufrad alam, nakirah maqshudah, nakirah ghoir maqshudah, mudhaf, syibhul mudhaf)
 23. La nafiyatul jins — isim la dan khabar la; mufrad, mudhaf, syibhul mudhaf
 
@@ -134,7 +134,7 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 ### Blok 5 — Majzumat Detail (Sesi 29–31)
 
 29. Sembilan adawat jazm satu fi'il + perbedaan makna detail
-30. Adawat syarat lengkap — كيفما، أيّان، أنّى, dll.; pembuangan jawab syarat
+30. Adawat syarat lengkap — \ar{كيفما، أيّان، أنّى}, dll.; pembuangan jawab syarat
 31. Idgham, mu'tal dalam jazm
 
 ### Blok 6 — Tashrif Fi'il Mujarrad dan Mazid Lengkap (Sesi 32–41)
@@ -142,10 +142,10 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 32. Tashrif madhi mujarrad — semua dhamir (14 bentuk)
 33. Tashrif mudhari mujarrad — semua dhamir
 34. Tashrif amr mujarrad — semua dhamir (mu'annats, jamak, dll.)
-35. Tashrif madhi mazid — أفعل
-36. Tashrif madhi mazid — فعّل، فاعل
-37. Tashrif madhi mazid — تفعّل، تفاعل، افتعل، انفعل، افعلّ
-38. Tashrif madhi mazid — استفعل dan wazan jarang
+35. Tashrif madhi mazid — \ar{أفعل}
+36. Tashrif madhi mazid — \ar{فعّل، فاعل}
+37. Tashrif madhi mazid — \ar{تفعّل، تفاعل، افتعل، انفعل، افعلّ}
+38. Tashrif madhi mazid — \ar{استفعل} dan wazan jarang
 39. Tashrif mudhari untuk semua wazan mazid
 40. Tashrif amr untuk semua wazan mazid
 41. Mashdar qiyasi mazid — pola-pola; ism fa'il dan ism maf'ul untuk wazan mazid
@@ -274,7 +274,7 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 
 27. Pengenalan insya' — perbedaan dengan terjemah; kerangka konseptual
 28. Konstruksi paragraf Arab — kohesi, urutan ide, paragraph topic sentence
-29. Conjunction dan transition Arab (فَ، ثُمَّ، لَكِنْ، أَمَّا...فَ، إِذًا، dll.)
+29. Conjunction dan transition Arab (\ar{فَ، ثُمَّ، لَكِنْ، أَمَّا}...\ar{فَ، إِذًا،} dll.)
 30. Latihan menulis paragraf deskripsi
 31. Latihan menulis paragraf naratif
 32. Latihan menulis ringkasan paragraf kitab

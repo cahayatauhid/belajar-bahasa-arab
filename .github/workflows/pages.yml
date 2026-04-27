@@ -8,6 +8,7 @@ on:
       - 'slides/**'
       - 'textbook/level-*.pdf'
       - 'workbook/level-*.pdf'
+      - 'docs/*.pdf'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -37,9 +38,15 @@ jobs:
         run: |
           mkdir -p _pages_site
           cp -r slides/* _pages_site/
-          mkdir -p _pages_site/buku
+          mkdir -p _pages_site/buku _pages_site/docs
           if [ -f textbook/level-1.pdf ]; then
             cp textbook/level-1.pdf _pages_site/buku/level-1.pdf
+          fi
+          if [ -f docs/desain-kurikulum.pdf ]; then
+            cp docs/desain-kurikulum.pdf _pages_site/docs/desain-kurikulum.pdf
+          fi
+          if [ -f docs/silabus.pdf ]; then
+            cp docs/silabus.pdf _pages_site/docs/silabus.pdf
           fi
 
       - name: Upload artifact

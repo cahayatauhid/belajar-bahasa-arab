@@ -21,7 +21,7 @@ Yang penting diingat: **rafa', nashb, jarr** dapat dialami oleh isim mu'rab dan 
 
 Mari kita bedah satu per satu, dengan fokus pada **jabatan apa yang termasuk masing-masing keadaan**, lalu **bagaimana keadaan tersebut ditandai**.
 
-## 1. Rafa' (Marfu')
+## Rafa' (Marfu')
 
 \ar{رَفْعٌ} (rafa') secara harfiah artinya "tinggi". Kata yang dalam keadaan rafa' disebut \ar{مَرْفُوعٌ} (marfu').
 
@@ -50,7 +50,7 @@ Contoh:
 
 Ada bentuk penanda lain untuk kategori isim khusus (mutsanna, jamak mudzakkar salim, asma' al-khamsah) --- ditangani di Level 2.
 
-## 2. Nashb (Manshub)
+## Nashb (Manshub)
 
 \ar{نَصْبٌ} (nashb) secara harfiah artinya "tegak" atau "terbentang". Kata yang dalam keadaan nashb disebut \ar{مَنْصُوبٌ} (manshub).
 
@@ -75,7 +75,7 @@ Contoh:
 - \ar{الرَّجُلَ} --- manshub dengan fathah
 - \ar{رَجُلًا} --- manshub dengan fathatain
 
-## 3. Jarr (Majrur)
+## Jarr (Majrur)
 
 \ar{جَرٌّ} (jarr) secara harfiah artinya "tarikan". Kata yang dalam keadaan jarr disebut \ar{مَجْرُورٌ} (majrur).
 
@@ -103,7 +103,7 @@ Contoh:
 - \ar{الرَّجُلِ} --- majrur dengan kasrah
 - \ar{رَجُلٍ} --- majrur dengan kasratain
 
-## 4. Jazm (Majzum)
+## Jazm (Majzum)
 
 \ar{جَزْمٌ} (jazm) secara harfiah artinya "potong" atau "padam". Kata yang dalam keadaan jazm disebut \ar{مَجْزُومٌ} (majzum).
 

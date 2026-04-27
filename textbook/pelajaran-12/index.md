@@ -32,7 +32,7 @@ Ada empat jenis tabi' dalam ilmu nahwu klasik:
 
 Untuk Level 1, kita fokus pada **na'at** dan **athaf** --- dua jenis yang paling sering muncul. Badal dan taukid akan diperkenalkan di Level 2.
 
-## 1. Na'at (Kata Sifat)
+## Na'at (Kata Sifat)
 
 \ar{نَعْتٌ} (na'at) adalah **kata sifat yang menjelaskan isim sebelumnya**. Isim yang dijelaskan disebut **man'ut** (\ar{مَنْعُوتٌ}, "yang disifati").
 
@@ -76,7 +76,7 @@ Contoh kesesuaian semua aspek:
 
 Na'at **mengikuti** man'utnya --- yakni datang setelahnya, langsung menempel atau dengan kata-kata di antaranya yang masih berhubungan.
 
-## 2. Athaf (Penghubung)
+## Athaf (Penghubung)
 
 \ar{عَطْفٌ} (athaf) adalah **kata yang dihubungkan** dengan kata sebelumnya melalui huruf athaf. Kata yang menjadi sandaran (yang dihubungkan dengannya) disebut **ma'thuf 'alaih**, dan kata penghubungnya disebut **harf athaf**.
 

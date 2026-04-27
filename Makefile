@@ -1,4 +1,4 @@
-.PHONY: textbook workbook slides docker-image test clean all level-1 level-1-textbook level-1-workbook
+.PHONY: textbook workbook slides docs docker-image test clean all level-1 level-1-textbook level-1-workbook
 
 DOCKER_IMG = cahaya-tauhid-build
 DOCKER_RUN = docker run --rm -v "$(CURDIR):/data" $(DOCKER_IMG)
@@ -76,9 +76,41 @@ workbook/level-1.pdf: $(LEVEL1_WORKBOOK_SRCS) _build/header.tex _build/level-1-f
 		_build/cache/level-1-workbook.md \
 		-o $@
 
+# Docs PDFs (desain kurikulum, silabus) -- A4, article
+DOCS_PDFS = docs/desain-kurikulum.pdf docs/silabus.pdf
+
+docs: $(DOCS_PDFS)
+
+DOCS_PANDOC_FLAGS = \
+	--pdf-engine=xelatex \
+	--include-in-header=_build/header.tex \
+	--toc --toc-depth=2 \
+	-V papersize=a4 \
+	-V geometry:margin=2.5cm \
+	-V mainfont="TeX Gyre Pagella" \
+	-V lang=id \
+	-V documentclass=article \
+	-V numbersections=true \
+	-V toc-title="Daftar Isi"
+
+docs/desain-kurikulum.pdf: docs/desain-kurikulum.md _build/header.tex
+	$(DOCKER_RUN) pandoc $(DOCS_PANDOC_FLAGS) \
+		--metadata=title:"Desain Kurikulum" \
+		--metadata=subtitle:"Belajar Bahasa Arab --- Cahaya Tauhid" \
+		--metadata=author:"Cahaya Tauhid" \
+		$< -o $@
+
+docs/silabus.pdf: docs/silabus.md _build/header.tex
+	$(DOCKER_RUN) pandoc $(DOCS_PANDOC_FLAGS) \
+		--metadata=title:"Silabus Lengkap" \
+		--metadata=subtitle:"Belajar Bahasa Arab Level 1--5 --- Cahaya Tauhid" \
+		--metadata=author:"Cahaya Tauhid" \
+		$< -o $@
+
 clean:
 	find textbook -name "*.pdf" -delete 2>/dev/null || true
 	find workbook -name "*.pdf" -delete 2>/dev/null || true
+	find docs -name "*.pdf" -delete 2>/dev/null || true
 	rm -rf _build/cache
 
-all: docker-image textbook workbook
+all: docker-image textbook workbook docs

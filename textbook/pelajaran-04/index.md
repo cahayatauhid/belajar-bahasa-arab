@@ -31,7 +31,7 @@ Contoh dengan huruf \ar{ب} (ba):
 
 - Berdiri sendiri: \ar{ب}
 - Awal: \ar{بـ} (mis. \ar{بَيْتٌ} = bayt = rumah)
-- Tengah: \ar{ـبـ} (mis. \ar{كِتَابٌ} = kitab)
+- Tengah: \ar{ـبـ} (mis. \ar{جَبَلٌ} = jabal = gunung)
 - Akhir: \ar{ـب} (mis. \ar{قَلْبٌ} = qalb = hati)
 
 ## Huruf yang Tidak Bisa Disambung Setelahnya
@@ -46,6 +46,53 @@ Ada **enam huruf** yang TIDAK bisa disambung dengan huruf setelahnya. Artinya: h
 - \ar{و} (waw)
 
 Contoh: dalam kata \ar{دَارٌ} (dar = rumah), \ar{د} tidak nyambung ke \ar{ا}. Dan dalam \ar{رَزَقَ} (razaqa = memberi rezeki), \ar{ر} tidak nyambung ke \ar{ز}, dan \ar{ز} tidak nyambung ke \ar{ق}.
+
+## Letak Huruf di Garis Tulisan
+
+Bayangkan menulis huruf Arab di buku bergaris (seperti buku tulis SD yang biasa kita pakai dulu). Tulisan Arab mengenal **tiga zona** terhadap garis dasar tulisan:
+
+- **Zona atas** --- huruf yang menjulang ke atas garis dasar
+- **Zona tengah** --- huruf yang duduk di garis dasar (zona "tubuh" huruf)
+- **Zona bawah** --- huruf yang punya "ekor" turun di bawah garis dasar
+
+Memahami zona ini penting saat menulis dengan tangan. Huruf yang menjulang harus benar-benar tinggi; huruf yang berekor harus benar-benar turun di bawah garis. Kalau zona tidak diperhatikan, tulisan jadi sulit dibaca.
+
+### Zona Atas: Huruf yang Menjulang ke Atas
+
+Huruf-huruf ini menjulang lurus ke atas, lebih tinggi dari huruf-huruf lain:
+
+\ar{ا} (alif), \ar{ل} (lam), \ar{ك} (kaf), \ar{ط} (tha), \ar{ظ} (zha)
+
+Saat ditulis: kepala huruf ini harus jelas-jelas di atas zona tengah. Kalau alif atau lam ditulis terlalu pendek, sulit dibedakan dari tanda lain.
+
+### Zona Tengah: Huruf yang Duduk di Garis
+
+Mayoritas huruf Arab berada di zona ini --- tubuh huruf duduk di atas garis dasar:
+
+\ar{ب} (ba), \ar{ت} (ta), \ar{ث} (tsa), \ar{س} (sin), \ar{ش} (syin), \ar{ص} (shod), \ar{ض} (dhod), \ar{ف} (fa), \ar{ه} (ha)
+
+Plus bentuk **awal** dan **tengah** dari huruf-huruf yang lain (misal \ar{مـ}, \ar{نـ}, \ar{عـ}, dst. ketika di awal atau tengah kata --- tidak punya ekor).
+
+### Zona Bawah: Huruf yang Berekor Turun
+
+Beberapa huruf punya "ekor" atau "mangkuk" yang turun di bawah garis dasar:
+
+- **Selalu turun** --- baik di awal, tengah, maupun akhir kata: \ar{ج} (jim), \ar{ح} (ha), \ar{خ} (kha), \ar{ر} (ra), \ar{ز} (zay)
+- **Turun di bentuk akhir** --- ekor turun ketika huruf di akhir kata: \ar{ع} → \ar{ـع}, \ar{غ} → \ar{ـغ}, \ar{م} → \ar{ـم}, \ar{ن} → \ar{ـن}, \ar{ل} → \ar{ـل}, \ar{ي} → \ar{ـي}
+- **Mangkuk besar** --- punya ekor lebar yang menggantung di bawah: \ar{ق} (qaf), \ar{و} (waw)
+
+Saat menulis huruf-huruf ini di buku bergaris, ekor harus benar-benar menyentuh atau melewati garis bawah --- jangan ditulis "tergantung" di tengah.
+
+### Praktik di Buku Bergaris
+
+Saat latihan menulis di buku bergaris (biasanya tiga garis sejajar untuk huruf Latin --- atas, tengah, bawah), aplikasikan untuk Arab:
+
+- **Garis tengah** = garis dasar (baseline) untuk Arab
+- Kepala huruf alif dan lam mencapai **garis atas**
+- Ekor huruf jim, ha, kha, ra, zay turun ke **garis bawah**
+- Tubuh kebanyakan huruf duduk **antara garis tengah dan atas**
+
+Pengajar dapat membantu dengan menggambar di papan tulis: tarik tiga garis horizontal, lalu tulis huruf-huruf contoh di posisi yang sesuai. Peserta meniru di buku bergarisnya masing-masing.
 
 ## Pengenalan: Kalam dan Kalimah
 
@@ -117,7 +164,7 @@ Sebelum kita masuk ke struktur teknis di pelajaran-pelajaran berikutnya, ada sat
 
 Ini bukan karena Anda kurang cerdas, atau bahasa Arab "tidak ramah pemula". Ini karena **bahasa Indonesia adalah salah satu bahasa yang paling sederhana secara struktural di dunia**, sementara bahasa Arab adalah salah satu yang paling kaya. Mari kita bandingkan empat dimensi di mana Indonesia jauh lebih simpel dari kebanyakan bahasa.
 
-### 1. Pembedaan Gender (Jenis Kelamin)
+### Pembedaan Gender (Jenis Kelamin)
 
 **Indonesia** tidak membedakan kata berdasarkan jenis kelamin. Kata "buku", "rumah", "meja" semuanya netral --- tidak punya gender.
 
@@ -136,25 +183,25 @@ Murid Indonesia yang belajar Jerman atau Prancis sering bertanya: "Kenapa benda 
 
 **Arab** punya **dua gender**: **mudzakkar** (\ar{مُذَكَّرٌ}, maskulin) dan **mu'annats** (\ar{مُؤَنَّثٌ}, feminin). Setiap isim --- termasuk benda mati --- punya salah satu dari dua gender ini.
 
-### 2. Pembedaan Waktu (Tense)
+### Pembedaan Waktu (Tense)
 
-**Indonesia** tidak mengubah bentuk kata kerja berdasarkan waktu. "Membaca" tetap "membaca" baik untuk lampau, sekarang, atau masa depan. Waktu disampaikan lewat keterangan: "kemarin saya membaca", "saya sedang membaca", "besok saya akan membaca".
+**Indonesia** tidak mengubah bentuk kata kerja berdasarkan waktu. "Pergi" tetap "pergi" baik untuk lampau, sekarang, atau masa depan. Waktu disampaikan lewat keterangan: "kemarin saya pergi", "saya sedang pergi", "besok saya akan pergi".
 
-**Inggris** mengubah bentuk kata kerja berdasarkan tense:
+**Inggris** mengubah bentuk kata kerja berdasarkan tense --- bentuk katanya berubah secara visual:
 
-- *I read* (sekarang)
-- *I read* atau *I have read* (lampau)
-- *I will read* (masa depan)
+- *I go* (sekarang) → *I went* (lampau) → *I will go* (masa depan)
+- *I eat* (sekarang) → *I ate* (lampau) → *I have eaten* (lampau sempurna)
+- *I write* (sekarang) → *I wrote* (lampau) → *I have written* (lampau sempurna)
 
-Plus aspek-aspek lain (continuous, perfect): *I am reading*, *I have read*, *I had been reading*. Tense Inggris adalah salah satu hal pertama yang bikin murid Indonesia kesulitan.
+Plus aspek-aspek lain (continuous, perfect): *I am going*, *I have gone*, *I had been going*. Tense Inggris --- dengan banyak bentuk tidak teratur --- adalah salah satu hal pertama yang bikin murid Indonesia kesulitan.
 
-**Arab** membedakan tiga bentuk fi'il berdasarkan waktu --- yang sudah kita kenal:
+**Arab** membedakan tiga bentuk fi'il berdasarkan waktu --- semua berubah bentuk:
 
-- Fi'il **madhi** (lampau): \ar{قَرَأَ}
-- Fi'il **mudhari** (sekarang/akan): \ar{يَقْرَأُ}
-- Fi'il **amr** (perintah): \ar{اقْرَأْ}
+- Fi'il **madhi** (lampau, "telah pergi"): \ar{ذَهَبَ}
+- Fi'il **mudhari** (sekarang/akan, "sedang/akan pergi"): \ar{يَذْهَبُ}
+- Fi'il **amr** (perintah, "pergilah!"): \ar{اِذْهَبْ}
 
-### 3. Pembedaan Jumlah (Number)
+### Pembedaan Jumlah (Number)
 
 **Indonesia** menyampaikan jumlah lewat kata bilangan atau pengulangan, tetapi kata benda tidak berubah:
 
@@ -174,7 +221,7 @@ Plus banyak bentuk tidak teratur: *child* → *children*, *man* → *men*, *foot
 
 Kategori "mutsanna" --- kata yang khusus berarti dua --- adalah kekayaan bahasa Arab yang tidak ada di Indonesia maupun Inggris.
 
-### 4. Pembedaan berdasarkan Pronoun (Dhamir)
+### Pembedaan berdasarkan Pronoun (Dhamir)
 
 **Indonesia** menggunakan kata kerja yang sama untuk semua pronoun:
 

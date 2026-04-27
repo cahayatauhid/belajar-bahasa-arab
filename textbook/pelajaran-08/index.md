@@ -57,7 +57,7 @@ Penanda untuk isim mufrad biasa adalah dhammah (\ar{ـُ}) atau dhammatain (\ar{
 
 Khabar tidak harus selalu satu kata. Ada tiga jenis utama:
 
-### 1. Khabar Mufrad (Satu Kata)
+### Khabar Mufrad (Satu Kata)
 
 Khabar berupa satu kata isim, seperti yang sudah kita lihat di atas. Misal:
 
@@ -65,7 +65,7 @@ Khabar berupa satu kata isim, seperti yang sudah kita lihat di atas. Misal:
 
 > "Allah Maha Mulia" --- \ar{كَرِيمٌ} adalah khabar mufrad.
 
-### 2. Khabar Jumlah (Kalimat)
+### Khabar Jumlah (Kalimat)
 
 Khabar bisa berupa kalimat utuh (jumlah ismiyyah atau jumlah fi'liyyah). Misal:
 
@@ -83,7 +83,7 @@ Atau:
 
 Khabarnya adalah jumlah fi'liyyah \ar{يَقْرَأُ} (sedang membaca) --- dengan dhamir mustatir yang merujuk ke Zayd.
 
-### 3. Khabar Syibhul Jumlah (Frasa Mirip Kalimat)
+### Khabar Syibhul Jumlah (Frasa Mirip Kalimat)
 
 Khabar bisa juga berupa harf jarr + isim, atau dharaf (keterangan tempat/waktu) + isim. Misal:
 

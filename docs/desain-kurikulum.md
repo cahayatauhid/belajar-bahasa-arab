@@ -85,7 +85,7 @@ Sequence pedagogis tidak mengikuti urutan matn aslinya, karena urutan Jurumiyyah
 | Bahasa pengantar     | Bahasa Arab atau campuran Arab + lokal              | Bahasa Indonesia penuh                                                     |
 | Sequence pembelajaran| Mengikuti urutan matn (i'rab-kategorikal, abstrak)  | Bertahap: konsep prasyarat dulu, matn dibaca progresif                   |
 | Penjelasan grammar   | Kaidah klasik, kadang dengan istilah fiqh-bahasa    | Definisi klasik + analogi grammar Indonesia + analogi grammar Inggris      |
-| Vocabulary           | Contoh-contoh klasik (ضرب زيد عمراً)                | Akumulasi bertahap (teknik Madinah method) + kosakata matn secara progresif |
+| Vocabulary           | Contoh-contoh klasik (\ar{ضرب زيد عمراً})                | Akumulasi bertahap (teknik Madinah method) + kosakata matn secara progresif |
 | Latihan tulis        | Hafalan matn, syarah lisan                          | Drill produktif: pemisahan kata, terjemah dua arah, i'rab tertulis         |
 
 Teknik delivery — terutama akumulasi vocabulary bertahap, drill produktif, dan pacing dewasa pemula — meminjam pelajaran dari **Madinah method** (V. Abdur Rahim). Madinah bukan backbone konten dalam paket ini; matn klasiklah backbonenya. Madinah berfungsi sebagai sumber teknik pengajaran modern.
