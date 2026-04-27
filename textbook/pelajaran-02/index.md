@@ -23,9 +23,9 @@ Setelah Islam datang dan menyebar, terjadi dua hal besar:
 
 Para ulama saat itu mengkhawatirkan satu hal yang sangat penting: *jika bahasa Arab terus terkikis, bagaimana umat Islam akan membaca Al-Qur'an dengan benar?* Salah baca harakat akhir kata bisa mengubah makna ayat. Kekhawatiran ini bukan akademik --- ini menyentuh pokok agama.
 
-## Imam Ali ra dan Abu al-Aswad ad-Du'ali
+## Ali bin Abi Thalib \ar{رضي الله عنه} dan Abu al-Aswad ad-Du'ali
 
-Riwayat masyhur menyebutkan bahwa Imam Ali bin Abi Thalib ra (w. 40H) menggariskan kerangka awal ilmu nahwu kepada muridnya, Abu al-Aswad ad-Du'ali (w. 69H). Kalimat pembuka yang tercatat dalam riwayat:
+Riwayat masyhur menyebutkan bahwa Ali bin Abi Thalib \ar{رضي الله عنه} (w. 40H) menggariskan kerangka awal ilmu nahwu kepada muridnya, Abu al-Aswad ad-Du'ali (w. 69H). Kalimat pembuka yang tercatat dalam riwayat:
 
 \ayat{الكَلامُ كُلُّهُ اسْمٌ وَفِعْلٌ وَحَرْفٌ}
 
