@@ -44,7 +44,7 @@ level-1-textbook: textbook/level-1.pdf
 level-1-workbook: workbook/level-1.pdf
 level-1: level-1-textbook
 
-textbook/level-1.pdf: $(LEVEL1_TEXTBOOK_SRCS) _build/header.tex _build/level-1-frontmatter.md
+textbook/level-1.pdf: $(LEVEL1_TEXTBOOK_SRCS) _build/header.tex _build/level-1-frontmatter.md _build/level-1-references.md
 	@mkdir -p _build/cache
 	@cat _build/level-1-frontmatter.md > _build/cache/level-1-textbook.md
 	@for f in $(LEVEL1_TEXTBOOK_SRCS); do \
@@ -52,14 +52,15 @@ textbook/level-1.pdf: $(LEVEL1_TEXTBOOK_SRCS) _build/header.tex _build/level-1-f
 		awk 'state==0 && /^---$$/ {state=1; next} state==1 && /^---$$/ {state=2; next} state==1 {next} {print}' $$f >> _build/cache/level-1-textbook.md; \
 		echo "" >> _build/cache/level-1-textbook.md; \
 	done
+	@cat _build/level-1-references.md >> _build/cache/level-1-textbook.md
 	$(DOCKER_RUN) pandoc \
 		--pdf-engine=xelatex \
 		--include-in-header=_build/header.tex \
-		--toc --toc-depth=2 \
+		--toc \
 		_build/cache/level-1-textbook.md \
 		-o $@
 
-workbook/level-1.pdf: $(LEVEL1_WORKBOOK_SRCS) _build/header.tex _build/level-1-frontmatter.md
+workbook/level-1.pdf: $(LEVEL1_WORKBOOK_SRCS) _build/header.tex _build/level-1-frontmatter.md _build/level-1-references.md
 	@mkdir -p _build/cache
 	@cat _build/level-1-frontmatter.md > _build/cache/level-1-workbook.md
 	@for f in $(LEVEL1_WORKBOOK_SRCS); do \
@@ -67,10 +68,11 @@ workbook/level-1.pdf: $(LEVEL1_WORKBOOK_SRCS) _build/header.tex _build/level-1-f
 		awk 'state==0 && /^---$$/ {state=1; next} state==1 && /^---$$/ {state=2; next} state==1 {next} {print}' $$f >> _build/cache/level-1-workbook.md; \
 		echo "" >> _build/cache/level-1-workbook.md; \
 	done
+	@cat _build/level-1-references.md >> _build/cache/level-1-workbook.md
 	$(DOCKER_RUN) pandoc \
 		--pdf-engine=xelatex \
 		--include-in-header=_build/header.tex \
-		--toc --toc-depth=2 \
+		--toc \
 		_build/cache/level-1-workbook.md \
 		-o $@
 
