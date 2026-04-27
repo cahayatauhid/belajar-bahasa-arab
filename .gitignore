@@ -11,3 +11,4 @@ out/
 *.docx
 *.pptx
 !docs/**/*.pdf
+_build/cache/
