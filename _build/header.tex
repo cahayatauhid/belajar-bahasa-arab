@@ -12,6 +12,10 @@
 
 \usepackage{parskip}
 
+% Spasi item dalam list (override pandoc \tightlist agar item yang wrap
+% ke baris berikutnya jelas terbedakan dari item baru)
+\AtBeginDocument{\renewcommand{\tightlist}{\setlength{\itemsep}{0.4em}\setlength{\parskip}{0pt}}}
+
 % Ayat Al-Qur'an: rata tengah, RTL otomatis via babel arabic
 \newcommand{\ayat}[1]{%
   \par\medskip%

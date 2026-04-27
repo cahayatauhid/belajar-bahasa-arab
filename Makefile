@@ -85,6 +85,7 @@ DOCS_PANDOC_FLAGS = \
 	--pdf-engine=xelatex \
 	--include-in-header=_build/header.tex \
 	--toc --toc-depth=2 \
+	--shift-heading-level-by=-1 \
 	-V papersize=a4 \
 	-V geometry:margin=2.5cm \
 	-V mainfont="TeX Gyre Pagella" \

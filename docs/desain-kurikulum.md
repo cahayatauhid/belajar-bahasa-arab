@@ -64,14 +64,17 @@ Tujuan akhir ini tidak tercapai dalam satu level — pembagian per level dijabar
 Konten dan otoritas pelajaran berakar pada matn klasik:
 
 **Sisi nahwu:**
+
 - **Al-Jurumiyyah** (Ibn Ajurrum, w. 723H) — primer nahwu standar yang dipakai di dunia Islam selama 700+ tahun
 - **Qotrun Nada wa Ballush Shoda** (Ibn Hisyam al-Anshari, w. 761H) — kelanjutan setelah Jurumiyyah, mendalami i'rab tingkat menengah
 
 **Sisi shorf:**
+
 - **Tashrif al-'Izzi** (Izzudin az-Zinjani, w. 655H) — primer shorf klasik standar; menyajikan tashrif fi'il untuk wazan-wazan utama secara sistematis
 - **Lamiyyah al-Af'al** (Ibn Malik, w. 672H) — qasidah klasik (~70 bait) tentang tashrif fi'il dan i'lal; jangkar mental untuk i'lal komprehensif (qalb, hadzaf, iskan, ibdal)
 
 **Capstone (nahwu + shorf integrasi):**
+
 - **Alfiyah Ibn Malik** (Ibn Malik, w. 672H) — urjuzah ~1000 bait yang menyatukan nahwu dan shorf secara komprehensif; standar lanjutan dalam tradisi pesantren dan ma'had
 
 Kelima matn diadopsi sebagai *referensi utama*: setiap konsep gramatikal dilabeli dengan bagian matn klasik yang relevan. Matn aslinya diperkenalkan progresif: Level 1 peserta sudah membaca seluruh matn *Jurumiyyah* sebagai overview dan diperkenalkan dengan struktur dasar *al-'Izzi*; Level 2 mendalami *Jurumiyyah* dengan perkecualian, sambil menyelesaikan tashrif fi'il di *al-'Izzi*; Level 3 melanjutkan dengan *Qotrun Nada* paruh pertama dan *Lamiyyah al-Af'al* untuk i'lal; Level 4 menyelesaikan *Qotrun Nada* serta workshop *insya'* dan listening; Level 5 (mahir) mengkhatamkan *Alfiyah Ibn Malik* sebagai integrasi penguasaan klasik. Setelah paket lengkap, peserta secara sahih dapat mengatakan bahwa mereka telah mempelajari *Jurumiyyah*, *Qotrun Nada*, *Tashrif al-'Izzi*, *Lamiyyah al-Af'al*, dan *Alfiyah Ibn Malik*.
@@ -97,12 +100,14 @@ Teknik delivery — terutama akumulasi vocabulary bertahap, drill produktif, dan
 Contoh: *Al-Arabiyyah Bayna Yadayk*, kursus berbasis aplikasi (Memrise, Duolingo Arabic), kelas Arabic for Beginners di lembaga bahasa modern.
 
 Karakteristik:
+
 - Fokus pada interaksi lisan: sapaan, transaksi, pertanyaan sehari-hari
 - Vocabulary bahasa Arab modern kontemporer (mobil, telepon, restoran, bandara)
 - Grammar diperkenalkan secara induktif dari konteks dialog
 - Hasil: mampu berkomunikasi dalam bahasa Arab modern
 
 Tidak dipilih karena:
+
 - Tujuan akhir audiens adalah tertulis (Quran, hadits, kitab), bukan lisan
 - Vocabulary percakapan modern beririsan kecil dengan teks klasik (kira-kira 10–20% overlap untuk kata-kata umum)
 - Grammar induktif lambat untuk dewasa yang ingin bimbingan bertahap yang eksplisit; menambah waktu belajar tanpa menambah kemampuan baca teks klasik
@@ -113,11 +118,13 @@ Tidak dipilih karena:
 Contoh: *Amtsilati*, *Al-Jurumiyyah*, *Alfiyah Ibn Malik*, kurikulum salafiyah.
 
 Karakteristik:
+
 - Sequence Sharaf (morfologi) → Nahwu (sintaks) → aplikasi pada teks
 - Penguasaan kaidah gramatikal sangat mendalam
 - Hasil: mampu meng-i'rab teks klasik dengan kaidah lengkap
 
 Tidak dipilih karena:
+
 - Mengasumsikan santri muda dengan waktu belajar penuh (jam terbang harian sangat tinggi)
 - Penjelasan kaidah memakai istilah teknis Arab dan kerangka fiqh-bahasa yang asing bagi peserta tanpa background
 - Kurva sangat curam tanpa jembatan bertahap ke bahasa native
@@ -128,6 +135,7 @@ Walau begitu, sebagian referensi gramatikal pesantren akan dipakai sebagai sumbe
 ### Madinah Method (V. Abdur Rahim)
 
 Karakteristik:
+
 - Tiga buku, kira-kira tiga tahun belajar
 - Buku 1 bilingual ringan, Buku 2–3 monolingual Arabic
 - Vocabulary akumulatif, kalimat contoh netral (rumah, masjid, pena, kitab)
@@ -148,6 +156,7 @@ Setiap level diorganisir dengan satu *tujuan utama* yang jelas — kemampuan uta
 **Backbone matn**: peta lengkap nahwu (overview seluruh kategori *Jurumiyyah*) + pengantar *Tashrif al-'Izzi* (wazan tsulatsi mujarrad dan mazid + makna pokok).
 
 **Hasil**:
+
 - *Reading* — meng-i'rab kalimat Arab normal di Al-Fatihah, hadits Arba'in pendek, paragraf kitab pemula; sudah membaca seluruh matn *Jurumiyyah* dengan i'rab dipandu (overview)
 - *Writing* — tulis huruf hijaiyah dengan benar (sambung dan terpisah); terjemah Indonesia→Arab pada semua kategori dasar (jumlah ismiyyah, fi'liyyah, dengan dhamir dan idhafah)
 - *Listening* — kenali kosakata pelajaran saat diucapkan; pahami kalimat sederhana tempo lambat-sedang
@@ -162,6 +171,7 @@ Setiap level diorganisir dengan satu *tujuan utama* yang jelas — kemampuan uta
 **Backbone matn**: *Jurumiyyah* dalam detail penuh (semua perkecualian dan kasus khusus per kategori) + *Tashrif al-'Izzi* untuk tashrif fi'il mujarrad dan mazid komprehensif.
 
 **Hasil**:
+
 - *Reading* — i'rab detail kalimat di Quran (ayat dengan struktur kompleks), hadits panjang, paragraf awal kitab pemula
 - *Writing* — paragraf 5–8 kalimat; terjemah Indonesia→Arab tingkat menengah
 - *Listening* — ikut narasi pendek dan durus pemula dengan kosakata familiar
@@ -176,6 +186,7 @@ Setiap level diorganisir dengan satu *tujuan utama* yang jelas — kemampuan uta
 **Backbone matn**: *Qotrun Nada* paruh pertama (mu'rab/mabni komprehensif, marfu'at/manshubat lanjutan) + shorf i'lal (qalb, hadzaf, iskan) dan fi'il mu'tal komprehensif.
 
 **Hasil**:
+
 - *Reading* — kitab pemula komplit (*Akhlak lil-Banin*, *Tsalatsatul Ushul*); matn *Qotrun Nada* paruh pertama
 - *Writing* — esai singkat, ringkasan paragraf kitab dalam bahasa Arab
 - *Listening* — ceramah pendek pada topik familiar yang dibawakan dalam fusha
@@ -190,6 +201,7 @@ Setiap level diorganisir dengan satu *tujuan utama* yang jelas — kemampuan uta
 **Backbone matn**: *Qotrun Nada* paruh kedua (adad/bilangan, mawshul, isyarah, syarat detail, asma' al-af'al lengkap) + shorf bagian akhir (sifah musyabbahah, mubalaghah ism fa'il, ism makan/zaman/alat) + *Lamiyyah al-Af'al* khataman + workshop *insya'* (composition) dan listening intensif.
 
 **Hasil**:
+
 - *Reading* — *Qotrun Nada* lengkap; hadits panjang dengan i'rab penuh; kitab tingkat menengah (*Riyadush Shalihin*, hadits Bukhari pilihan)
 - *Writing* — ringkasan kitab pemula-menengah dalam Arab fusha (mis. ringkasan *Jurumiyyah*, *Tsalatsatul Ushul*, *Akhlak lil-Banin*)
 - *Listening* — ceramah ulama pada topik klasik dan durus kitab tingkat menengah
@@ -204,6 +216,7 @@ Setiap level diorganisir dengan satu *tujuan utama* yang jelas — kemampuan uta
 **Backbone matn**: *Alfiyah Ibn Malik* lengkap (~1000 bait, ~80 bab; integrasi nahwu + shorf + balaghah dasar).
 
 **Hasil**:
+
 - *Reading* — kitab tingkat lanjut (mis. *Tafsir Jalalain*, *Bulughul Maram* dengan syarah, fiqh muqaran)
 - *Writing* — composition tingkat lanjut; ringkasan kitab tingkat menengah dalam Arab fusha
 - *Listening* — ceramah ulama panjang dan durus kitab tingkat menengah-lanjut
@@ -252,12 +265,14 @@ Yang **belum** tercakup di Level 1 (target Level 2 ke atas): detail perkecualian
 ## Stack Produksi, Lembaga, dan Lisensi
 
 **Authoring stack:**
+
 - Sumber: markdown
 - Pipeline textbook dan workbook: pandoc → XeLaTeX → PDF ukuran B5 (printable). XeLaTeX dipakai karena kontrol typography Arab kelas atas (bidi/polyglossia, font Amiri/Scheherazade) dan layout B5 yang presisi
 - Pipeline slide: HTML + CSS + vanilla JavaScript dengan navigasi next/prev keyboard dan tombol; tanpa framework
 - Audio: ditunda. Setelah materi tertulis selesai, sumber listening menggunakan potongan ceramah syeikh dari YouTube (<5 menit per potongan) dengan transcript dan glosari yang ditulis tangan
 
 **Pacing kelas:**
+
 - Frekuensi 1x per minggu, durasi 90 menit per sesi
 - Jumlah sesi per level menyesuaikan cakupan materi (tidak ada batasan kaku)
 
