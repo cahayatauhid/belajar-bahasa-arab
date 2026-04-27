@@ -47,7 +47,7 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 9. Fa'il — jumlah fi'liyyah dasar (kalimat dengan kata kerja di depan, seperti "Membaca Zaid kitab itu")
 10. Naib fa'il — pengganti pelaku dalam kalimat pasif (mis. *Buku itu dibaca*); analogi dengan kalimat pasif dalam Inggris dan Indonesia
 11. Isim *kana wa akhowatuha* dan khabar *inna wa akhowatuha* — pengenalan amal nawasikh (kelompok kata yang mengubah i'rab kalimat ismiyyah)
-12. Tabi' yang marfu' — na'at (kata sifat) dan athaf (penghubung) untuk kata-kata dalam keadaan rafa'
+12. Tabi' yang marfu' — empat jenis tabi' (na'at, athaf, badal, taukid) yang mengikuti kata marfu', dikenalkan di tingkat overview
 
 ### Blok 3 — Manshubat (Sesi 13–18)
 

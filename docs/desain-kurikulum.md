@@ -237,7 +237,7 @@ Cakupan ~33 pelajaran terbagi tujuh blok:
 | Blok                          | Pel.   | Cakupan                                                                                                              |
 |-------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
 | 1. Pengantar dan Motivasi     | 1–7    | Motivasi belajar bahasa Arab; asal usul ilmu nahwu/shorf; hubungan Al-Qur'an dengan bahasa Arab; tulisan Arab; kalam dan kalimah; isim/fi'il/harf; konsep i'rab dan empat keadaan |
-| 2. Marfu'at                   | 8–12   | Mubtada-khabar, fa'il, naib fa'il, isim *kana wa akhowatuha*, khabar *inna wa akhowatuha*, tabi' marfu' (na'at, athaf) |
+| 2. Marfu'at                   | 8–12   | Mubtada-khabar, fa'il, naib fa'il, isim *kana wa akhowatuha*, khabar *inna wa akhowatuha*, tabi' marfu' (na'at, athaf, badal, taukid --- overview) |
 | 3. Manshubat                  | 13–18  | Maf'ul bih, khabar *kana*, isim *inna*, hal, tamyiz, munada, mustathna, maf'ul li-ajlih, tabi' manshub               |
 | 4. Majrurat                   | 19–21  | Harf jarr, idhafah, tabi' majrur                                                                                     |
 | 5. Majzumat                   | 22–24  | Fi'il mudhari (rafa, nashb, jazm), adawat jazm satu fi'il, syarat-jawab                                              |
@@ -253,7 +253,7 @@ Hasil spesifik Level 1:
 - **Listening** — bisa mengenali kosakata setiap pelajaran ketika diucapkan, dan memahami kalimat-kalimat sederhana yang diucapkan dengan tempo lambat sampai sedang
 - **Tata bahasa** — peta lengkap nahwu (i'rab + marfu'at + manshubat + majrurat + majzumat + dhamir) + shorf garis besar (wazan dan makna pokok); cukup untuk mengenali struktur mayoritas kalimat normal
 
-Yang **belum** tercakup di Level 1 (target Level 2 ke atas): detail perkecualian (asma' al-khamsah, asma' al-sittah, mu'rab dengan tanda far'i lengkap, jamak taksir patterns), fi'il mu'tal komprehensif, kasus khusus tabi' (badal, athaf bayan), analisis i'rab kompleks, serta produksi tulisan paragraf bebas dan ringkasan kitab.
+Yang **belum** tercakup di Level 1 (target Level 2 ke atas): detail perkecualian (asma' al-khamsah, asma' al-sittah, mu'rab dengan tanda far'i lengkap, jamak taksir patterns), fi'il mu'tal komprehensif, kategorisasi detail tabi' (na'at sababi vs haqiqi, athaf nasaq vs bayan, kategori badal kompleks, taukid kasus khusus), analisis i'rab kompleks, serta produksi tulisan paragraf bebas dan ringkasan kitab.
 
 ## Cakupan Paket Level 2
 

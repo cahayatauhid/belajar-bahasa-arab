@@ -1,12 +1,12 @@
 ---
-title: "Pelajaran 12 --- Tabi' yang Marfu': Na'at dan Athaf"
+title: "Pelajaran 12 --- Tabi' yang Marfu'"
 subtitle: "Cahaya Tauhid --- Paket Pembelajaran Bahasa Arab Klasik"
 lang: id
 ---
 
-# Tabi' yang Marfu': Na'at dan Athaf
+# Tabi' yang Marfu'
 
-Pelajaran ini menutup Blok 2 (Marfu'at). Sampai di sini kita sudah kenal lima jabatan utama dalam keadaan rafa: mubtada, khabar, fa'il, naib fa'il, isim kana, dan khabar inna. Ada satu kategori lagi yang perlu dikenal: **tabi'** (\ar{تَوَابِعُ}, "yang ikut") --- kata yang **mengikuti i'rab kata sebelumnya**.
+Pelajaran ini menutup Blok 2 (Marfu'at). Sampai di sini kita sudah kenal lima jabatan utama dalam keadaan rafa: mubtada, khabar, fa'il, naib fa'il, isim kana, dan khabar inna. Ada satu kategori lagi yang perlu dikenal: **tabi'** (\ar{تَوَابِعُ}, "yang ikut") --- kata yang **mengikuti i'rab kata sebelumnya**. Empat jenis tabi' (na'at, athaf, badal, taukid) akan dikenalkan semua di tingkat overview.
 
 ## Konsep Tabi'
 
@@ -30,7 +30,7 @@ Ada empat jenis tabi' dalam ilmu nahwu klasik:
 3. **Badal** (\ar{بَدَلٌ}) --- pengganti
 4. **Taukid** (\ar{تَوْكِيدٌ}) --- penegasan
 
-Untuk Level 1, kita fokus pada **na'at** dan **athaf** --- dua jenis yang paling sering muncul. Badal dan taukid akan diperkenalkan di Level 2.
+Sesuai prinsip Level 1 (peta gramatikal lengkap di tingkat overview), kita kenalkan keempatnya secara ringkas. Kategorisasi detail dan kasus khusus per jenis ditangani di Level 2.
 
 ## Na'at (Kata Sifat)
 
@@ -129,6 +129,75 @@ Kalau ma'thuf 'alaih majrur, ma'thuf juga majrur:
 
 > "Saya melewati Zayd dan Amr" --- keduanya majrur.
 
+## Badal (Pengganti)
+
+\ar{بَدَلٌ} (badal) adalah **kata yang menggantikan kata sebelumnya**, di mana yang sebenarnya dimaksud adalah kata pengganti tersebut. Kata yang digantikan disebut **mubdal minhu** (\ar{مُبْدَلٌ مِنْهُ}, "yang darinya digantikan").
+
+Beda dengan na'at: na'at *menyifati* (memberi sifat tambahan), sementara badal *menggantikan* (yang dimaksud sebenarnya adalah badalnya).
+
+Contoh:
+
+\ar{جَاءَ أَخُوكَ زَيْدٌ}
+
+> "Datang saudaramu, Zayd"
+
+- \ar{أَخُوكَ} --- fa'il (mubdal minhu), marfu'
+- \ar{زَيْدٌ} --- badal, juga marfu' (mengikuti i'rab mubdal minhu)
+
+Yang dimaksud pembicara sebenarnya adalah Zayd; "saudaramu" hanya pengantar untuk menjelaskan siapa.
+
+### Empat Jenis Badal
+
+Ulama membagi badal menjadi empat:
+
+1. **Badal mutabiq** (\ar{بَدَلٌ مُطَابِقٌ}) --- badal sama dengan mubdal minhu (sinonim atau identitas). Mis. *"saudaramu, Zayd"* --- mereka satu orang.
+2. **Badal ba'dh min kull** (\ar{بَدَلُ بَعْضٍ مِنْ كُلٍّ}) --- bagian dari keseluruhan. Mis. \ar{أَكَلْتُ الرَّغِيفَ ثُلُثَهُ} ("Saya makan rotinya, sepertiganya") --- "sepertiganya" adalah bagian dari roti.
+3. **Badal isytimal** (\ar{بَدَلُ اشْتِمَالٍ}) --- terkait/bagian abstrak. Mis. \ar{أَعْجَبَنِي زَيْدٌ عِلْمُهُ} ("Aku kagum kepada Zayd, ilmunya") --- "ilmunya" adalah aspek terkait dengan Zayd.
+4. **Badal mubayyin** (\ar{بَدَلٌ مُبَايِنٌ}) --- jenis langka, jarang dipakai. Detail ditangani di Level 2.
+
+Untuk Level 1, kenali pola umumnya: kalau ada dua isim berturut-turut tanpa harf athaf, dan keduanya merujuk ke obyek/peran yang sama (atau saling terkait), kemungkinan besar yang kedua adalah badal.
+
+## Taukid (Penegasan)
+
+\ar{تَوْكِيدٌ} (taukid) adalah **kata yang menegaskan kata sebelumnya** untuk menghilangkan keraguan atau memperkuat makna. Kata yang ditegaskan disebut **mu'akkad** (\ar{مُؤَكَّدٌ}, "yang ditegaskan").
+
+Beda dengan badal: badal menggantikan; taukid hanya menegaskan tanpa menggantikan.
+
+### Dua Jenis Taukid
+
+**Taukid lafzhi** (\ar{تَوْكِيدٌ لَفْظِيٌّ}) --- pengulangan kata yang sama persis (atau dengan sinonim dekat).
+
+Contoh:
+
+\ar{جَاءَ زَيْدٌ زَيْدٌ}
+
+> "Datang Zayd, Zayd" / "Zayd benar-benar datang"
+
+- \ar{زَيْدٌ} pertama --- fa'il, marfu'
+- \ar{زَيْدٌ} kedua --- taukid lafzhi, juga marfu'
+
+**Taukid ma'nawi** (\ar{تَوْكِيدٌ مَعْنَوِيٌّ}) --- penegasan dengan kata khusus, terutama:
+
+- \ar{نَفْسٌ} (nafs, "diri")
+- \ar{عَيْنٌ} ('ain, "diri/sendiri")
+- \ar{كُلٌّ} (kull, "seluruh / setiap")
+- \ar{جَمِيعٌ} (jami', "semua")
+
+Contoh:
+
+\ar{جَاءَ زَيْدٌ نَفْسُهُ}
+
+> "Datang Zayd sendiri" --- penegasan: yang datang sungguh Zayd, bukan yang lain.
+
+\ar{جَاءَ الْقَوْمُ كُلُّهُمْ}
+
+> "Datang kaum itu, seluruhnya" --- penegasan: tidak ada yang tertinggal.
+
+- \ar{الْقَوْمُ} --- fa'il, marfu'
+- \ar{كُلُّهُمْ} --- taukid ma'nawi, juga marfu'
+
+Untuk Level 1, kenali pola: pengulangan kata identik = taukid lafzhi. Penambahan kata seperti *nafs*, *kull*, *jami'* setelah isim = taukid ma'nawi.
+
 ## Tabi' yang Marfu'
 
 Karena pelajaran ini di Blok 2 (Marfu'at), kita fokus pada kasus **ketika tabi' mengikuti kata yang marfu'** --- maka tabi'nya juga marfu'.
@@ -193,7 +262,11 @@ Untuk pelajaran berikutnya:
    - \ar{قَرَأَ الطَّالِبُ ثُمَّ كَتَبَ}
    - \ar{رَأَيْتُ الرَّجُلَ أَوِ الْمَرْأَةَ}
 
-3. Cari di Al-Fatihah atau surat-surat pendek tiga contoh na'at (tidak harus marfu') dan dua contoh athaf. Tunjukkan kata-katanya dan keadaan i'rabnya.
+3. Untuk kalimat \ar{جَاءَ أَخُوكَ زَيْدٌ}: tunjukkan mubdal minhu dan badal, serta jenis badalnya.
+
+4. Untuk kalimat \ar{جَاءَ الْقَوْمُ كُلُّهُمْ}: tunjukkan mu'akkad dan taukid, serta jenis taukidnya.
+
+5. Cari di Al-Fatihah atau surat-surat pendek tiga contoh na'at (tidak harus marfu') dan dua contoh athaf. Tunjukkan kata-katanya dan keadaan i'rabnya.
 
 ## Penutup Blok 2
 
@@ -204,7 +277,7 @@ Selamat! Anda sudah menyelesaikan Blok 2 (Marfu'at). Yang sudah dikenal:
 - **Naib fa'il** --- pengganti pelaku dalam fi'il majhul
 - **Isim kana** --- bekas mubtada setelah dimasuki kana atau saudaranya
 - **Khabar inna** --- khabar setelah dimasuki inna atau saudaranya
-- **Tabi' marfu**' --- na'at dan athaf yang mengikuti kata marfu'
+- **Tabi' marfu**' --- na'at, athaf, badal, dan taukid yang mengikuti kata marfu'
 
 Enam kategori jabatan --- semua di keadaan rafa. Bersama mereka berbagi penanda yang sama (untuk isim mufrad biasa: dhammah atau dhammatain). Bedanya adalah peran mereka dalam struktur kalimat.
 
