@@ -38,7 +38,7 @@ Na'at (kata sifat) yang menjelaskan man'ut yang majrur --- na'atnya juga majrur.
 - \ar{مَسْجِدٍ} --- majrur dengan kasratain (man'ut, nakirah)
 - \ar{كَبِيرٍ} --- na'at, juga majrur dengan kasratain (sesuai man'ut)
 
-Empat aspek kesesuaian na'at dengan man'ut (i'rab, jenis kelamin, jumlah, kema'rifahan) tetap berlaku.
+Empat aspek kesesuaian na'at dengan man'ut (i'rab, jenis kelamin, jumlah, kekhususan) tetap berlaku.
 
 ## Athaf Majrur
 

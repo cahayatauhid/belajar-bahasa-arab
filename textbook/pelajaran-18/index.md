@@ -38,7 +38,7 @@ Na'at (kata sifat) yang menjelaskan man'ut yang manshub --- na'atnya juga manshu
 - \ar{كِتَابًا} --- maf'ul bih (man'ut), manshub dengan fathatain (nakirah)
 - \ar{مُفِيدًا} --- na'at, juga manshub dengan fathatain (sesuai man'ut: nakirah, mufrad, mudzakkar)
 
-Empat aspek kesesuaian na'at dengan man'ut (Pelajaran 12) tetap berlaku: i'rab, jenis kelamin, jumlah, dan kema'rifahan.
+Empat aspek kesesuaian na'at dengan man'ut (Pelajaran 12) tetap berlaku: i'rab, jenis kelamin, jumlah, dan kekhususan.
 
 ## Athaf Manshub
 
@@ -180,7 +180,7 @@ Di Blok 2 dan 3 kita sudah kenal empat jabatan yang sama-sama "menjelaskan" sesu
 | Yang dijelaskan      | Mubtada             | Isim sebelumnya (man'ut) | Keadaan saat fi'il | Dzat / jenis samar    |
 | Pertanyaan dijawab   | "Apa keadaan mubtada?" | "Yang seperti apa?"  | "Bagaimana keadaannya?" | "Apa? / Jenis apa?" |
 | I'rab                | Marfu' (ikut mubtada) | Mengikuti man'ut     | Selalu manshub       | Selalu manshub        |
-| Kema'rifahan         | Bebas               | Sesuai man'ut          | Selalu nakirah       | Selalu nakirah        |
+| Kekhususan           | Bebas               | Sesuai man'ut          | Selalu nakirah       | Selalu nakirah        |
 | Posisi               | Setelah mubtada     | Langsung setelah man'ut | Setelah kalimat lengkap | Setelah kata yang dijelaskan |
 | Status               | Inti (kalimat tidak lengkap tanpanya) | Tambahan | Tambahan          | Tambahan              |
 
@@ -193,7 +193,7 @@ Alur keputusan saat menemukan kata yang "menjelaskan" sesuatu:
 - **Belum** (tanpa kata ini, kalimat tidak punya makna utuh) → kemungkinan **khabar** (yang melengkapi mubtada). Verifikasi: apakah kata sebelumnya mubtada?
 - **Sudah lengkap** → lanjut ke Langkah 2.
 
-**Langkah 2.** Apakah dia sifat tetap dari isim sebelumnya, dan ikut kema'rifahan man'ut (kalau man'ut ma'rifah, dia ma'rifah; kalau man'ut nakirah, dia nakirah)?
+**Langkah 2.** Apakah dia sifat tetap dari isim sebelumnya, dan ikut kekhususan man'ut (kalau man'ut ma'rifah, dia ma'rifah; kalau man'ut nakirah, dia nakirah)?
 
 - **Ya** → **na'at**. Penanda: ikut i'rab man'ut, ikut ma'rifah/nakirah, ikut jenis dan jumlah.
 - **Tidak** → lanjut ke Langkah 3.
@@ -233,7 +233,7 @@ Untuk tamyiz, biasanya muncul setelah ukuran/jumlah/bilangan. Contoh:
 
 - \ar{عَرَقًا} = **tamyiz** ("bercucuran apa?" --- keringat), manshub.
 
-Kunci: jika ragu, periksa **kema'rifahan** (na'at ikut man'ut; hal/tamyiz selalu nakirah) dan **i'rab** (na'at ikut yang sebelumnya; hal/tamyiz selalu nashb). Kemudian periksa **pertanyaan yang dijawab**.
+Kunci: jika ragu, periksa **kekhususan** (na'at ikut man'ut; hal/tamyiz selalu nakirah) dan **i'rab** (na'at ikut yang sebelumnya; hal/tamyiz selalu nashb). Kemudian periksa **pertanyaan yang dijawab**.
 
 ## Latihan PR
 

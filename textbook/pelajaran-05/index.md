@@ -54,6 +54,65 @@ Catatan: matn pakai istilah **khafd** (\ar{خَفْضٌ}) yang sinonim dengan **
 
 Kalau suatu kata bisa salah satu dari empat hal di atas, dia pasti isim.
 
+### Tentang \ar{ال}: Penanda Kekhususan
+
+Di tanda nomor 1 di atas, \ar{ال} disebut sebagai pemarka isim --- kalau suatu kata bisa dimasuki \ar{ال}, dia pasti isim. Tetapi \ar{ال} bukan sekadar penanda kelas kata; dia punya **makna semantik** sendiri yang penting dipahami.
+
+#### Padanan dengan "the" dalam Bahasa Inggris
+
+\ar{ال} fungsinya mirip dengan kata **"the"** dalam Bahasa Inggris. Bandingkan:
+
+| Tanpa \ar{ال}        | Dengan \ar{ال}       | Inggris (sebanding)     |
+|---------------------|----------------------|-------------------------|
+| \ar{رَجُلٌ}          | \ar{الرَّجُلُ}        | a man → **the** man     |
+| \ar{كِتَابٌ}         | \ar{الْكِتَابُ}       | a book → **the** book   |
+| \ar{بَيْتٌ}          | \ar{الْبَيْتُ}        | a house → **the** house |
+
+Dalam pengajaran Bahasa Inggris di Indonesia, "the" dijelaskan sebagai **kata sandang tertentu** --- kata yang membuat sebuah benda menjadi **tertentu / spesifik** (lawan: "a/an" = kata sandang tak tentu).
+
+\ar{ال} dalam Bahasa Arab punya peran yang sama: dia membuat isim setelahnya menjadi **tertentu** --- yaitu **dikhususkan kepada referensi yang sudah dikenal** dalam konteks pembicaraan.
+
+#### Apa Itu "Kekhususan"?
+
+Sifat yang ditambahkan oleh \ar{ال} disebut **kekhususan** --- artinya: **isim itu merujuk ke sesuatu yang spesifik dan sudah dikenal**, bukan ke sesuatu yang umum atau sembarangan.
+
+Misal:
+
+- \ar{رَجُلٌ} ("seorang lelaki") --- umum, bisa siapa saja, belum dikenal pendengar.
+- \ar{الرَّجُلُ} ("si lelaki itu" / "lelaki tersebut") --- spesifik, sudah ada referensi yang dikenal pendengar.
+
+Identik dengan Bahasa Indonesia ketika kita pakai "**si**" atau "**itu**":
+- "Saya lihat seorang lelaki." (umum, baru disebut --- tanpa \ar{ال})
+- "Si lelaki itu kemudian pergi." (spesifik, sudah disebut sebelumnya --- dengan \ar{ال})
+
+Atau Bahasa Inggris:
+- "I saw **a** man." (a = umum)
+- "**The** man then left." (the = spesifik, the same one mentioned)
+
+> **Catatan penting**: "kekhususan" di sini berarti **"tertentu / spesifik dalam konteks"**, BUKAN "khas / unik" (keunikan). Ma'rifah tidak berarti benda itu unik di seluruh dunia --- hanya tertentu dalam konteks pembicaraan. \ar{الرَّجُلُ} bukan berarti "lelaki paling istimewa", tetapi "si lelaki yang sudah kita maksud / yang sudah dikenal pendengar".
+
+#### Istilah Klasik: Ma'rifah dan Nakirah
+
+Tradisi nahwu klasik memberi nama dua kondisi ini:
+
+- **Ma'rifah** (\ar{مَعْرِفَةٌ}, "yang dikenal") --- isim yang **khusus/tertentu**. Contoh: \ar{الرَّجُلُ}, nama orang \ar{زَيْدٌ}, kata ganti \ar{أَنَا}.
+- **Nakirah** (\ar{نَكِرَةٌ}, "yang tidak dikenal") --- isim yang **umum/sembarangan**. Contoh: \ar{رَجُلٌ}, \ar{كِتَابٌ}, \ar{بَيْتٌ}.
+
+Cara cepat:
+- Ada \ar{ال} di awal? → biasanya **ma'rifah**.
+- Punya tanwin di akhir? → biasanya **nakirah**.
+
+Ada beberapa kategori isim yang **otomatis ma'rifah** tanpa perlu \ar{ال} (mis. nama orang seperti Zayd, kata ganti seperti \ar{أَنَا}, kata tunjuk seperti \ar{هَذَا}). Detail tujuh jenis isim ma'rifah ditangani di Level 2.
+
+#### Konsekuensi: Kekhususan sebagai Kriteria Kesesuaian
+
+Pembedaan ma'rifah/nakirah ini akan jadi **kriteria penting di Pelajaran 12 (na'at)** dan seterusnya: ada jabatan-jabatan yang harus sesuai dalam kekhususan dengan kata yang diikutinya. Artinya: kalau kata pertama ma'rifah, kata yang menyifatinya juga harus ma'rifah; kalau nakirah, sebaliknya.
+
+Untuk Pelajaran 5 ini, cukup pahami:
+1. \ar{ال} = "the" / kata sandang tertentu --- membuat isim jadi **khusus**.
+2. **Ma'rifah** = isim yang khusus (sudah dikenal); **nakirah** = isim yang umum (belum dikenal).
+3. **"Kekhususan"** dalam paket ini berarti "tertentu/spesifik dalam konteks", bukan "keunikan / istimewa".
+
 ## FI'IL (Kata Kerja Terikat Waktu)
 
 \ar{فِعْلٌ} (fi'il) adalah: kata yang menunjukkan makna *yang terikat dengan waktu*.
