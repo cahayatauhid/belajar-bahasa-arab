@@ -68,7 +68,30 @@ Lihat kata \ar{زَيْدٌ} (Zayd) ketika menjabat tiga peran berbeda:
 
 Inti kata "Zayd" tetap sama. Yang berbeda adalah penandanya --- bentuknya menyesuaikan dengan jabatan yang diemban.
 
-Dalam contoh ini, penandanya berbentuk harakat di akhir kata (dhammah, fathah, kasrah, masing-masing dengan tanwin). Ini bentuk penanda yang paling umum untuk isim mu'rab biasa.
+### Urutan Kata Tidak Menentukan Jabatan
+
+Karena penanda jabatan dibawa oleh kata itu sendiri, **urutan kata dalam kalimat tidak menentukan jabatan**. Yang menentukan adalah penanda i'rab.
+
+Lihat dua kalimat berikut:
+
+\ar{ضَرَبَ زَيْدٌ عَمْرًا}
+
+\ar{ضَرَبَ عَمْرًا زَيْدٌ}
+
+Kedua kalimat ini bermakna **sama**: "Zayd memukul Amr". Mengapa? Karena di kedua kalimat:
+
+- \ar{زَيْدٌ} dengan dhammatain --- ditandai sebagai fa'il (subjek)
+- \ar{عَمْرًا} dengan fathatain --- ditandai sebagai maf'ul bih (objek)
+
+Posisi mereka tertukar di kalimat kedua, tetapi penandanya tetap. Pendengar tahu siapa subjek dan siapa objek dari **penanda**, bukan dari urutan.
+
+Bandingkan dengan Indonesia: "Zayd memukul Amr" vs "Amr memukul Zayd" --- maknanya jelas berbeda, karena Indonesia mengandalkan urutan kata. Begitu urutan diubah, jabatan ikut berubah.
+
+Bahasa Arab tidak begitu. Urutan kata bisa fleksibel selama penanda i'rab konsisten dengan jabatan yang dimaksud. Itulah salah satu kekayaan bahasa Arab --- kata bisa didahulukan atau diakhirkan untuk penekanan, struktur tetap jelas.
+
+### Bentuk Penanda Bermacam-Macam
+
+Dalam contoh "Zayd" di atas, penandanya berbentuk harakat di akhir kata (dhammah, fathah, kasrah, masing-masing dengan tanwin). Ini bentuk penanda yang paling umum untuk isim mu'rab biasa.
 
 **Catatan penting**: harakat akhir adalah salah satu *bentuk* penanda i'rab, bukan esensi i'rab. Ada kategori isim lain yang penandanya berupa huruf (misalnya kata mutsanna, jamak mudzakkar salim, asma' al-khamsah), dan kasus lain di mana penandanya berupa pembuangan harakat atau huruf. Variasi-variasi ini akan kita pelajari di Level 2.
 
@@ -76,7 +99,7 @@ Yang penting dipahami sekarang: setiap kata yang ber-i'rab membawa **jabatan**, 
 
 ## Mengapa I'rab Penting?
 
-I'rab adalah mekanisme bahasa Arab untuk mengkomunikasikan struktur kalimat. Tanpa memahami i'rab, struktur tidak dapat dipulihkan dari kalimat --- mana subjek, mana objek, mana keterangan menjadi tidak pasti.
+I'rab adalah mekanisme bahasa Arab untuk mengkomunikasikan struktur kalimat. Tanpa memahami i'rab, struktur kalimat tidak dapat ditentukan --- mana subjek, mana objek, mana keterangan menjadi tidak pasti.
 
 ### Contoh 1: Pembalikan Jabatan
 
@@ -128,6 +151,51 @@ Tidak semua kata membawa penanda i'rab. Yang ber-i'rab disebut **mu'rab**, yang 
 - Harf --- semuanya mabni; harf tidak pernah ber-i'rab
 
 Kategori mu'rab vs mabni akan diperdalam di Level 2.
+
+## Dua Kondisi Khusus: La Mahalla Laha dan Fi Mahalli
+
+Selain kata mu'rab dan mabni, ada dua kondisi khusus terkait i'rab yang baik dikenal sejak awal --- walau detail penerapannya didalami di Level 2 ke atas.
+
+### La Mahalla Lahu Minal I'rab
+
+\ar{لَا مَحَلَّ لَهُ مِنَ الْإِعْرَابِ} (la mahalla lahu minal i'rab) artinya: "tidak punya kedudukan dari i'rab". Yaitu kata atau frasa yang **memang tidak ada hubungannya dengan i'rab sama sekali**.
+
+Yang termasuk:
+
+- **Semua harf** --- harf jarr, harf athaf, harf nida, dan lainnya. Harf tidak ber-i'rab.
+- **Jumlah ibtida'iyyah** --- kalimat pembuka yang berdiri sendiri.
+- **Jumlah mu'taradhah** --- kalimat sisipan (parenthetical) yang tidak menempel pada struktur kalimat utama.
+- Beberapa kategori frasa lain yang akan dipelajari di Level 2.
+
+### Fi Mahalli (Pada Kedudukan)
+
+\ar{فِي مَحَلِّ ...} (fi mahalli...) artinya: "pada kedudukan ..." (rafa, nashb, jarr, atau jazm). Kondisi ini berlaku untuk **kata mabni atau jumlah yang menduduki posisi yang seharusnya ber-i'rab**.
+
+Kata mabni bentuknya tidak berubah berdasarkan jabatan, tetapi dia tetap bisa menjabat sebagai mubtada, fa'il, maf'ul bih, dan sebagainya. Karena bentuknya tidak menampakkan jabatan secara langsung, kita menyebut posisinya secara konseptual.
+
+Contoh: \ar{هَذَا كِتَابٌ} ("Ini adalah kitab").
+
+- \ar{هَذَا} --- isim isyarah, kata mabni; bentuknya tetap.
+- Tetapi dia menjabat sebagai mubtada (subjek).
+- Karena mubtada secara konseptual ada di kedudukan rafa, kita katakan \ar{هَذَا} berada **fi mahalli rafa**' (dalam kedudukan rafa).
+
+Bandingkan dengan: \ar{رَأَيْتُ هَذَا} ("Saya melihat ini").
+
+- \ar{هَذَا} sekarang menjabat sebagai maf'ul bih (objek).
+- Bentuknya tetap (tidak berubah jadi \ar{هَذًا} atau apapun) karena dia mabni.
+- Tetapi posisinya **fi mahalli nashb** (dalam kedudukan nashb).
+
+Hal yang sama berlaku untuk jumlah (kalimat sebagai unit): satu jumlah bisa berfungsi sebagai khabar, sifah, atau hal --- dengan kedudukan i'rab yang konseptual. Detail di Level 2.
+
+### Tiga Status Setiap Kata dalam Kalimat
+
+Dua konsep di atas menegaskan kembali poin pelajaran ini: **i'rab adalah penanda jabatan**, dan jabatan adalah konsep struktural --- bukan sekadar bentuk kata. Setiap kata dalam kalimat masuk salah satu dari tiga status terkait i'rab:
+
+| Status                  | Karakteristik                                            | Contoh                                              |
+|-------------------------|----------------------------------------------------------|-----------------------------------------------------|
+| **Mu'rab**              | Jabatan tampak di bentuknya (penandanya berubah)         | \ar{زَيْدٌ} dengan dhammatain → fa'il di kedudukan rafa |
+| **Mabni fi mahalli**    | Bentuknya tetap, jabatan ada secara konseptual           | \ar{هَذَا} sebagai mubtada → fi mahalli rafa        |
+| **La mahalla lahu**     | Tidak ada hubungan dengan i'rab sama sekali              | Harf seperti \ar{مِنْ}; jumlah ibtida'iyyah         |
 
 ## Empat Keadaan I'rab
 
