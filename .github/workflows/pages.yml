@@ -7,7 +7,7 @@ on:
     paths:
       - 'slides/**'
       - 'textbook/level-*.pdf'
-      - 'workbook/level-*.pdf'
+      - 'workbook/**/*.pdf'
       - 'docs/*.pdf'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
@@ -38,7 +38,7 @@ jobs:
         run: |
           mkdir -p _pages_site
           cp -r slides/* _pages_site/
-          mkdir -p _pages_site/buku _pages_site/docs
+          mkdir -p _pages_site/buku _pages_site/docs _pages_site/workbook
           if [ -f textbook/level-1.pdf ]; then
             cp textbook/level-1.pdf _pages_site/buku/level-1.pdf
           fi
@@ -48,6 +48,12 @@ jobs:
           if [ -f docs/silabus.pdf ]; then
             cp docs/silabus.pdf _pages_site/docs/silabus.pdf
           fi
+          for f in workbook/pelajaran-*/index.pdf; do
+            if [ -f "$f" ]; then
+              pelajaran=$(basename "$(dirname "$f")")
+              cp "$f" "_pages_site/workbook/${pelajaran}.pdf"
+            fi
+          done
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

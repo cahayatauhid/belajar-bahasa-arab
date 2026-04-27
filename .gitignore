@@ -13,4 +13,5 @@ out/
 !docs/**/*.pdf
 !textbook/level-*.pdf
 !workbook/level-*.pdf
+!workbook/pelajaran-*/index.pdf
 _build/cache/
