@@ -200,14 +200,41 @@ Detail per bab dengan tafshil syarat-syaratnya akan diperdalam di **Level 2**.
 
 ## Apa yang Belum Tercakup
 
-Untuk transparansi, beberapa hal yang **belum** tercakup di Level 1 (target Level 2 ke atas):
+Untuk transparansi, beberapa hal yang **belum** tercakup di Level 1, beserta alasan pedagogis penundaannya:
 
-- **Detail perkecualian**: asma' al-khamsah (\ar{أَبٌ، أَخٌ، حَمٌ، فُو، ذُو}), asma' al-sittah, mu'rab dengan tanda far'i (mutsanna, jamak mudzakkar salim, jamak mu'annats salim, asma' ghair munsharif)
-- **Fi'il mu'tal komprehensif** --- fi'il yang akarnya mengandung huruf 'illah (alif, waw, ya')
-- **Kategorisasi detail tabi'** --- na'at sababi vs haqiqi, athaf nasaq vs bayan, kategori badal kompleks, taukid kasus khusus
-- **Tashrif lughawi lengkap untuk tiap wazan** --- akan dilatih di Level 2 dengan matn al-'Izzi
-- **I'rab bersarang kompleks** --- ketika beberapa kalimat saling tergabung
-- **Produksi tulisan paragraf bebas** dan ringkasan kitab --- target Level 4
+### Detail Tanda I'rab Far'i
+
+Belum dibahas: asma' al-khamsah (\ar{أَبٌ، أَخٌ، حَمٌ، فُو، ذُو}) dan asma' al-sittah, mutsanna, jamak mudzakkar salim, jamak mu'annats salim, asma' ghair munsharif --- semuanya kategori isim yang tanda i'rabnya bukan harakat dasar (dhammah/fathah/kasrah) melainkan tanda far'i (huruf alif/ya'/waw, hadzfun nun, dst.).
+
+**Alasan penundaan**: Level 1 fokus mengenali peta jabatan i'rab. Tanda far'i adalah variasi penanda untuk jabatan yang sama --- konseptual mirip tetapi kasus-per-kasus. Lebih efisien dipelajari setelah peta jabatan utama mantap. Target: **Level 2 Blok 1** (Sesi 1--5).
+
+### Fi'il Mu'tal dan I'lal Komprehensif
+
+Belum dibahas detail: aturan i'lal --- perubahan huruf 'illat (\ar{ا، و، ي}) sesuai konteks (hadhf, ibdal, idgham, iqlab) untuk fi'il mu'tal (mitsal, ajwaf, naqish, lafif).
+
+**Alasan penundaan**: aturan i'lal **kompleks dan saling berinteraksi**. Sulit dipelajari abstrak tanpa pengalaman membaca. Strategi paket: di Level 1 peserta dikenalkan **konsep** mu'tal (Pelajaran 30) sehingga tidak kebingungan saat menemui pola di Quran; **detail aturan** diformalkan di **Level 3 Blok 5** (Sesi 27--36) dengan matn **Lamiyyah al-Af'al** karya Ibn Malik --- matn klasik khusus i'lal.
+
+### Kategorisasi Detail Tabi'
+
+Belum dibahas: na'at sababi vs haqiqi, athaf nasaq vs bayan, empat kategori badal terinci (mutabiq, ba'dh min kull, isytimal, ghalath), kasus khusus taukid.
+
+**Alasan penundaan**: Level 1 membahas tabi' di tingkat overview --- cukup untuk mengenali jabatan dan i'rab. Pembedaan halus (mis. na'at sababi yang menyifati melalui hubungan, bukan langsung) jarang muncul di teks pemula. Target: **Level 2 Blok 2** (Sesi 13).
+
+### Tashrif Lughawi Lengkap Tiap Wazan
+
+Belum dilakukan: tashrif penuh (12--14 bentuk) untuk tiap wazan tsulatsi mazid.
+
+**Alasan penundaan**: Level 1 mengenal **wazan dan makna utama**; tashrif lughawi penuh (per pelaku) adalah pekerjaan repetitif yang lebih efektif dilakukan setelah wazan dasar dikenali. Akan dilatih sistematis di **Level 2 Blok 6** (Sesi 32--41) dengan matn **Tashrif al-'Izzi**.
+
+### I'rab Bersarang Kompleks dan Produksi Tulisan
+
+Belum dibahas: i'rab kompleks ketika beberapa jumlah saling tergabung sebagai mahalli, na'at jumlah, hal jumlah, idhafah berlapis lebih dari dua tingkat. Produksi tulisan paragraf bebas dan ringkasan kitab.
+
+**Alasan penundaan**: pemahaman komposisi kompleks butuh latihan baca terpandu yang panjang. Produksi tulisan butuh kosakata, idiom, dan rasa bahasa yang terbangun dari banyak bacaan. Target: **Level 2--3** untuk i'rab kompleks; **Level 4 Blok 4** untuk insya' / komposisi.
+
+### Filosofi Penundaan
+
+Penundaan bukan untuk "menyembunyikan" materi atau membuat curriculum lebih mudah. Sebaliknya, mengikuti prinsip **menyeluruh dulu, baru mendalam**: peserta yang punya peta lengkap di kepala lebih efektif belajar detail karena setiap detail bisa dilekatkan ke posisinya dalam peta. Detail tanpa peta = peserta hafal aturan tetapi tidak tahu kapan/mengapa berlaku.
 
 ## Yang Sudah Bisa Anda Lakukan
 

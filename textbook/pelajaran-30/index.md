@@ -128,6 +128,62 @@ Untuk tsulatsi mujarrad:
 
 Detail mashdar (yang punya banyak pola) dan turunan lainnya akan dibahas di Pelajaran 34. Untuk Pelajaran 30 ini, kenali bahwa tsulatsi mujarrad menghasilkan turunan-turunan ini dengan pola tetap.
 
+## Catatan: Fi'il Mu'tal
+
+Sampai sini contoh wazan yang kita pakai (\ar{كَتَبَ}, \ar{ضَرَبَ}, \ar{عَلِمَ}, dst.) semuanya berakar **shahih** --- ketiga hurufnya konsonan kuat. Tetapi banyak fi'il bahasa Arab berakar dengan **huruf 'illat** (\ar{حُرُوفُ العِلَّةِ}) --- yaitu salah satu dari tiga huruf "lemah":
+
+\ar{ا}, \ar{و}, \ar{ي}
+
+Fi'il dengan huruf 'illat di akarnya disebut **fi'il mu'tal** (\ar{فِعْلٌ مُعْتَلٌّ}). Fi'il ini sangat sering muncul di Quran --- bahkan kosakata terbanyak di Juz 30 mengandung mu'tal.
+
+### Tiga Kategori Fi'il Mu'tal
+
+| Kategori    | Posisi huruf 'illat   | Contoh                              |
+|-------------|-----------------------|-------------------------------------|
+| **Mitsal**  | Awal akar             | \ar{وَعَدَ} (berjanji), \ar{وَجَدَ} (menemukan) |
+| **Ajwaf**   | Tengah akar           | \ar{قَالَ} (berkata), \ar{كَانَ} (adalah), \ar{بَاعَ} (menjual) |
+| **Naqish**  | Akhir akar            | \ar{دَعَا} (memanggil), \ar{رَأَى} (melihat), \ar{أَتَى} (datang) |
+
+Plus **lafif** --- akar dengan dua huruf 'illat (jarang). Contoh: \ar{وَفَى} (memenuhi).
+
+### Contoh dari Quran
+
+Banyak fi'il di Quran adalah mu'tal:
+
+\ayat{قَالَ رَبِّ}
+
+\ar{قَالَ} dari akar \ar{ق}-\ar{و}-\ar{ل}, ajwaf (waw di tengah). Pola kelihatan berbeda: madhi-nya \ar{قَالَ} (alif di tengah, bukan waw asli) dan mudhari-nya \ar{يَقُولُ} (waw kembali). Ini **i'lal** --- perubahan huruf 'illat sesuai konteks.
+
+\ayat{وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ}
+
+\ar{أَوْحَى} dari akar \ar{و}-\ar{ح}-\ar{ي}, lafif (waw di awal + ya' di akhir). Pola kompleks dengan dua huruf 'illat.
+
+\ayat{ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ}
+
+\ar{ادْعُ} (amr) dari akar \ar{د}-\ar{ع}-\ar{و}, naqish. Madhi: \ar{دَعَا}; mudhari: \ar{يَدْعُو}; amr: \ar{ادْعُ} (huruf 'illat akhir terbuang sebagai tanda jazm/amr).
+
+### Mengapa Detail Ditunda
+
+Aturan i'lal --- perubahan huruf 'illat sesuai konteks --- **kompleks dan saling berinteraksi**. Beberapa aturan utama:
+
+- **Hadhf** (penghapusan huruf 'illat dalam keadaan jazm)
+- **Ibdal** (substitusi huruf 'illat dengan huruf lain)
+- **Idgham** (penggabungan dua huruf yang sama)
+- **Iqlab** (perubahan posisi huruf)
+
+Banyaknya aturan dan saling-pengaruhnya membuat i'lal sulit dipelajari secara abstrak tanpa pengalaman membaca terlebih dulu. **Strategi paket ini**: Level 1 cukup mengenali bahwa mu'tal ada; peserta membaca Quran dengan mu'tal dan terbiasa dengan polanya secara empiris. Detail aturan diformalkan di **Level 3** dengan matn **Lamiyyah al-Af'al** karya Ibn Malik --- matn klasik khusus untuk fi'il mu'tal dan i'lal-nya.
+
+### Untuk Level 1: Yang Cukup Diingat
+
+Saat membaca Quran dan menemukan fi'il yang polanya tidak persis cocok dengan tabel wazan di pelajaran ini:
+
+1. **Cek apakah ada huruf 'illat (\ar{ا، و، ي}) di akarnya** --- kalau iya, itu fi'il mu'tal.
+2. **Tentukan kategorinya** --- mitsal, ajwaf, naqish.
+3. **Jangan kaget** kalau bentuk madhi/mudhari berbeda dari pola wazan dasar --- itu konsekuensi i'lal.
+4. **Lanjutkan terjemahan dan i'rab dengan informasi yang ada** --- detail i'lal-nya bisa diteliti di Level 3.
+
+Dengan kesadaran ini, peserta tidak terjebak menyangka tabel wazan Level 1 "salah" atau "tidak berlaku" untuk Quran --- tabel berlaku untuk akar shahih, dan mu'tal punya jalur paralel yang akan dipelajari secara sistematis nanti.
+
 ## Contoh dari Al-Qur'an
 
 **Surat Al-'Alaq 96:1-3:**
