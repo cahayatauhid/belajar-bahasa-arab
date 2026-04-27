@@ -253,7 +253,7 @@ Hasil spesifik Level 1:
 - **Listening** — bisa mengenali kosakata setiap pelajaran ketika diucapkan, dan memahami kalimat-kalimat sederhana yang diucapkan dengan tempo lambat sampai sedang
 - **Tata bahasa** — peta lengkap nahwu (i'rab + marfu'at + manshubat + majrurat + majzumat + dhamir) + shorf garis besar (wazan dan makna pokok); cukup untuk mengenali struktur mayoritas kalimat normal
 
-Yang **belum** tercakup di Level 1 (target Level 2 ke atas): detail perkecualian (asma' al-khamsah, asma' al-sittah, mu'rab dengan tanda far'i lengkap, jamak taksir patterns), fi'il mu'tal komprehensif, kategorisasi detail tabi' (na'at sababi vs haqiqi, athaf nasaq vs bayan, kategori badal kompleks, taukid kasus khusus), analisis i'rab kompleks, serta produksi tulisan paragraf bebas dan ringkasan kitab.
+Yang **belum** tercakup di Level 1 (target Level 2 ke atas): detail perkecualian (asma' al-khamsah, asma' al-sittah, mu'rab dengan tanda far'i lengkap, jamak taksir patterns) → Level 2; aturan i'lal komprehensif (qalb, hadzaf, iskan, ibdal) dan fi'il mu'tal detail per kategori (mitsal, ajwaf, naqish, lafif) → Level 3 via *Lamiyyah al-Af'al* (di Level 1 hanya konsep mu'tal yang dikenalkan agar peserta tidak kebingungan saat menemui pola di Quran); kategorisasi detail tabi' (na'at sababi vs haqiqi, athaf nasaq vs bayan, kategori badal kompleks, taukid kasus khusus) → Level 2; analisis i'rab kompleks → Level 2--3; serta produksi tulisan paragraf bebas dan ringkasan kitab → Level 4.
 
 ## Cakupan Paket Level 2
 
@@ -317,7 +317,7 @@ Cakupan ~40 pelajaran terbagi lima blok:
 
 | Blok                                       | Pel.   | Cakupan                                                                                                                                  |
 |--------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. QN Bagian Lanjutan                      | 1–10   | Mafa'il review komprehensif, mustathna detail, adad/bilangan, murakkab (adadi, mazji, isnadi), mawshul lengkap, asma' isyarah lengkap, asma' istifham, isim syarat, asma' al-af'al, munada |
+| 1. QN Bagian Lanjutan                      | 1–10   | Mafa'il review komprehensif, mustathna detail, adad detail (kasus murakkab adadi/mazji/isnadi, ordinal, fractional, kasus khusus 100--1000) sebagai pendalaman dari overview Level 1 Pelajaran 22, mawshul lengkap, asma' isyarah lengkap, asma' istifham, isim syarat, asma' al-af'al, munada |
 | 2. Tashrif Lanjutan dan I'lal Komprehensif | 11–18  | I'lal qalb/hadzaf/iskan semua case, idgham wajib/ja'iz, hamzah qatha'/washl, imalah/tafkhim, tashrif kombinasi i'lal kompleks, mashdar sima'i, sifah musyabbahah, mubalaghah, ism makan/zaman/alat, khataman *Lamiyyah al-Af'al* |
 | 3. Pembacaan Kitab Tingkat Menengah        | 19–26  | *Riyadush Shalihin* bab pilihan, hadits Bukhari pilihan, khataman *Akhlak lil-Banin*                                                     |
 | 4. Composition / Insya'                    | 27–34  | Pengenalan insya', konstruksi paragraf Arab, conjunction dan transition, paragraf deskriptif/naratif, ringkasan paragraf kitab, ringkasan bab kitab, workshop ringkasan *Jurumiyyah* |
@@ -359,6 +359,108 @@ Hasil spesifik Level 5:
 - **Tata bahasa** — i'rab tingkat lanjut termasuk kasus klasik dan exception langka
 
 Khataman *Alfiyah Ibn Malik* adalah pencapaian klasik tingkat ulama --- peserta yang menyelesaikan Level 5 telah berdiri dalam tradisi keilmuan Arab klasik yang sambung-menyambung sampai ke generasi awal Islam.
+
+## Pemetaan Matn ke Pelajaran
+
+Tabel berikut menunjukkan **matn klasik mana** yang dikutip atau dirujuk pada tiap pelajaran. Tujuan: peserta dan pengajar dapat memverifikasi klaim "paket ini menggunakan matn al-Jurumiyyah / Tashrif al-'Izzi sebagai referensi" --- klaim yang konkret, bukan jargon.
+
+### Level 1 (Pelajaran 1--34)
+
+| Pelajaran | Topik                                | Matn Rujukan                                                                         |
+|-----------|--------------------------------------|--------------------------------------------------------------------------------------|
+| 1--4      | Pengantar, motivasi, tulisan Arab    | (Pengantar; tidak ada bab matn yang relevan)                                         |
+| 5         | Tiga jenis kalimah                   | *Jurumiyyah*: Bab al-Kalam (kutipan langsung definisi kalam, tanda isim, fi'il, harf)|
+| 6         | Pengertian i'rab                     | *Jurumiyyah*: Bab al-I'rab (kutipan langsung definisi i'rab dan "lafzhan aw taqdiran")|
+| 7         | Empat keadaan i'rab                  | *Jurumiyyah*: Bab al-I'rab lanjutan (kutipan empat aqsam: rafa', nashb, khafd, jazm) |
+| 8         | Mubtada-khabar                       | *Jurumiyyah*: Bab al-Marfu'at (peta lengkap 7 marfu'at) + Bab al-Mubtada wal-Khabar  |
+| 9         | Fa'il                                | *Jurumiyyah*: Bab al-Fa'il (kutipan langsung definisi)                               |
+| 10        | Naib fa'il                           | *Jurumiyyah*: Bab al-Maf'ul al-Ladzi Lam Yusamma Fa'iluhu                            |
+| 11        | Kana wa akhowatuha + Inna            | *Jurumiyyah*: Bab al-'Awamil ad-Dakhilah 'ala al-Mubtada wal-Khabar                  |
+| 12        | Tabi' marfu'                         | *Jurumiyyah*: Bab al-Marfu'at akhir (4 jenis tabi') + Bab al-Na'at, al-'Athf, al-Tawkid, al-Badal |
+| 13        | Maf'ul bih                           | *Jurumiyyah*: Bab al-Manshubat (peta lengkap 15 manshubat) + Bab al-Maf'ul bih       |
+| 14        | Khabar kana, isim inna               | *Jurumiyyah*: Bab al-'Awamil (review dari sisi nashb)                                |
+| 15        | Hal                                  | *Jurumiyyah*: Bab al-Hal                                                              |
+| 16        | Tamyiz                               | *Jurumiyyah*: Bab al-Tamyiz                                                           |
+| 17        | Munada, mustathna, maf'ul li-ajlih, maf'ul ma'ah | *Jurumiyyah*: Bab al-Munada, al-Istisna', al-Maf'ul min Ajlih, al-Maf'ul Ma'ah, La Nafiyatul Jins |
+| 18        | Tabi' manshub + sintesis pembanding  | *Jurumiyyah*: Bab al-Manshubat akhir (4 jenis tabi'); plus tabel pembanding khabar/na'at/hal/tamyiz |
+| 19        | Harf jarr                            | *Jurumiyyah*: Bab al-Makhfudhat + Bab al-Khafd (kutipan daftar 14 harf jarr)         |
+| 20        | Idhafah                              | *Jurumiyyah*: Bab al-Idhafah (kutipan dua makna: lamiyyah, bayaniyyah)               |
+| 21        | Tabi' majrur                         | *Jurumiyyah*: Bab al-Makhfudhat akhir                                                 |
+| 22        | Adad dan ma'dud                      | *Jurumiyyah* tidak punya Bab al-Adad terpisah; sintesis dari Bab al-Tamyiz + Bab al-Idhafah. Detail: *Qotrun Nada* dan *Alfiyah* (referensi forward) |
+| 23        | Fi'il mudhari mu'rab                 | *Jurumiyyah*: Bab al-Af'al (kutipan langsung definisi tiga fi'il + mnemonic *anaytu*) |
+| 24        | Adawat jazm satu fi'il               | *Jurumiyyah*: Bab al-Majzumat + Bab al-Jawazim (kutipan kategori "yang menjazmkan satu fi'il") |
+| 25        | Adawat syarat                        | *Jurumiyyah*: Bab al-Jawazim lanjutan (kutipan daftar 13 adat syarat)                |
+| 26        | Dhamir munfashil                     | *Jurumiyyah*: Bab al-Fa'il (singgung dhamir munfashil) + tabel ekstra dari konvensi nahwu klasik |
+| 27        | Dhamir muttashil                     | (Tersebar di Jurumiyyah; tabel komprehensif diadopsi dari Tashrif al-'Izzi)          |
+| 28        | Dhamir mustatir                      | (Implisit di Jurumiyyah; konsep wajib/jaiz dari Qotrun Nada --- preview)             |
+| 29        | Tashrif madhi/mudhari/amr            | *Jurumiyyah*: Bab al-Af'al (review) + pengenalan *Tashrif al-'Izzi* sebagai matn rujukan shorf |
+| 30        | Tsulatsi mujarrad + konsep mu'tal    | *Tashrif al-'Izzi*: empat wazan dasar; preview konsep mu'tal --- forward ke *Lamiyyah al-Af'al* (Level 3) |
+| 31        | Tsulatsi mazid bi-harf wahid         | *Tashrif al-'Izzi*: af'ala, fa''ala, faa'ala dengan wazan dan makna utama            |
+| 32        | Tsulatsi mazid bi-harfain            | *Tashrif al-'Izzi*: lima wazan (tafa''ala, tafa'ala, ifta'ala, infa'ala, if'alla)    |
+| 33        | Tsulatsi mazid bi-tsalatsah ahruf    | *Tashrif al-'Izzi*: istaf'ala + tiga wazan jarang                                    |
+| 34        | Mashdar, ism fa'il, ism maf'ul + penutup | *Tashrif al-'Izzi*: pola mashdar dan turunan; review keseluruhan Level 1 + bacaan overview matn *Jurumiyyah* |
+
+Catatan: kutipan matn ditampilkan menggunakan command `\hadits{...}` di textbook (font Amiri Quran, layout center). Tiap kutipan diikuti terjemahan Indonesia. Pelajaran 5--34 (kecuali yang murni shorf) memuat satu atau lebih kutipan langsung dari *Jurumiyyah* sehingga peserta mengenal **bunyi dan struktur matn klasik**, bukan hanya parafrase modernnya.
+
+### Level 2 (Pelajaran 1--45)
+
+Backbone: *Jurumiyyah* khataman + *Tashrif al-'Izzi* khataman.
+
+| Blok | Pelajaran | Matn Rujukan                                            |
+|------|-----------|---------------------------------------------------------|
+| 1    | 1--5      | *Jurumiyyah*: Bab al-Mu'rab + tanda far'i komprehensif  |
+| 2    | 6--13     | *Jurumiyyah*: Bab al-Marfu'at lengkap dengan tafshil    |
+| 3    | 14--23    | *Jurumiyyah*: Bab al-Manshubat lengkap dengan tafshil   |
+| 4    | 24--28    | *Jurumiyyah*: Bab al-Makhfudhat + idhafah detail        |
+| 5    | 29--31    | *Jurumiyyah*: Bab al-Majzumat + 18 jawazim lengkap      |
+| 6    | 32--41    | *Tashrif al-'Izzi* khataman (semua wazan + tashrif lughawi penuh) |
+| 7    | 42--45    | Bacaan terpandu Quran/hadits dengan i'rab penuh; khataman *Jurumiyyah* |
+
+### Level 3 (Pelajaran 1--45)
+
+Backbone: *Qotrun Nada* paruh pertama + *Lamiyyah al-Af'al* khataman.
+
+| Blok | Pelajaran | Matn Rujukan                                            |
+|------|-----------|---------------------------------------------------------|
+| 1    | 1--8      | *Qotrun Nada*: Bab al-Muqaddimah + i'rab komprehensif (mu'rab/mabni penuh) |
+| 2    | 9--14     | *Qotrun Nada*: Marfu'at dengan kasus kompleks           |
+| 3    | 15--22    | *Qotrun Nada*: Manshubat dengan tafshil                 |
+| 4    | 23--26    | *Qotrun Nada*: Majrurat dengan idhafah lafzhiyah/ma'nawiyah |
+| 5    | 27--36    | *Lamiyyah al-Af'al* khataman: i'lal qalb/hadzaf/iskan, fi'il mu'tal mitsal/ajwaf/naqish/lafif |
+| 6    | 37--41    | Bacaan kitab pemula: *Akhlak lil-Banin*, *Tsalatsatul Ushul* |
+| 7    | 42--45    | Pengenalan insya' (composition)                          |
+
+### Level 4 (Pelajaran 1--40)
+
+Backbone: *Qotrun Nada* paruh kedua khataman.
+
+| Blok | Pelajaran | Matn Rujukan                                            |
+|------|-----------|---------------------------------------------------------|
+| 1    | 1--10     | *Qotrun Nada* paruh kedua: adad murakkab, mawshul lengkap, isyarah, syarat detail |
+| 2    | 11--18    | Tashrif lanjutan + i'lal kompleks; khataman *Lamiyyah al-Af'al* |
+| 3    | 19--26    | Pembacaan kitab tingkat menengah                         |
+| 4    | 27--34    | Insya' produktif                                          |
+| 5    | 35--40    | Listening intensif (durus dan ceramah)                   |
+
+### Level 5 (Pelajaran 1--50, Opsional Mahir)
+
+Backbone: *Alfiyah Ibn Malik* khataman.
+
+| Blok | Pelajaran | Matn Rujukan                                            |
+|------|-----------|---------------------------------------------------------|
+| 1    | 1--8      | *Alfiyah*: muqaddimah + bab awal (kalam, mu'rab/mabni)  |
+| 2    | 9--16     | *Alfiyah*: marfu'at lengkap                              |
+| 3    | 17--24    | *Alfiyah*: manshubat lengkap                             |
+| 4    | 25--32    | *Alfiyah*: majrurat dan tawabi'                          |
+| 5    | 33--42    | *Alfiyah*: shorf (mizan, sifah musyabbahah, ism musytaq) |
+| 6    | 43--50    | Bacaan kitab tingkat lanjut                              |
+
+### Catatan Pemetaan
+
+- **Kutipan langsung** (\hadits{...}) digunakan ketika matn punya pernyataan ringkas yang langsung relevan. Tidak setiap pelajaran punya kutipan langsung --- pelajaran shorf misalnya menggunakan tabel-tabel dari *Tashrif al-'Izzi* tanpa selalu mengutip bait verbal.
+- **Forward reference** dipakai ketika konsep dikenalkan di Level rendah tetapi detail diserahkan ke Level lebih tinggi (mis. mu'tal dikenalkan di Level 1, didetailkan di Level 3 via *Lamiyyah*).
+- **Sintesis** ditunjukkan ketika satu pelajaran menggabungkan beberapa bab matn (mis. adad-ma'dud Pelajaran 22 = Bab al-Tamyiz + Bab al-Idhafah).
+- Setelah paket lengkap (Level 1--5), peserta secara sahih telah mempelajari **lima matn klasik**: *Jurumiyyah*, *Qotrun Nada*, *Tashrif al-'Izzi*, *Lamiyyah al-Af'al*, dan *Alfiyah Ibn Malik*.
 
 ## Komponen Paket
 

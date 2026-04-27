@@ -1,4 +1,49 @@
 
+# Pemetaan Matn ke Pelajaran {-}
+
+Tabel berikut menunjukkan **matn klasik mana** yang dikutip atau dirujuk pada tiap pelajaran. Tujuannya: peserta dapat memverifikasi klaim "paket ini menggunakan *al-Jurumiyyah* dan *Tashrif al-'Izzi* sebagai referensi" --- klaim yang konkret di tingkat pelajaran, bukan jargon umum.
+
+| Pel. | Topik                                | Matn Rujukan                                                                         |
+|------|--------------------------------------|--------------------------------------------------------------------------------------|
+| 1--4 | Pengantar, motivasi, tulisan Arab    | (Pengantar; tidak ada bab matn yang relevan)                                         |
+| 5    | Tiga jenis kalimah                   | *Jurumiyyah*: Bab al-Kalam (kutipan langsung definisi kalam, tanda isim, fi'il, harf)|
+| 6    | Pengertian i'rab                     | *Jurumiyyah*: Bab al-I'rab (kutipan definisi i'rab dan "lafzhan aw taqdiran")        |
+| 7    | Empat keadaan i'rab                  | *Jurumiyyah*: Bab al-I'rab lanjutan (empat aqsam: rafa', nashb, khafd, jazm)         |
+| 8    | Mubtada-khabar                       | *Jurumiyyah*: Bab al-Marfu'at (peta 7 marfu'at) + Bab al-Mubtada wal-Khabar          |
+| 9    | Fa'il                                | *Jurumiyyah*: Bab al-Fa'il (kutipan definisi)                                        |
+| 10   | Naib fa'il                           | *Jurumiyyah*: Bab al-Maf'ul al-Ladzi Lam Yusamma Fa'iluhu                            |
+| 11   | Kana wa akhowatuha + Inna            | *Jurumiyyah*: Bab al-'Awamil ad-Dakhilah 'ala al-Mubtada wal-Khabar                  |
+| 12   | Tabi' marfu'                         | *Jurumiyyah*: Bab al-Marfu'at akhir (4 jenis tabi') + Bab an-Na'at, al-'Athf, al-Tawkid, al-Badal |
+| 13   | Maf'ul bih                           | *Jurumiyyah*: Bab al-Manshubat (peta 15 manshubat) + Bab al-Maf'ul bih               |
+| 14   | Khabar kana, isim inna               | *Jurumiyyah*: Bab al-'Awamil (review dari sisi nashb)                                |
+| 15   | Hal                                  | *Jurumiyyah*: Bab al-Hal                                                              |
+| 16   | Tamyiz                               | *Jurumiyyah*: Bab al-Tamyiz                                                           |
+| 17   | Munada, mustathna, dst               | *Jurumiyyah*: Bab al-Munada, al-Istisna', al-Maf'ul min Ajlih, al-Maf'ul Ma'ah, La Nafiyatul Jins |
+| 18   | Tabi' manshub + sintesis pembanding  | *Jurumiyyah*: Bab al-Manshubat akhir (4 tabi'); sintesis tabel khabar/na'at/hal/tamyiz |
+| 19   | Harf jarr                            | *Jurumiyyah*: Bab al-Makhfudhat + Bab al-Khafd (daftar 14 harf jarr)                 |
+| 20   | Idhafah                              | *Jurumiyyah*: Bab al-Idhafah (dua makna: lamiyyah, bayaniyyah)                       |
+| 21   | Tabi' majrur                         | *Jurumiyyah*: Bab al-Makhfudhat akhir                                                 |
+| 22   | Adad dan ma'dud                      | *Jurumiyyah* tidak punya Bab al-Adad terpisah; sintesis Bab al-Tamyiz + Bab al-Idhafah. Detail: *Qotrun Nada* (forward Level 3) dan *Alfiyah* (forward Level 5) |
+| 23   | Fi'il mudhari mu'rab                 | *Jurumiyyah*: Bab al-Af'al (definisi tiga fi'il + mnemonic *anaytu*)                 |
+| 24   | Adawat jazm satu fi'il               | *Jurumiyyah*: Bab al-Majzumat + Bab al-Jawazim ("yang menjazmkan satu fi'il")        |
+| 25   | Adawat syarat                        | *Jurumiyyah*: Bab al-Jawazim lanjutan (daftar 13 adat syarat)                        |
+| 26   | Dhamir munfashil                     | *Jurumiyyah*: Bab al-Fa'il (singgung dhamir) + tabel komprehensif dari konvensi nahwu klasik |
+| 27   | Dhamir muttashil                     | (Tersebar di *Jurumiyyah*; tabel komprehensif diadopsi dari *Tashrif al-'Izzi*)      |
+| 28   | Dhamir mustatir                      | (Implisit di *Jurumiyyah*; konsep wajib/jaiz dari *Qotrun Nada* --- forward)         |
+| 29   | Tashrif madhi/mudhari/amr            | *Jurumiyyah*: Bab al-Af'al + pengenalan *Tashrif al-'Izzi* sebagai matn rujukan shorf|
+| 30   | Tsulatsi mujarrad + konsep mu'tal    | *Tashrif al-'Izzi*: empat wazan dasar; konsep mu'tal --- forward ke *Lamiyyah al-Af'al* (Level 3) |
+| 31   | Tsulatsi mazid bi-harf wahid         | *Tashrif al-'Izzi*: af'ala, fa''ala, faa'ala (wazan dan makna utama)                 |
+| 32   | Tsulatsi mazid bi-harfain            | *Tashrif al-'Izzi*: lima wazan (tafa''ala, tafa'ala, ifta'ala, infa'ala, if'alla)    |
+| 33   | Tsulatsi mazid bi-tsalatsah ahruf    | *Tashrif al-'Izzi*: istaf'ala + tiga wazan jarang                                    |
+| 34   | Mashdar, ism fa'il, ism maf'ul + penutup | *Tashrif al-'Izzi*: pola mashdar + turunan; review dan bacaan overview *Jurumiyyah* |
+
+## Catatan Pemetaan {-}
+
+- **Kutipan langsung** (\hadits{...}) digunakan ketika matn punya pernyataan ringkas yang langsung relevan. Pelajaran 5--25 dan 29 di Level 1 memuat satu atau lebih kutipan langsung dari *Jurumiyyah*. Pelajaran shorf (30--34) menggunakan tabel-tabel dari *Tashrif al-'Izzi* tanpa selalu mengutip bait verbal.
+- **Forward reference** dipakai ketika konsep dikenalkan di Level rendah tetapi detail diserahkan ke Level lebih tinggi (mis. mu'tal dikenalkan di Pelajaran 30, didetailkan di Level 3 via *Lamiyyah al-Af'al*; adad dikenalkan di Pelajaran 22, didetailkan di Level 4 via *Qotrun Nada*).
+- **Sintesis** ditunjukkan ketika satu pelajaran menggabungkan beberapa bab matn (mis. adad-ma'dud Pelajaran 22 = Bab al-Tamyiz + Bab al-Idhafah; sintesis pembanding Pelajaran 18 = ringkasan komparatif khabar/na'at/hal/tamyiz dari Blok 2--3).
+- Setelah peserta menyelesaikan paket lengkap (Level 1--5), mereka secara sahih telah mempelajari **lima matn klasik**: *Jurumiyyah*, *Qotrun Nada*, *Tashrif al-'Izzi*, *Lamiyyah al-Af'al*, dan *Alfiyah Ibn Malik*. Untuk peta matn Level 2--5, lihat **Desain Kurikulum** (dokumen terpisah).
+
 # Daftar Referensi {-}
 
 ## Sumber Al-Qur'an
