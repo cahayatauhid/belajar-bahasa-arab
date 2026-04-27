@@ -232,17 +232,17 @@ Paket Level 1 adalah deliverable pertama. Level 2 sampai 5 dirancang setelah lev
 
 Level 1 melingkupi **peta gramatikal bahasa Arab secara lengkap di tingkat overview**: setelah Level 1, peserta mengenal semua kategori nahwu utama (i'rab, marfu'at, manshubat, majrurat, majzumat, dhamir) dan ringkasan shorf (wazan tsulatsi mazid dan pengaruhnya terhadap makna). Untuk kalimat normal — mayoritas kalimat dalam Quran, hadits, dan kitab pemula — peserta sudah bisa meng-i'rab dan menerjemah. Detail, kasus khusus, dan perkecualian diserahkan ke Level 2 ke atas.
 
-Cakupan ~33 pelajaran terbagi tujuh blok:
+Cakupan ~34 pelajaran terbagi tujuh blok:
 
 | Blok                          | Pel.   | Cakupan                                                                                                              |
 |-------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
 | 1. Pengantar dan Motivasi     | 1–7    | Motivasi belajar bahasa Arab; asal usul ilmu nahwu/shorf; hubungan Al-Qur'an dengan bahasa Arab; tulisan Arab; kalam dan kalimah; isim/fi'il/harf; konsep i'rab dan empat keadaan |
 | 2. Marfu'at                   | 8–12   | Mubtada-khabar, fa'il, naib fa'il, isim *kana wa akhowatuha*, khabar *inna wa akhowatuha*, tabi' marfu' (na'at, athaf, badal, taukid --- overview) |
-| 3. Manshubat                  | 13–18  | Maf'ul bih, khabar *kana*, isim *inna*, hal, tamyiz, munada, mustathna, maf'ul li-ajlih, tabi' manshub               |
-| 4. Majrurat                   | 19–21  | Harf jarr, idhafah, tabi' majrur                                                                                     |
-| 5. Majzumat                   | 22–24  | Fi'il mudhari (rafa, nashb, jazm), adawat jazm satu fi'il, syarat-jawab                                              |
-| 6. Dhamir                     | 25–27  | Munfashil, muttashil, mustatir + konsekuensi pada i'rab                                                              |
-| 7. Shorf garis besar          | 28–33  | Madhi/mudhari/amr, tsulatsi mujarrad, tsulatsi mazid (wazan dan makna pokok), mashdar, ism fa'il, ism maf'ul         |
+| 3. Manshubat                  | 13–18  | Maf'ul bih, khabar *kana*, isim *inna*, hal, tamyiz, munada, mustathna, maf'ul li-ajlih, tabi' manshub; sintesis pembanding khabar/na'at/hal/tamyiz |
+| 4. Majrurat dan Adad          | 19–22  | Harf jarr, idhafah, tabi' majrur, adad-ma'dud (sintesis aplikatif na'at + idhafah + tamyiz dengan kesesuaian gender) |
+| 5. Majzumat                   | 23–25  | Fi'il mudhari (rafa, nashb, jazm), adawat jazm satu fi'il, syarat-jawab                                              |
+| 6. Dhamir                     | 26–28  | Munfashil, muttashil, mustatir + konsekuensi pada i'rab                                                              |
+| 7. Shorf garis besar          | 29–34  | Madhi/mudhari/amr, tsulatsi mujarrad, tsulatsi mazid (wazan dan makna pokok), mashdar, ism fa'il, ism maf'ul         |
 
 Setiap pelajaran memuat: penjelasan konsep dengan analogi grammar Indonesia/Inggris, kosakata akumulatif, kutipan matn *Jurumiyyah* yang relevan dengan i'rab dipandu, drill produktif (pemisahan kata, terjemah dua arah, i'rab), contoh dari Quran/hadits, dan audio pelafalan.
 

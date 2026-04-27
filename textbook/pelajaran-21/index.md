@@ -194,6 +194,8 @@ Selamat! Anda sudah menyelesaikan Blok 4 (Majrurat). Yang sudah dikenal:
 
 Tiga jenis majrurat per peta Bab al-Makhfudhat sudah tertangkap. Detail per jabatan ditangani di Level 2.
 
-Sampai di sini Anda sudah menguasai **tiga keadaan i'rab utama** untuk isim: rafa' (Blok 2), nashb (Blok 3), dan jarr (Blok 4). Pelajaran berikutnya kita masuk ke keadaan keempat --- yang khusus untuk fi'il mudhari: **jazm**.
+Sampai di sini Anda sudah menguasai **tiga keadaan i'rab utama** untuk isim: rafa' (Blok 2), nashb (Blok 3), dan jarr (Blok 4).
 
-Pelajaran berikutnya: **Blok 5 --- Majzumat**, dimulai dengan **fi'il mudhari: kapan rafa', nashb, jazm**.
+Sebelum masuk ke keadaan keempat (jazm), pelajaran berikutnya adalah **sintesis lintas-blok**: **adad dan ma'dud** --- konstruksi bilangan yang menggabungkan tamyiz (Pelajaran 16), idhafah (Pelajaran 20), dan na'at (Pelajaran 12) dengan aturan kesesuaian gender khusus. Konstruksi ini sangat sering muncul di bahasa sehari-hari dan Al-Qur'an.
+
+Pelajaran berikutnya: **adad dan ma'dud** --- penutup aplikatif Blok 4.

@@ -16,7 +16,7 @@ Silabus ini menjabarkan cakupan tiap sesi untuk Level 1 sampai 5. Pacing 1x per 
 
 | Level   | Estimasi Sesi | Durasi (1x/minggu) |
 |---------|---------------|---------------------|
-| 1       | ~33 sesi      | ~8 bulan            |
+| 1       | ~34 sesi      | ~8 bulan            |
 | 2       | ~45 sesi      | ~10 bulan           |
 | 3       | ~45 sesi      | ~10 bulan           |
 | 4       | ~40 sesi      | ~9 bulan            |
@@ -27,7 +27,7 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 
 ---
 
-## Level 1 — Pondasi: Peta Gramatikal Lengkap (~33 sesi)
+## Level 1 — Pondasi: Peta Gramatikal Lengkap (~34 sesi)
 
 **Tujuan utama**: peserta memiliki kerangka mental lengkap nahwu dan shorf dasar; bisa meng-i'rab kalimat Arab normal di Quran/hadits/kitab pemula; sudah membaca matn *Jurumiyyah* secara overview. Sebelum masuk ke teknis, peserta dibekali motivasi belajar bahasa Arab, sejarah ilmu nahwu/shorf, dan pemahaman tentang hubungan Al-Qur'an dengan bahasa Arab.
 
@@ -58,32 +58,33 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 17. Munada, mustathna, maf'ul li-ajlih, maf'ul ma'ah — pengenalan
 18. Tabi' yang manshub — na'at, athaf, badal manshub
 
-### Blok 4 — Majrurat (Sesi 19–21)
+### Blok 4 — Majrurat dan Adad (Sesi 19–22)
 
 19. Harf jarr — daftar dan contoh dari Al-Qur'an
 20. Idhafah — frasa kepemilikan (mis. \ar{كِتَابُ الطَّالِبِ} = "kitab si pelajar"); analogi dengan *of* dan *'s* dalam Inggris (*the student's book*), dan akhiran -*nya* dalam Indonesia
 21. Tabi' yang majrur
+22. Adad dan ma'dud — sintesis aplikatif dari na'at + idhafah + tamyiz; aturan kesesuaian gender (mukhalafah 3–10) dan kategorisasi 1–2, 3–10, 11–19, 20–99, 100–1000
 
-### Blok 5 — Majzumat (Sesi 22–24)
+### Blok 5 — Majzumat (Sesi 23–25)
 
-22. Fi'il mudhari: kapan rafa', nashb, jazm — bagan keputusan
-23. Adawat jazm satu fi'il (\ar{لَمْ، لَمَّا،} lam amr, la nahyi)
-24. Adawat syarat — jazm dua fi'il (\ar{إِنْ، مَنْ، مَا، مَتَى}, dll.); syarat dan jawab
+23. Fi'il mudhari: kapan rafa', nashb, jazm — bagan keputusan
+24. Adawat jazm satu fi'il (\ar{لَمْ، لَمَّا،} lam amr, la nahyi)
+25. Adawat syarat — jazm dua fi'il (\ar{إِنْ، مَنْ، مَا، مَتَى}, dll.); syarat dan jawab
 
-### Blok 6 — Dhamir (Sesi 25–27)
+### Blok 6 — Dhamir (Sesi 26–28)
 
-25. Dhamir munfashil — 14 dhamir, tabel lengkap
-26. Dhamir muttashil — variasi pada isim, fi'il, harf
-27. Dhamir mustatir — konsekuensinya pada i'rab kalimat tanpa subjek yang terlihat
+26. Dhamir munfashil — 14 dhamir, tabel lengkap
+27. Dhamir muttashil — variasi pada isim, fi'il, harf
+28. Dhamir mustatir — konsekuensinya pada i'rab kalimat tanpa subjek yang terlihat
 
-### Blok 7 — Shorf Garis Besar (Sesi 28–33)
+### Blok 7 — Shorf Garis Besar (Sesi 29–34)
 
-28. Tashrif fi'il madhi, mudhari, amr — pola dasar; pengenalan *Tashrif al-'Izzi* sebagai matn rujukan
-29. Tsulatsi mujarrad — tiga wazan (\ar{فَعَلَ}-\ar{يَفْعُلُ، فَعَلَ}-\ar{يَفْعِلُ، فَعِلَ}-\ar{يَفْعَلُ}); juga \ar{فَعُلَ}
-30. Tsulatsi mazid bi-harf wahid — \ar{أَفْعَلَ، فَعَّلَ، فَاعَلَ} + makna utama
-31. Tsulatsi mazid bi-harfain — \ar{تَفَعَّلَ، تَفَاعَلَ، اِفْتَعَلَ، اِنْفَعَلَ، اِفْعَلَّ} + makna utama
-32. Tsulatsi mazid bi-tsalatsah ahruf — \ar{اِسْتَفْعَلَ} + 3 wazan jarang + makna utama
-33. Mashdar, ism fa'il, ism maf'ul — pengaruh wazan terhadap makna; rangkuman peta shorf; review keseluruhan Level 1; pembacaan matn *Jurumiyyah* secara overview
+29. Tashrif fi'il madhi, mudhari, amr — pola dasar; pengenalan *Tashrif al-'Izzi* sebagai matn rujukan
+30. Tsulatsi mujarrad — tiga wazan (\ar{فَعَلَ}-\ar{يَفْعُلُ، فَعَلَ}-\ar{يَفْعِلُ، فَعِلَ}-\ar{يَفْعَلُ}); juga \ar{فَعُلَ}
+31. Tsulatsi mazid bi-harf wahid — \ar{أَفْعَلَ، فَعَّلَ، فَاعَلَ} + makna utama
+32. Tsulatsi mazid bi-harfain — \ar{تَفَعَّلَ، تَفَاعَلَ، اِفْتَعَلَ، اِنْفَعَلَ، اِفْعَلَّ} + makna utama
+33. Tsulatsi mazid bi-tsalatsah ahruf — \ar{اِسْتَفْعَلَ} + 3 wazan jarang + makna utama
+34. Mashdar, ism fa'il, ism maf'ul — pengaruh wazan terhadap makna; rangkuman peta shorf; review keseluruhan Level 1; pembacaan matn *Jurumiyyah* secara overview
 
 ---
 

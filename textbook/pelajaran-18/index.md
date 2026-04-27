@@ -168,6 +168,73 @@ Ini contoh marfu' --- ditampilkan untuk membandingkan dengan kasus manshub. Atur
 
 Tiga benda langit dijabarkan secara berurutan, semuanya manshub karena yang pertama (\ar{كَوْكَبًا}) manshub.
 
+## Membedakan: Khabar, Na'at, Hal, Tamyiz
+
+Di Blok 2 dan 3 kita sudah kenal empat jabatan yang sama-sama "menjelaskan" sesuatu --- tetapi dengan fungsi dan perilaku berbeda. Saat membaca atau meng-i'rab kalimat, peserta sering bingung membedakan keempatnya. Bagian ini adalah ringkasan komparatif sebagai penutup Blok 3.
+
+### Tabel Perbandingan
+
+| Aspek                | Khabar              | Na'at                  | Hal                  | Tamyiz                |
+|----------------------|---------------------|------------------------|----------------------|-----------------------|
+| Pelajaran            | 8                   | 12                     | 15                   | 16                    |
+| Yang dijelaskan      | Mubtada             | Isim sebelumnya (man'ut) | Keadaan saat fi'il | Dzat / jenis samar    |
+| Pertanyaan dijawab   | "Apa keadaan mubtada?" | "Yang seperti apa?"  | "Bagaimana keadaannya?" | "Apa? / Jenis apa?" |
+| I'rab                | Marfu' (ikut mubtada) | Mengikuti man'ut     | Selalu manshub       | Selalu manshub        |
+| Definitness          | Bebas               | Sesuai man'ut          | Selalu nakirah       | Selalu nakirah        |
+| Posisi               | Setelah mubtada     | Langsung setelah man'ut | Setelah kalimat lengkap | Setelah kata yang dijelaskan |
+| Status               | Inti (kalimat tidak lengkap tanpanya) | Tambahan | Tambahan          | Tambahan              |
+
+### Cara Cepat Membedakan
+
+Alur keputusan saat menemukan kata yang "menjelaskan" sesuatu:
+
+**Langkah 1.** Apakah kalimat sebelumnya sudah lengkap secara sintaksis?
+
+- **Belum** (tanpa kata ini, kalimat tidak punya makna utuh) → kemungkinan **khabar** (yang melengkapi mubtada). Verifikasi: apakah kata sebelumnya mubtada?
+- **Sudah lengkap** → lanjut ke Langkah 2.
+
+**Langkah 2.** Apakah dia sifat tetap dari isim sebelumnya, dan ikut definitness man'ut (kalau man'ut ma'rifah, dia ma'rifah; kalau man'ut nakirah, dia nakirah)?
+
+- **Ya** → **na'at**. Penanda: ikut i'rab man'ut, ikut ma'rifah/nakirah, ikut jenis dan jumlah.
+- **Tidak** → lanjut ke Langkah 3.
+
+**Langkah 3.** Apakah dia nakirah, manshub, dan menjawab "bagaimana keadaannya saat itu?"
+
+- **Ya** → **hal**.
+- **Tidak** → lanjut ke Langkah 4.
+
+**Langkah 4.** Apakah dia nakirah, manshub, dan menjawab "jenis apa?" atau "apa yang dimaksud?"
+
+- **Ya** → **tamyiz**.
+
+### Contoh Pembanding
+
+Dengan kata sifat yang sama (\ar{كَرِيمٌ}) di tiga peran berbeda:
+
+\ar{الرَّجُلُ كَرِيمٌ}
+
+- \ar{كَرِيمٌ} = **khabar** (mubtada belum lengkap tanpanya), marfu'.
+
+\ar{جَاءَ الرَّجُلُ الْكَرِيمُ}
+
+- \ar{الْكَرِيمُ} = **na'at** (sifat tetap, ma'rifah ikut man'ut), marfu' (mengikuti fa'il).
+
+\ar{جَاءَ الرَّجُلُ كَرِيمًا}
+
+- \ar{كَرِيمًا} = **hal** (keadaan saat datang, nakirah), manshub.
+
+Untuk tamyiz, biasanya muncul setelah ukuran/jumlah/bilangan. Contoh:
+
+\ar{اشْتَرَيْتُ كِيلُو لَحْمًا}
+
+- \ar{لَحْمًا} = **tamyiz** ("sekilo apa?" --- daging), manshub.
+
+\ar{تَصَبَّبَ زَيْدٌ عَرَقًا}
+
+- \ar{عَرَقًا} = **tamyiz** ("bercucuran apa?" --- keringat), manshub.
+
+Kunci: jika ragu, periksa **definitness** (na'at ikut man'ut; hal/tamyiz selalu nakirah) dan **i'rab** (na'at ikut yang sebelumnya; hal/tamyiz selalu nashb). Kemudian periksa **pertanyaan yang dijawab**.
+
 ## Latihan PR
 
 Untuk pelajaran berikutnya:
