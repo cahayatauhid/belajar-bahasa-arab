@@ -199,7 +199,7 @@ Sudah dianalisis di Pelajaran 9. Sekarang kita identifikasi mustatirnya: dhamir 
 - \ar{آتَانِي} --- fi'il madhi + dhamir muttashil \ar{ـنِي} (maf'ul bih, "saya")
 - Fa'il \ar{آتَانِي}: dhamir mustatir jaiz \ar{هُوَ} (merujuk ke Allah)
 
-Mustatir bersarang dengan referensi yang berbeda --- konteks menentukan rujukannya.
+Mustatir berlapis dengan referensi yang berbeda --- konteks menentukan rujukannya.
 
 ## Rangkuman Tiga Jenis Dhamir
 

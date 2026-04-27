@@ -38,7 +38,7 @@ Na'at (kata sifat) yang menjelaskan man'ut yang majrur --- na'atnya juga majrur.
 - \ar{مَسْجِدٍ} --- majrur dengan kasratain (man'ut, nakirah)
 - \ar{كَبِيرٍ} --- na'at, juga majrur dengan kasratain (sesuai man'ut)
 
-Empat aspek kesesuaian na'at dengan man'ut (i'rab, jenis kelamin, jumlah, definitness) tetap berlaku.
+Empat aspek kesesuaian na'at dengan man'ut (i'rab, jenis kelamin, jumlah, kema'rifahan) tetap berlaku.
 
 ## Athaf Majrur
 
@@ -124,7 +124,7 @@ Sudah disinggung berkali-kali. Dari sudut tabi' yang majrur:
 
 Tiga isim berturut, semuanya majrur dengan kasrah --- tabi' yang majrur dalam praktik.
 
-**Surat Al-Fatihah 1:7 (badal majrur dengan tabi' bersarang):**
+**Surat Al-Fatihah 1:7 (badal majrur dengan tabi' berlapis):**
 
 \ayat{صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ}
 

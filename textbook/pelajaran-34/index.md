@@ -226,7 +226,7 @@ Belum dilakukan: tashrif penuh (12--14 bentuk) untuk tiap wazan tsulatsi mazid.
 
 **Alasan penundaan**: Level 1 mengenal **wazan dan makna utama**; tashrif lughawi penuh (per pelaku) adalah pekerjaan repetitif yang lebih efektif dilakukan setelah wazan dasar dikenali. Akan dilatih sistematis di **Level 2 Blok 6** (Sesi 32--41) dengan matn **Tashrif al-'Izzi**.
 
-### I'rab Bersarang Kompleks dan Produksi Tulisan
+### I'rab Berlapis Kompleks dan Produksi Tulisan
 
 Belum dibahas: i'rab kompleks ketika beberapa jumlah saling tergabung sebagai mahalli, na'at jumlah, hal jumlah, idhafah berlapis lebih dari dua tingkat. Produksi tulisan paragraf bebas dan ringkasan kitab.
 

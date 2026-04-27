@@ -15,7 +15,7 @@ Pelajaran ini menutup Blok 2 (Marfu'at). Sampai di sini kita sudah kenal lima ja
 1. **Keadaan i'rab** (rafa', nashb, jarr, atau jazm)
 2. Sering juga dalam jenis kelamin (mu'annats / mudzakkar)
 3. Sering juga dalam jumlah (mufrad / mutsanna / jamak)
-4. Sering juga dalam definitness (ma'rifah / nakirah)
+4. Sering juga dalam kema'rifahan (ma'rifah / nakirah)
 
 Yang paling penting dan harus diingat: **tabi' selalu sama keadaan i'rabnya dengan kata yang diikutinya**.
 
@@ -64,7 +64,7 @@ Na'at harus sesuai dengan man'utnya dalam empat hal:
 1. **Keadaan i'rab** --- rafa', nashb, jarr (atau jazm jika man'ut fi'il mudhari, tapi jarang)
 2. **Jenis kelamin** --- mudzakkar / mu'annats
 3. **Jumlah** --- mufrad / mutsanna / jamak
-4. **Definitness** --- ma'rifah / nakirah
+4. **Kema'rifahan** --- ma'rifah / nakirah
 
 Contoh kesesuaian semua aspek:
 

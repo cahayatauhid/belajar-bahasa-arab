@@ -103,7 +103,7 @@ Hal dan na'at sama-sama "menjelaskan kata sebelumnya", tetapi berbeda fungsi:
 | Aspek                  | Na'at                     | Hal                          |
 |------------------------|---------------------------|------------------------------|
 | Apa yang dijelaskan    | Sifat tetap dari isim     | Keadaan saat pekerjaan       |
-| Definitness            | Sesuai man'ut             | Selalu nakirah               |
+| Kema'rifahan           | Sesuai man'ut             | Selalu nakirah               |
 | Mengikuti i'rab        | Ya (tabi')                | Selalu nashb (tidak ikut)    |
 | Posisi                 | Langsung setelah man'ut   | Setelah kalimat lengkap      |
 
