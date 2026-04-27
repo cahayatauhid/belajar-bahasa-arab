@@ -10,127 +10,139 @@ Sekarang kita sampai pada konsep yang paling penting dalam bahasa Arab --- yang 
 
 ## Apa Itu I'rab?
 
-\ar{إِعْرَابٌ} (i'rab) secara teknis adalah: *perubahan akhiran kata* (akhir bunyi atau harakat) untuk menunjukkan fungsi kata dalam kalimat.
+\ar{إِعْرَابٌ} (i'rab) adalah: **penanda jabatan kata dalam struktur kalimat**.
 
-Mari kita bedah definisi ini:
+"Jabatan" di sini artinya fungsi atau peran yang diemban kata dalam kalimat --- apakah dia subjek, objek, keterangan, mudhaf ilaih, dan seterusnya. I'rab adalah cara bahasa Arab mengkomunikasikan jabatan tersebut kepada pendengar atau pembaca.
 
-- "Perubahan akhiran" --- yang berubah hanya bagian akhir kata. Inti kata tetap sama.
-- "Untuk menunjukkan fungsi" --- perubahan ini punya tujuan: memberi tahu pendengar peran kata dalam kalimat (subjek, objek, dan seterusnya).
+Pikirkan seperti rambu lalu lintas. Saat Anda menulis kalimat Indonesia, Anda menyusun kata berurutan: subjek-verba-objek. Pendengar mengetahui peran tiap kata dari urutannya. Bahasa Arab memakai mekanisme yang berbeda --- kata-kata bisa muncul dalam urutan yang lebih bebas, tetapi setiap kata membawa **rambu** yang mengkomunikasikan jabatannya. Rambu itulah yang disebut i'rab.
 
-I'rab adalah cara bahasa Arab menyampaikan struktur kalimat. Tanpa memahami i'rab, kita tidak benar-benar memahami sebuah kalimat Arab.
+Bentuk rambu ini bermacam-macam tergantung jenis kata yang ditandai --- bisa berupa harakat di akhir kata, bisa berupa huruf tertentu, bisa berupa pembuangan harakat atau huruf. Detail bentuk-bentuk penanda akan kita pelajari secara progresif: bentuk yang umum di Level 1, dan variasi-variasi khusus di Level 2.
 
-## Bahasa Lain Juga Punya, Tapi Lebih Terbatas
+Yang stabil dan harus dipegang sejak awal: **i'rab selalu bertugas menandai jabatan kata dalam struktur kalimat**. Bentuk penandanya bervariasi, tetapi tugasnya satu.
 
-Kalau Anda kira ini konsep aneh yang hanya ada di bahasa Arab, tidak --- bahasa lain juga punya, dengan caranya masing-masing. Kita bandingkan:
+Tanpa memahami i'rab, kita tidak dapat menentukan dengan pasti mana subjek, mana objek, mana keterangan dalam sebuah kalimat Arab. Tanpa kepastian itu, makna kalimat tidak terkomunikasi dengan benar.
 
-### Indonesia
+## Bahasa Lain Juga Punya Mekanisme Penanda Jabatan
 
-Indonesian juga punya perubahan kata berdasarkan fungsi, walaupun terbatas. Akhiran kepemilikan:
+Mekanisme menandai jabatan kata bukan keunikan bahasa Arab. Hampir setiap bahasa punya caranya masing-masing. Yang berbeda adalah bagaimana mekanisme itu dilaksanakan.
 
-- "saya" → "ku-" / "-ku" (kepemilikan): "buku-ku"
-- "kamu" → "mu-" / "-mu": "buku-mu"
-- "dia" → "-nya": "buku-nya"
+### Indonesia: Lewat Urutan Kata
 
-Tetapi untuk subjek vs objek, Indonesia tidak menandai dengan akhiran. Kita pakai urutan kata:
+Indonesian menandai jabatan kata terutama lewat urutan kata. Pendengar mengetahui siapa subjek dan siapa objek dari posisi kata dalam kalimat.
 
-- "Zayd memukul Amr" → Zayd subjek, Amr objek (urutan: subjek-verb-objek)
-- "Amr memukul Zayd" → Amr subjek, Zayd objek (urutan terbalik, makna terbalik)
+- "Zayd memukul Amr" → Zayd subjek (di depan), Amr objek (setelah verba)
+- "Amr memukul Zayd" → urutan terbalik, jabatan terbalik, makna terbalik
 
-### Inggris
+Kalau urutan kata diubah tanpa kompensasi struktural, makna ikut berubah. Indonesian sangat tergantung urutan.
 
-Inggris menandai kata ganti orang dengan perubahan bentuk:
+Indonesian punya satu mekanisme tambahan untuk kepemilikan: akhiran *-ku*, *-mu*, *-nya*. "Buku-ku" menandai bahwa "saya" adalah pemilik. Ini bentuk kecil dari penanda jabatan --- tetapi terbatas pada kepemilikan, tidak untuk subjek atau objek.
 
-| Sebagai subjek  | Sebagai objek    | Sebagai kepemilikan |
-|-----------------|------------------|---------------------|
-| **he** (dia laki-laki) | **him**  | **his**             |
-| **she** (dia perempuan) | **her** | **her**             |
-| **I** (saya)    | **me**           | **my**              |
-| **we** (kami)   | **us**           | **our**             |
+### Inggris: Kombinasi Urutan dan Perubahan Bentuk
 
-Jadi "I see him" ≠ "He sees me" --- kata ganti berubah bentuk untuk menunjukkan fungsi. Tapi untuk kata benda biasa (man, book), Inggris juga memakai urutan kata.
+Inggris terutama memakai urutan kata, tetapi punya tambahan untuk kata ganti orang: kata ganti berubah bentuk berdasarkan jabatannya.
 
-### Arab
+| Sebagai subjek          | Sebagai objek    | Sebagai kepemilikan |
+|-------------------------|------------------|---------------------|
+| **he** (dia laki-laki)  | **him**          | **his**             |
+| **she** (dia perempuan) | **her**          | **her**             |
+| **I** (saya)            | **me**           | **my**              |
+| **we** (kami)           | **us**           | **our**             |
 
-Bahasa Arab jauh lebih sistematis: **hampir setiap isim** berubah harakat akhirnya berdasarkan fungsi. Bukan hanya kata ganti --- kata benda biasa pun ikut berubah.
+Jadi "I see him" ≠ "He sees me" --- kata ganti membawa penanda jabatannya sendiri, terlepas dari urutan kata. Tapi untuk kata benda biasa (man, book, dog), Inggris hanya pakai urutan, tidak ada perubahan bentuk.
 
-## Contoh Konkret: Empat Bentuk dari Kata "Zayd"
+### Arab: Penanda Sistematis untuk Setiap Kata Mu'rab
 
-Lihat kata \ar{زَيْدٌ} (Zayd) dalam empat fungsi yang berbeda:
+Bahasa Arab jauh lebih sistematis daripada Indonesia atau Inggris. Hampir setiap isim mu'rab membawa penanda jabatan --- bukan hanya kata ganti, tetapi semua kata benda biasa, kata sifat, dan banyak kategori lainnya.
 
-| Bentuk            | Fungsi                | Keadaan i'rab |
-|-------------------|-----------------------|---------------|
-| \ar{زَيْدٌ}        | Subjek                | Rafa'         |
-| \ar{زَيْدًا}       | Objek                 | Nashb         |
-| \ar{بِزَيْدٍ}      | Setelah harf jarr     | Jarr          |
+Karena setiap kata membawa rambu jabatannya sendiri, bahasa Arab punya fleksibilitas urutan kata yang tidak dimiliki Indonesia atau Inggris. Subjek bisa di depan atau di belakang verba; objek bisa didahulukan untuk penekanan --- struktur tetap jelas selama rambu i'rabnya benar.
 
-Perhatikan akhirnya berubah --- tapi inti kata "Zayd" tetap sama. Hanya harakat akhir (-un, -an, -in) yang berubah, dan perubahan ini *yang menyampaikan fungsi*.
+## Contoh Konkret: Kata "Zayd" dalam Tiga Jabatan
+
+Lihat kata \ar{زَيْدٌ} (Zayd) ketika menjabat tiga peran berbeda:
+
+| Bentuk            | Jabatan                  | Keadaan i'rab |
+|-------------------|--------------------------|---------------|
+| \ar{زَيْدٌ}        | Subjek (mubtada / fa'il) | Rafa'         |
+| \ar{زَيْدًا}       | Objek (maf'ul bih)       | Nashb         |
+| \ar{بِزَيْدٍ}      | Setelah harf jarr        | Jarr          |
+
+Inti kata "Zayd" tetap sama. Yang berbeda adalah penandanya --- bentuknya menyesuaikan dengan jabatan yang diemban.
+
+Dalam contoh ini, penandanya berbentuk harakat di akhir kata (dhammah, fathah, kasrah, masing-masing dengan tanwin). Ini bentuk penanda yang paling umum untuk isim mu'rab biasa.
+
+**Catatan penting**: harakat akhir adalah salah satu *bentuk* penanda i'rab, bukan esensi i'rab. Ada kategori isim lain yang penandanya berupa huruf (misalnya kata mutsanna, jamak mudzakkar salim, asma' al-khamsah), dan kasus lain di mana penandanya berupa pembuangan harakat atau huruf. Variasi-variasi ini akan kita pelajari di Level 2.
+
+Yang penting dipahami sekarang: setiap kata yang ber-i'rab membawa **jabatan**, dan jabatan itu **ditandai** dengan cara tertentu sesuai jenis katanya.
 
 ## Mengapa I'rab Penting?
 
-Kunci jawabannya: **mengubah harakat akhir → mengubah makna kalimat**.
+I'rab adalah mekanisme bahasa Arab untuk mengkomunikasikan struktur kalimat. Tanpa memahami i'rab, struktur tidak dapat dipulihkan dari kalimat --- mana subjek, mana objek, mana keterangan menjadi tidak pasti.
 
-Kalimat yang sama urutan katanya bisa berarti dua hal yang berlawanan, hanya beda harakat akhir.
-
-### Contoh 1: Subjek-Objek
+### Contoh 1: Pembalikan Jabatan
 
 Kalimat:
 
 \ar{ضَرَبَ زَيْدٌ عَمْرًا}
 
-- \ar{ضَرَبَ} = "memukul" (fi'il madhi)
-- \ar{زَيْدٌ} = "Zayd" dengan dhammah → fa'il (subjek)
-- \ar{عَمْرًا} = "Amr" dengan fathah → maf'ul bih (objek)
+- \ar{ضَرَبَ} --- "memukul" (fi'il madhi)
+- \ar{زَيْدٌ} --- ditandai sebagai fa'il (subjek)
+- \ar{عَمْرًا} --- ditandai sebagai maf'ul bih (objek)
 
 Makna: **Zayd memukul Amr**.
 
-Sekarang tukar harakat akhir tanpa mengubah urutan kata:
+Sekarang penandanya dibalik, urutan kata tidak diubah:
 
 \ar{ضَرَبَ زَيْدًا عَمْرٌو}
 
-- \ar{ضَرَبَ} = "memukul"
-- \ar{زَيْدًا} = "Zayd" dengan fathah → maf'ul bih (objek)
-- \ar{عَمْرٌو} = "Amr" dengan dhammah → fa'il (subjek)
+- \ar{زَيْدًا} --- sekarang ditandai sebagai maf'ul bih (objek)
+- \ar{عَمْرٌو} --- sekarang ditandai sebagai fa'il (subjek)
 
 Makna: **Amr memukul Zayd**.
 
-Urutan kata identik. Hanya harakat akhir berbeda. Maknanya **terbalik total**.
+Urutan kata identik. Yang berubah adalah penanda jabatan dua nama tersebut. Tetapi maknanya terbalik total karena jabatan keduanya sekarang berbeda.
 
 ### Contoh 2: Surat Al-Fatihah
 
-Bahkan dalam surat Al-Fatihah ayat 5:
+Pada Surat Al-Fatihah ayat 5:
 
 \ayat{إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ}
 
 > "Hanya kepada-Mu kami menyembah, dan hanya kepada-Mu kami memohon pertolongan."
 
-\ar{إِيَّاكَ} (iyyaaka) di sini adalah maf'ul bih (objek) yang didahulukan untuk penekanan: "*hanya* kepada-Mu". Bahasa Arab memungkinkan perubahan urutan ini sambil tetap menyampaikan struktur dengan benar, justru karena ada i'rab. Pendengar tahu \ar{إِيَّاكَ} adalah objek (bukan subjek) dari harakat akhirnya.
+\ar{إِيَّاكَ} (iyyaaka) di sini adalah maf'ul bih (objek) yang didahulukan untuk penekanan: "*hanya* kepada-Mu". Bahasa Arab memungkinkan urutan kata seperti ini sambil tetap mengkomunikasikan struktur dengan benar, karena penanda jabatan dibawa oleh kata itu sendiri --- tidak bergantung pada urutan. Pendengar mengetahui \ar{إِيَّاكَ} adalah objek dari penandanya, terlepas dari posisinya dalam kalimat.
 
-## I'rab pada Apa Saja?
+## Apa yang Ber-i'rab?
 
-Kabar baiknya, tidak semua kata berubah. Mayoritas isim yang berubah, tapi:
+Tidak semua kata membawa penanda i'rab. Yang ber-i'rab disebut **mu'rab**, yang tidak ber-i'rab disebut **mabni**.
 
-- **Isim-isim tertentu tidak berubah** (disebut *mabni*, akan dibahas di Level 2): kata ganti seperti \ar{هُوَ}, \ar{هَذَا}; isim mawshul; dan beberapa lainnya
-- **Fi'il madhi tidak berubah** (selalu fathah pada akhirnya, atau sukun jika terikat dhamir tertentu)
-- **Fi'il amr tidak berubah** (selalu majzum atau sukun)
-- **Harf tidak pernah berubah** --- harf adalah harf, tidak ber-i'rab
-- **Fi'il mudhari' BERUBAH** karena mengikuti i'rab (dia satu-satunya fi'il yang ber-i'rab)
+**Yang mu'rab (ber-i'rab):**
 
-Jadi yang ber-i'rab itu: mayoritas isim + fi'il mudhari'.
+- Mayoritas isim
+- Fi'il mudhari (satu-satunya fi'il yang ber-i'rab)
+
+**Yang mabni (tidak ber-i'rab, bentuknya tetap):**
+
+- Isim mabni --- kata ganti (\ar{هُوَ}, \ar{أَنْتَ}), isim isyarah (\ar{هَذَا}, \ar{ذَلِكَ}), isim mawshul, dan beberapa kategori lainnya
+- Fi'il madhi --- selalu mabni
+- Fi'il amr --- selalu mabni
+- Harf --- semuanya mabni; harf tidak pernah ber-i'rab
+
+Kategori mu'rab vs mabni akan diperdalam di Level 2.
 
 ## Empat Keadaan I'rab
 
-I'rab punya **empat keadaan** (state). Masing-masing punya tanda harakat tertentu:
+Walaupun bentuk penanda i'rab bervariasi, jabatan kata dalam kalimat dikategorikan ke dalam **empat keadaan i'rab**. Setiap keadaan menampung sekelompok jabatan yang berbagi karakteristik:
 
-1. **Rafa'** (\ar{رَفْعٌ}) --- "tinggi"
-2. **Nashb** (\ar{نَصْبٌ}) --- "terbentang"
-3. **Jarr** (\ar{جَرٌّ}) --- "tertarik"
-4. **Jazm** (\ar{جَزْمٌ}) --- "terpotong"
+1. **Rafa'** (\ar{رَفْعٌ}) --- menampung jabatan utama: mubtada, khabar, fa'il, naib fa'il
+2. **Nashb** (\ar{نَصْبٌ}) --- menampung jabatan objek dan keterangan: maf'ul bih, hal, tamyiz, dan lainnya
+3. **Jarr** (\ar{جَرٌّ}) --- keadaan setelah harf jarr atau pada mudhaf ilaih
+4. **Jazm** (\ar{جَزْمٌ}) --- keadaan khusus untuk fi'il mudhari yang dijazm
 
-Kita akan bahas ini secara detail di pelajaran berikutnya, beserta tanda-tanda asli untuk masing-masing.
+Setiap keadaan ini punya beragam bentuk penanda, tergantung jenis kata yang ditandai. Pelajaran berikutnya membahas keempat keadaan dan jabatan-jabatan yang termasuk masing-masing.
 
 ## Sambil Mengingat...
 
-Kalau pelajaran ini terasa berat, ingat satu hal: **i'rab adalah kunci membaca Al-Qur'an dan kitab dengan tepat**. Tanpa i'rab, kalimat Arab seperti puzzle yang dibongkar acak. Dengan i'rab, struktur kalimat menjadi jelas: ini subjek, ini objek, ini keterangan, ini penjelas.
+Kalau pelajaran ini terasa berat, ingat satu hal: **i'rab adalah kunci memahami struktur kalimat Arab**. Tanpa i'rab, kalimat seperti puzzle yang dibongkar acak. Dengan i'rab, setiap kata membawa jabatannya sendiri --- ini subjek, ini objek, ini keterangan, ini mudhaf ilaih.
 
 Para ulama generasi awal merumuskan ilmu nahwu --- termasuk konsep i'rab --- karena mereka tahu betapa pentingnya bagi umat untuk memahami Al-Qur'an dengan benar. Kita sekarang menerima warisan itu.
 
@@ -138,5 +150,6 @@ Para ulama generasi awal merumuskan ilmu nahwu --- termasuk konsep i'rab --- kar
 
 Untuk pelajaran berikutnya:
 
-1. Tulis kalimat \ar{ضَرَبَ زَيْدٌ عَمْرًا} dan \ar{ضَرَبَ زَيْدًا عَمْرٌو}. Untuk masing-masing, tunjukkan: mana subjek, mana objek, dan apa harakat akhirnya.
-2. Cari tiga ayat di Al-Fatihah atau surat-surat pendek Juz 30 yang punya kata dengan harakat akhir yang berbeda-beda. Tulis ayatnya, dan untuk satu kata yang berubah, jelaskan apa yang Anda perhatikan.
+1. Untuk kalimat \ar{ضَرَبَ زَيْدٌ عَمْرًا}: tunjukkan jabatan tiap kata (fi'il, fa'il, maf'ul bih). Tunjukkan juga apa yang menandai jabatan tersebut.
+2. Untuk kalimat \ar{ضَرَبَ زَيْدًا عَمْرٌو}: lakukan analisis yang sama dan bandingkan dengan no. 1.
+3. Pilih tiga ayat dari surat-surat pendek Juz 30 (al-Ikhlas, al-Falaq, an-Nas, al-Kafirun, al-Ashr) yang strukturnya jelas. Tunjukkan jabatan tiap kata --- jangan dulu memikirkan bentuk penandanya, fokus pada **fungsi** kata dalam kalimat.

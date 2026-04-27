@@ -1,93 +1,89 @@
 ---
-title: "Pelajaran 7 --- Empat Keadaan I'rab dan Tanda-Tandanya"
+title: "Pelajaran 7 --- Empat Keadaan I'rab"
 subtitle: "Cahaya Tauhid --- Paket Pembelajaran Bahasa Arab Klasik"
 lang: id
 ---
 
-# Empat Keadaan I'rab dan Tanda-Tandanya
+# Empat Keadaan I'rab
 
-Pada pelajaran sebelumnya kita kenal i'rab sebagai perubahan akhir kata yang menunjukkan fungsi. Sekarang kita masuk ke detail: empat keadaan i'rab, tanda-tanda aslinya, dan kapan masing-masing dipakai.
+Pada pelajaran sebelumnya kita kenal i'rab sebagai penanda jabatan kata dalam struktur kalimat. Sekarang kita masuk ke detail: empat keadaan i'rab, jabatan-jabatan yang termasuk dalam masing-masing keadaan, dan bentuk penanda untuk kasus normal.
 
 ## Empat Keadaan: Ringkasan
 
-| No | Keadaan | Istilah Arab        | Untuk apa (umumnya)        | Tanda asli       |
-|----|---------|---------------------|----------------------------|------------------|
-| 1  | Rafa'   | \ar{مَرْفُوعٌ}      | Subjek dan kebanyakan kata | Dhammah (\ar{ـُ}) atau dhammatain (\ar{ـٌ}) |
-| 2  | Nashb   | \ar{مَنْصُوبٌ}      | Objek dan keterangan       | Fathah (\ar{ـَ}) atau fathatain (\ar{ـً})   |
-| 3  | Jarr    | \ar{مَجْرُورٌ}      | Setelah harf jarr; idhafah | Kasrah (\ar{ـِ}) atau kasratain (\ar{ـٍ})   |
-| 4  | Jazm    | \ar{مَجْزُومٌ}      | Fi'il mudhari' yang dijazm | Sukun (\ar{ـْ}) atau pembuangan              |
+| No | Keadaan | Istilah Arab        | Jabatan yang termasuk                                       |
+|----|---------|---------------------|-------------------------------------------------------------|
+| 1  | Rafa'   | \ar{مَرْفُوعٌ}      | Mubtada, khabar, fa'il, naib fa'il                          |
+| 2  | Nashb   | \ar{مَنْصُوبٌ}      | Maf'ul bih, hal, tamyiz, dan jabatan keterangan lainnya     |
+| 3  | Jarr    | \ar{مَجْرُورٌ}      | Setelah harf jarr; mudhaf ilaih dalam idhafah               |
+| 4  | Jazm    | \ar{مَجْزُومٌ}      | Khusus untuk fi'il mudhari yang dimasuki adawat jazm        |
 
-Yang penting diingat: **rafa', nashb, jarr** itu untuk *isim* dan *fi'il mudhari'*. **Jazm** hanya untuk *fi'il mudhari'* (isim tidak pernah jazm).
+Yang penting diingat: **rafa', nashb, jarr** dapat dialami oleh isim mu'rab dan fi'il mudhari'. **Jazm** hanya untuk fi'il mudhari' --- isim tidak pernah dalam keadaan jazm.
 
-Mari kita bedah satu per satu.
+Mari kita bedah satu per satu, dengan fokus pada **jabatan apa yang termasuk masing-masing keadaan**, lalu **bagaimana keadaan tersebut ditandai**.
 
 ## 1. Rafa' (Marfu')
 
-\ar{رَفْعٌ} (rafa') secara harfiah artinya "tinggi" atau "naik". Kata yang dalam keadaan rafa' disebut \ar{مَرْفُوعٌ} (marfu').
+\ar{رَفْعٌ} (rafa') secara harfiah artinya "tinggi". Kata yang dalam keadaan rafa' disebut \ar{مَرْفُوعٌ} (marfu').
 
-### Tanda Asli Rafa'
+### Jabatan yang Termasuk Rafa'
 
-- **Dhammah** (\ar{ـُ}) untuk kata mufrad (tunggal) yang punya \ar{ال} atau yang tidak diidhafahkan
-- **Dhammatain / tanwin dhammah** (\ar{ـٌ}) untuk kata mufrad yang nakirah (tidak punya \ar{ال})
+Keadaan rafa' menampung jabatan-jabatan utama dalam kalimat:
+
+- **Mubtada** --- subjek dari kalimat ismiyyah (kalimat yang dimulai dengan isim). Mis. \ar{زَيْدٌ قَائِمٌ} (Zayd berdiri) --- \ar{زَيْدٌ} adalah mubtada.
+- **Khabar** --- penjelas dari mubtada. Pada contoh di atas, \ar{قَائِمٌ} adalah khabar, juga marfu'.
+- **Fa'il** --- subjek dari fi'il (kalimat fi'liyyah). Mis. \ar{قَامَ زَيْدٌ} (berdiri Zayd) --- \ar{زَيْدٌ} di sini fa'il.
+- **Naib fa'il** --- pengganti pelaku dalam kalimat pasif. Mis. \ar{ضُرِبَ زَيْدٌ} (Zayd dipukul).
+
+Setiap jabatan ini akan dibahas detail di Blok Marfu'at (pelajaran-pelajaran berikutnya).
+
+### Penanda Rafa' untuk Kasus Normal
+
+Untuk isim mufrad biasa (kasus paling umum), rafa' ditandai dengan:
+
+- **Dhammah** (\ar{ـُ}) untuk kata yang punya \ar{ال} atau yang diidhafahkan
+- **Dhammatain / tanwin dhammah** (\ar{ـٌ}) untuk kata nakirah
 
 Contoh:
 
-- \ar{الرَّجُلُ} (ar-rajul-u) --- "si lelaki", marfu' dengan dhammah
-- \ar{رَجُلٌ} (rajul-un) --- "seorang lelaki", marfu' dengan dhammatain
+- \ar{الرَّجُلُ} --- "si lelaki", marfu' dengan dhammah
+- \ar{رَجُلٌ} --- "seorang lelaki", marfu' dengan dhammatain
 
-### Kapan Suatu Kata Marfu'?
-
-Beberapa fungsi yang menyebabkan kata menjadi marfu':
-
-- **Mubtada'** --- subjek dari kalimat ismiyyah. Mis. \ar{زَيْدٌ قَائِمٌ} (Zayd berdiri).
-- **Khabar** --- penjelas dari mubtada'. Mis. \ar{زَيْدٌ قَائِمٌ} --- \ar{قَائِمٌ} adalah khabar, juga marfu'.
-- **Fa'il** --- subjek dari fi'il. Mis. \ar{قَامَ زَيْدٌ} (berdiri Zayd) --- \ar{زَيْدٌ} di sini fa'il.
-- **Naib fa'il** --- pengganti pelaku dalam kalimat pasif. Mis. \ar{ضُرِبَ زَيْدٌ} (Zayd dipukul).
-
-Kategori-kategori ini akan kita bahas detail di blok-blok berikutnya. Untuk sekarang, kenali: **kalau Anda lihat dhammah/dhammatain di akhir kata, kemungkinan besar dia marfu', dan dia berperan sebagai subjek atau peran utama lainnya**.
+Ada bentuk penanda lain untuk kategori isim khusus (mutsanna, jamak mudzakkar salim, asma' al-khamsah) --- ditangani di Level 2.
 
 ## 2. Nashb (Manshub)
 
 \ar{نَصْبٌ} (nashb) secara harfiah artinya "tegak" atau "terbentang". Kata yang dalam keadaan nashb disebut \ar{مَنْصُوبٌ} (manshub).
 
-### Tanda Asli Nashb
+### Jabatan yang Termasuk Nashb
+
+Keadaan nashb menampung jabatan-jabatan objek dan keterangan:
+
+- **Maf'ul bih** --- objek dari fi'il. Mis. \ar{ضَرَبَ زَيْدٌ عَمْرًا} (Zayd memukul Amr) --- \ar{عَمْرًا} adalah maf'ul bih.
+- **Hal** --- keterangan keadaan saat pekerjaan terjadi. Mis. \ar{جَاءَ زَيْدٌ مَاشِيًا} (datang Zayd dalam keadaan berjalan).
+- **Tamyiz** --- penjelas. Mis. \ar{اشْتَرَيْتُ صَاعًا تَمْرًا} (saya beli satu sha' kurma) --- \ar{تَمْرًا} adalah tamyiz untuk \ar{صَاعًا}.
+- **Khabar Kana, Isim Inna**, dan beberapa jabatan lainnya yang akan dipelajari di Blok Manshubat.
+
+### Penanda Nashb untuk Kasus Normal
+
+Untuk isim mufrad biasa:
 
 - **Fathah** (\ar{ـَ}) untuk kata yang punya \ar{ال} atau yang diidhafahkan
 - **Fathatain / tanwin fathah** (\ar{ـً}) untuk kata nakirah
 
 Contoh:
 
-- \ar{الرَّجُلَ} (ar-rajul-a) --- manshub dengan fathah
-- \ar{رَجُلًا} (rajul-an) --- manshub dengan fathatain
-
-### Kapan Suatu Kata Manshub?
-
-- **Maf'ul bih** --- objek dari fi'il. Mis. \ar{ضَرَبَ زَيْدٌ عَمْرًا} (Zayd memukul Amr) --- \ar{عَمْرًا} manshub.
-- **Hal** --- keterangan keadaan. Mis. \ar{جَاءَ زَيْدٌ مَاشِيًا} (datang Zayd dalam keadaan berjalan).
-- **Tamyiz** --- penjelas. Mis. \ar{اشْتَرَيْتُ صَاعًا تَمْرًا} (saya beli satu sha' kurma).
-- **Khabar Kana**, **Isim Inna**, dan beberapa lainnya yang akan dipelajari nanti.
-
-Tanda hafalan: kalau Anda lihat fathah/fathatain di akhir kata (dan kata itu isim, bukan fi'il), kemungkinan dia manshub.
+- \ar{الرَّجُلَ} --- manshub dengan fathah
+- \ar{رَجُلًا} --- manshub dengan fathatain
 
 ## 3. Jarr (Majrur)
 
-\ar{جَرٌّ} (jarr) secara harfiah artinya "tarikan" atau "menarik turun". Kata yang dalam keadaan jarr disebut \ar{مَجْرُورٌ} (majrur).
+\ar{جَرٌّ} (jarr) secara harfiah artinya "tarikan". Kata yang dalam keadaan jarr disebut \ar{مَجْرُورٌ} (majrur).
 
-### Tanda Asli Jarr
+### Jabatan yang Termasuk Jarr
 
-- **Kasrah** (\ar{ـِ}) untuk kata yang punya \ar{ال} atau yang diidhafahkan
-- **Kasratain / tanwin kasrah** (\ar{ـٍ}) untuk kata nakirah
+Hanya dua jabatan:
 
-Contoh:
-
-- \ar{الرَّجُلِ} (ar-rajul-i) --- majrur dengan kasrah
-- \ar{رَجُلٍ} (rajul-in) --- majrur dengan kasratain
-
-### Kapan Suatu Kata Majrur?
-
-Hanya dua sebab:
-
-1. **Setelah harf jarr** --- harf yang membuat kata setelahnya jadi majrur. Daftar harf jarr akan dipelajari di Blok Majrurat.
+1. **Setelah harf jarr** --- harf yang membuat kata setelahnya menjadi majrur. Daftar harf jarr akan dipelajari di Blok Majrurat.
    
    Contoh: \ar{مِنَ الْبَيْتِ} (dari rumah) --- \ar{الْبَيْتِ} majrur karena \ar{مِنْ}.
 
@@ -95,7 +91,17 @@ Hanya dua sebab:
    
    Contoh: \ar{كِتَابُ زَيْدٍ} (kitabnya Zayd) --- \ar{زَيْدٍ} majrur karena diidhafahkan.
 
-Tanda hafalan: kalau Anda lihat kasrah di akhir, dia majrur. Periksa apa di depannya: harf jarr atau idhafah.
+### Penanda Jarr untuk Kasus Normal
+
+Untuk isim mufrad biasa:
+
+- **Kasrah** (\ar{ـِ}) untuk kata yang punya \ar{ال} atau yang diidhafahkan
+- **Kasratain / tanwin kasrah** (\ar{ـٍ}) untuk kata nakirah
+
+Contoh:
+
+- \ar{الرَّجُلِ} --- majrur dengan kasrah
+- \ar{رَجُلٍ} --- majrur dengan kasratain
 
 ## 4. Jazm (Majzum)
 
@@ -103,64 +109,65 @@ Tanda hafalan: kalau Anda lihat kasrah di akhir, dia majrur. Periksa apa di depa
 
 ### Hanya untuk Fi'il Mudhari'
 
-**Penting**: jazm HANYA untuk fi'il mudhari'. Isim tidak pernah jazm. Fi'il madhi dan amr juga tidak ber-i'rab dengan jazm (madhi dan amr punya keadaannya sendiri yang tidak berubah --- mereka *mabni*).
+**Penting**: jazm hanya berlaku untuk fi'il mudhari'. Isim tidak pernah dalam keadaan jazm. Fi'il madhi dan amr juga tidak ber-i'rab dengan jazm --- mereka *mabni* (tidak berubah berdasarkan jabatan).
 
-### Tanda Asli Jazm
+### Kapan Fi'il Mudhari' Majzum?
 
-- **Sukun** (\ar{ـْ}) untuk fi'il mudhari' shahih (tidak ada huruf 'illah di akhir)
-- **Pembuangan huruf 'illah** (\ar{و}, \ar{ا}, \ar{ي}) untuk fi'il mudhari' mu'tal akhir
-- **Pembuangan nun** untuk fi'il mudhari' yang berasal dari af'aalul khamsah (akan dipelajari di Level 2)
+Karena dimasuki **adawat jazm** (kata yang menyebabkan jazm). Beberapa adawat jazm umum:
 
-Contoh paling umum:
-
-\ar{لَمْ يَكْتُبْ} (lam yaktub) --- "dia tidak menulis"
-
-- \ar{لَمْ} adalah harf jazm (membuat fi'il setelahnya majzum)
-- \ar{يَكْتُبْ} adalah fi'il mudhari' yang sebelumnya \ar{يَكْتُبُ} (dengan dhammah pada huruf akhir), sekarang dijazm jadi sukun pada huruf akhir
-
-### Kapan Suatu Fi'il Majzum?
-
-Karena dimasuki **adawat jazm** (alat-alat yang menyebabkan jazm). Beberapa adawat jazm:
-
-- \ar{لَمْ} (lam) --- "tidak" (untuk masa lampau)
+- \ar{لَمْ} (lam) --- "tidak" untuk masa lampau
 - \ar{لَمَّا} (lammaa) --- "belum"
 - \ar{لَامُ الْأَمْرِ} (lam amr) --- huruf \ar{لِ} untuk perintah, mis. \ar{لِيَكْتُبْ} (hendaklah dia menulis)
 - \ar{لَا النَّاهِيَةِ} (la nahyi) --- \ar{لَا} untuk larangan, mis. \ar{لَا تَكْتُبْ} (jangan kamu menulis)
 
-Akan dipelajari detail di Blok Majzumat.
+Detail tentang adawat jazm dan kasus syarat-jawab akan dibahas di Blok Majzumat.
+
+### Penanda Jazm untuk Kasus Normal
+
+Untuk fi'il mudhari shahih akhir (akhirnya bukan huruf 'illah):
+
+- **Sukun** (\ar{ـْ}) menggantikan harakat akhir
+
+Contoh:
+
+\ar{لَمْ يَكْتُبْ} (lam yaktub) --- "dia tidak menulis"
+
+- \ar{يَكْتُبُ} (bentuk asli, marfu' dengan dhammah pada huruf akhir)
+- Setelah dimasuki \ar{لَمْ}, fi'il jadi majzum: \ar{يَكْتُبْ} (dengan sukun pada huruf akhir)
+
+Untuk fi'il mudhari yang akhirnya huruf 'illah, jazm-nya ditandai dengan pembuangan huruf 'illah --- ini bentuk penanda yang berbeda, akan dipelajari di Blok Majzumat dan diperdalam di Level 2.
 
 ## Kesimpulan: Memetakan I'rab di Kepala
 
-Untuk membaca dan memahami kalimat Arab, lakukan ini di kepala:
+Untuk memahami struktur kalimat Arab, lakukan ini secara berurutan:
 
-1. **Lihat harakat akhir setiap kata**:
-   - Dhammah/dhammatain → kemungkinan besar marfu'
-   - Fathah/fathatain → kemungkinan besar manshub (atau bisa jadi mabni untuk fi'il madhi)
-   - Kasrah/kasratain → kemungkinan besar majrur
-   - Sukun → bisa majzum (kalau fi'il mudhari') atau mabni (kalau fi'il amr)
+1. **Identifikasi jenis kata** --- isim, fi'il, atau harf (Pelajaran 5).
+2. **Identifikasi jabatan kata** dari konteks --- apakah dia subjek, objek, keterangan, mudhaf ilaih, dan seterusnya. Ini akan terlatih di Blok 2--6.
+3. **Verifikasi dengan penanda i'rab** --- apa yang menandai jabatannya: harakat, huruf, atau pembuangan?
 
-2. **Tentukan jenis kata** (isim, fi'il, harf) --- pelajaran sebelumnya
+Untuk pemula, langkah 2 (identifikasi jabatan) yang paling banyak butuh latihan. Penanda i'rab adalah konfirmasi --- bukan tujuan utama analisis.
 
-3. **Identifikasi fungsinya** dari konteks: subjek? objek? keterangan? mudhaf ilaih? Akan kita pelajari di blok-blok berikutnya.
+## Bentuk Penanda Lain --- Akan Dipelajari di Level 2
 
-## Tanda Far'i: Disinggung Sekarang, Detail di Level 2
+Penanda yang dibahas di atas (dhammah, fathah, kasrah, sukun untuk kasus normal) cukup untuk mayoritas kalimat dalam Quran, hadits, dan kitab pemula. Tetapi bahasa Arab punya beberapa kategori isim dan fi'il dengan bentuk penanda yang berbeda:
 
-Tanda asli yang dibahas di atas (dhammah, fathah, kasrah, sukun) cukup untuk **mayoritas kasus normal**. Tetapi ada kasus-kasus khusus di mana tanda i'rab berupa huruf, bukan harakat:
+- **Asma' al-khamsah** (lima nama: \ar{أَبٌ، أَخٌ، حَمٌ، فُو، ذُو}) --- penandanya berupa huruf (\ar{و، ا، ي}), bukan harakat
+- **Mutsanna** (kata bermakna dua) --- penandanya berupa huruf (\ar{ا، ي})
+- **Jamak mudzakkar salim** (jamak laki-laki teratur) --- penandanya berupa huruf (\ar{و، ي})
+- **Jamak mu'annats salim** (jamak perempuan teratur) --- nashb-nya pakai kasrah, bukan fathah
+- **Asma' ghair munsharif** --- aturan khusus, tidak menerima tanwin
+- **Fi'il mudhari mu'tal akhir** dalam keadaan jazm --- penandanya berupa pembuangan huruf
 
-- **Asma' al-khamsah** (lima nama: \ar{أَبٌ، أَخٌ، حَمٌ، فُو، ذُو}) --- pakai huruf \ar{و، ا، ي}
-- **Mutsanna** (kata bermakna dua) --- pakai huruf \ar{ا، ي}
-- **Jamak mudzakkar salim** (jamak laki-laki teratur) --- pakai huruf \ar{و، ي}
-- **Jamak mu'annats salim** (jamak perempuan teratur) --- pakai kasrah pengganti fathah pada nashb
-- **Asma' ghair munsharif** (isim yang tidak menerima tanwin) --- punya aturan khusus
+Ini menegaskan poin yang dibahas di Pelajaran 6: **i'rab adalah fungsi (penanda jabatan), bukan satu bentuk tertentu**. Bentuk penandanya bervariasi sesuai jenis kata. Variasi-variasi di atas dipelajari tuntas di Level 2.
 
-Ini akan dibahas tuntas di **Level 2**. Untuk Level 1, fokus pada tanda asli untuk kasus normal.
+Untuk Level 1, fokus pada **identifikasi jabatan** dan **mengenali penanda untuk kasus normal**.
 
 ## Latihan PR
 
 Untuk pelajaran berikutnya:
 
-1. Hafalkan tabel ringkasan empat keadaan i'rab di awal pelajaran ini.
-2. Ambil 5 ayat dari surat-surat pendek Juz 30 (mis. al-Ikhlas, al-Falaq, an-Nas, al-Kafirun, al-Asr). Identifikasi setiap kata, tentukan keadaan i'rabnya berdasarkan harakat akhir.
-3. Tulis 3 contoh kalimat Anda sendiri yang menggunakan: kata marfu', kata manshub, dan kata majrur.
+1. Hafalkan tabel "Empat Keadaan: Ringkasan" di awal pelajaran ini --- terutama jabatan-jabatan yang termasuk masing-masing keadaan.
+2. Ambil 5 ayat dari surat-surat pendek Juz 30 (mis. al-Ikhlas, al-Falaq, an-Nas, al-Kafirun, al-Ashr). Untuk setiap kata, tentukan: (a) jenis katanya (isim/fi'il/harf), (b) keadaan i'rabnya kalau dia mu'rab. Tidak harus tahu jabatannya dulu --- itu akan dilatih di blok berikutnya.
+3. Tulis 3 contoh kalimat sederhana Anda sendiri yang berisi: kata marfu', kata manshub, dan kata majrur. Beri tahu apa jabatan masing-masing.
 
-Pelajaran berikutnya, kita masuk ke **Blok 2 --- Marfu'at**, dimulai dengan mubtada' dan khabar.
+Pelajaran berikutnya kita masuk ke **Blok 2 --- Marfu'at**, dimulai dengan mubtada dan khabar.
