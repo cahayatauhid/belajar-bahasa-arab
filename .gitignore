@@ -11,4 +11,6 @@ out/
 *.docx
 *.pptx
 !docs/**/*.pdf
+!textbook/level-*.pdf
+!workbook/level-*.pdf
 _build/cache/

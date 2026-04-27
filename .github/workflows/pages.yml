@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - 'slides/**'
+      - 'textbook/level-*.pdf'
+      - 'workbook/level-*.pdf'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -31,10 +33,19 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Assemble Pages content
+        run: |
+          mkdir -p _pages_site
+          cp -r slides/* _pages_site/
+          mkdir -p _pages_site/buku
+          if [ -f textbook/level-1.pdf ]; then
+            cp textbook/level-1.pdf _pages_site/buku/level-1.pdf
+          fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: slides
+          path: _pages_site
 
       - name: Deploy to GitHub Pages
         id: deployment

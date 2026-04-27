@@ -135,7 +135,9 @@ Jadi ayat ini adalah jumlah ismiyyah: mubtada "Segala puji" + khabar "bagi Allah
 
 ## Kesesuaian Mubtada dan Khabar Mufrad
 
-Khabar mufrad harus **sesuai dengan mubtada** dalam dua hal:
+Sebagaimana yang sudah kita kenalkan di Pelajaran 4 (bagian "Mengapa Bahasa Arab Terasa Lebih Sulit"), bahasa Arab membedakan kata berdasarkan **gender** dan **jumlah** --- pembedaan yang tidak ada di bahasa Indonesia. Konsekuensi langsung: di banyak struktur kalimat, kata-kata yang berhubungan harus **sesuai** dalam pembedaan-pembedaan itu.
+
+Aturan pertama yang akan kita temui: khabar mufrad harus **sesuai dengan mubtada** dalam dua hal:
 
 1. **Jenis kelamin** (mu'annats / mudzakkar) --- jika mubtada perempuan, khabar juga perempuan
 2. **Jumlah** (mufrad / mutsanna / jamak) --- jika mubtada tunggal, khabar tunggal; dst.
