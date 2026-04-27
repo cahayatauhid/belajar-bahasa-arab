@@ -6,7 +6,13 @@ lang: id
 
 # Mubtada dan Khabar
 
-Mulai pelajaran ini, kita masuk ke **Blok 2 --- Marfu'at**: jabatan-jabatan kata yang ada di keadaan rafa. Tiga pelajaran pertama membahas tiga jabatan utama yang menjadi inti pembicaraan dalam kalimat: **mubtada**, **fa'il**, dan **naib fa'il**. Dimulai dengan mubtada dan pasangannya, khabar.
+Mulai pelajaran ini, kita masuk ke **Blok 2 --- Marfu'at**: jabatan-jabatan kata yang ada di keadaan rafa. *Al-Jurumiyyah* (Bab al-Marfu'at) memberi peta lengkap untuk seluruh blok ini:
+
+\hadits{المَرْفُوعَاتُ سَبْعَةٌ، وَهِيَ الفَاعِلُ، وَالمَفْعُولُ الَّذِي لَمْ يُسَمَّ فَاعِلُهُ، وَالمُبْتَدَأُ وَخَبَرُهُ، وَاسْمُ كَانَ وَأَخَوَاتِهَا، وَخَبَرُ إِنَّ وَأَخَوَاتِهَا، وَالتَّابِعُ لِلْمَرْفُوعِ، وَهُوَ أَرْبَعَةُ أَشْيَاءَ، النَّعْتُ، وَالعَطْفُ، وَالتَّوْكِيدُ، وَالبَدَلُ}
+
+> "Marfu'at ada tujuh: fa'il, maf'ul yang belum disebutkan pelakunya (= naib fa'il), mubtada dan khabarnya, isim *kana* dan saudaranya, khabar *inna* dan saudaranya, dan tabi' yang marfu' --- dia ada empat hal: na'at, athaf, taukid, dan badal."
+
+Inilah cetak biru Blok 2: lima pelajaran kita (8--12) langsung memetakan ke tujuh marfu'at di matn ini. Dimulai dengan **mubtada dan khabar**.
 
 ## Dua Jenis Kalimat dalam Bahasa Arab
 
@@ -20,6 +26,12 @@ Keduanya menyampaikan informasi yang serupa, tapi struktur dan jabatan kata berb
 ## Mubtada: Inti Pembicaraan
 
 \ar{مُبْتَدَأٌ} (mubtada) artinya: "yang dimulai dengan". Jabatan mubtada adalah **isim yang menjadi inti pembicaraan** di awal kalimat ismiyyah --- yaitu apa yang ingin kita bicarakan, yang akan diberi keterangan oleh kata setelahnya.
+
+*Al-Jurumiyyah* (Bab al-Mubtada wal-Khabar):
+
+\hadits{المُبْتَدَأُ هُوَ الاسْمُ المَرْفُوعُ العَارِي عَنِ العَوَامِلِ اللَّفْظِيَّةِ. وَالخَبَرُ هُوَ الاسْمُ المَرْفُوعُ المُسْنَدُ إِلَيْهِ}
+
+> "Mubtada adalah isim marfu' yang bebas dari 'amil-'amil lafzhi. Khabar adalah isim marfu' yang disandarkan kepadanya (kepada mubtada)."
 
 Dalam kalimat:
 

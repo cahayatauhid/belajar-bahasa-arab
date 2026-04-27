@@ -10,7 +10,18 @@ Sekarang kita sampai pada konsep yang paling penting dalam bahasa Arab --- yang 
 
 ## Apa Itu I'rab?
 
-\ar{إِعْرَابٌ} (i'rab) adalah: **penanda jabatan kata dalam struktur kalimat**.
+*Al-Jurumiyyah* (Bab al-I'rab) memberikan definisi klasik:
+
+\hadits{الإِعْرَابُ هُوَ تَغْيِيرُ أَوَاخِرِ الكَلِمِ لِاخْتِلَافِ العَوَامِلِ الدَّاخِلَةِ عَلَيْهَا لَفْظًا أَوْ تَقْدِيرًا}
+
+> "I'rab adalah perubahan akhir-akhir kalimah karena perbedaan 'amil yang masuk padanya, baik secara lafzhi (tampak) atau taqdiri (perkiraan / konseptual)."
+
+Definisi ini punya dua bagian penting:
+
+1. **"Perubahan akhir kalimah"** --- yang berubah adalah bagian akhir kata, bukan inti kata.
+2. **"Lafzhi atau taqdiri"** --- perubahan bisa **tampak** (lafzhi: harakat akhir berubah, atau huruf akhir berubah, atau ada pembuangan), atau bisa **konseptual** (taqdiri: kata mabni yang bentuknya tetap tetapi menempati posisi i'rab tertentu --- "fi mahalli", yang akan kita bahas lebih lanjut).
+
+Dengan kata lain, fungsi i'rab adalah: **penanda jabatan kata dalam struktur kalimat**.
 
 "Jabatan" di sini artinya fungsi atau peran yang diemban kata dalam kalimat --- apakah dia subjek, objek, keterangan, mudhaf ilaih, dan seterusnya. I'rab adalah cara bahasa Arab mengkomunikasikan jabatan tersebut kepada pendengar atau pembaca.
 

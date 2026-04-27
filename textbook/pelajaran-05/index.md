@@ -10,11 +10,13 @@ Pada pelajaran sebelumnya kita pelajari konsep *kalam* (kalimat sempurna) dan *k
 
 Bahasa Arab membagi semua kalimah ke dalam **tiga kategori saja**, dan setiap kalimah pasti masuk ke salah satu dari tiga ini. Tidak ada kategori keempat.
 
-Kalimat pembuka *Al-Jurumiyyah* yang akan menemani kita di Level 1--2:
+Kalimat pembuka *Al-Jurumiyyah* (Bab al-Kalam) yang akan menemani kita di Level 1--2:
 
-\ayat{الكَلَامُ هُوَ اللَّفْظُ المُرَكَّبُ المُفِيدُ بِالوَضْعِ، وَأَقْسَامُهُ ثَلَاثَةٌ، اسْمٌ وَفِعْلٌ وَحَرْفٌ جَاءَ لِمَعْنًى}
+\hadits{الكَلَامُ هُوَ اللَّفْظُ المُرَكَّبُ المُفِيدُ بِالوَضْعِ، وَأَقْسَامُهُ ثَلَاثَةٌ، اسْمٌ وَفِعْلٌ وَحَرْفٌ جَاءَ لِمَعْنًى}
 
 > "Kalam adalah lafaz yang tersusun, yang memberi faedah, berdasarkan ketetapan bahasa. Bagiannya ada tiga: isim, fi'il, dan harf yang datang dengan makna."
+>
+> --- Ibn Ajurrum, *Al-Jurumiyyah*, Bab al-Kalam
 
 Mari kita bahas masing-masing.
 
@@ -35,12 +37,20 @@ Yang penting: isim tidak punya keterangan waktu (tidak menunjukkan kapan terjadi
 
 ### Tanda-Tanda Isim
 
-Anda mengidentifikasi isim dengan empat tanda. Suatu kata adalah isim **jika ia memenuhi salah satu dari tanda berikut**:
+*Al-Jurumiyyah* (Bab al-Kalam) menjelaskan tanda isim:
+
+\hadits{فَالاسْمُ يُعْرَفُ بِالخَفْضِ، وَالتَّنْوِينِ، وَدُخُولِ الْأَلِفِ وَاللَّامِ، وَحُرُوفِ الخَفْضِ}
+
+> "Isim diketahui dengan khafd (jarr), tanwin, dimasuki alif-lam, dan dimasuki harf-harf khafd."
+
+Empat tanda yang disebutkan matn ini bisa kita rumuskan ulang dengan tambahan satu yang implisit:
 
 1. **Bisa dimasuki \ar{ال} (alif lam)** --- mis. \ar{رَجُلٌ} → \ar{الرَّجُلُ} (si lelaki)
 2. **Bisa menerima tanwin** --- mis. dhammatain (\ar{ـٌ}), fathatain (\ar{ـً}), kasratain (\ar{ـٍ}): \ar{رَجُلٌ}, \ar{رَجُلًا}, \ar{رَجُلٍ}
-3. **Bisa didahului harf jarr** --- mis. \ar{مِنْ رَجُلٍ} (dari lelaki), \ar{إِلَى رَجُلٍ} (ke lelaki)
-4. **Bisa di-idhafah-kan** --- mis. \ar{كِتَابُ زَيْدٍ} (kitabnya Zayd)
+3. **Bisa didahului harf khafd / harf jarr** --- mis. \ar{مِنْ رَجُلٍ} (dari lelaki), \ar{إِلَى رَجُلٍ} (ke lelaki)
+4. **Bisa di-khafd-kan / dijarr-kan** --- termasuk dalam idhafah, mis. \ar{كِتَابُ زَيْدٍ} (kitabnya Zayd)
+
+Catatan: matn pakai istilah **khafd** (\ar{خَفْضٌ}) yang sinonim dengan **jarr** (\ar{جَرٌّ}) yang lebih sering kita dengar. Madzhab Bashrah pakai "khafd"; madzhab Kufah pakai "jarr". Keduanya merujuk ke keadaan i'rab yang sama. Detail di Pelajaran 7.
 
 Kalau suatu kata bisa salah satu dari empat hal di atas, dia pasti isim.
 
@@ -76,7 +86,13 @@ Menunjukkan permintaan atau perintah untuk melakukan kejadian. Contoh:
 
 ### Tanda-Tanda Fi'il
 
-Anda mengidentifikasi fi'il dengan tanda-tanda berikut. Suatu kata adalah fi'il jika dia bisa **didahului oleh** salah satu dari:
+*Al-Jurumiyyah* (Bab al-Kalam):
+
+\hadits{وَالفِعْلُ يُعْرَفُ بِقَدْ، وَالسِّينِ، وَسَوْفَ، وَتَاءِ التَّأْنِيثِ السَّاكِنَةِ}
+
+> "Fi'il diketahui dengan *qad*, *as-sin*, *sawfa*, dan *ta' ta'nits sakinah*."
+
+Empat tanda fi'il dari matn:
 
 1. \ar{قَدْ} (qad) --- artinya "sungguh-sungguh" atau "telah". Mis. \ar{قَدْ كَتَبَ} (sungguh telah menulis).
 2. \ar{السِّينُ} (huruf \ar{س}) --- prefix untuk masa depan dekat. Mis. \ar{سَيَكْتُبُ} (akan menulis [segera]).
@@ -103,7 +119,13 @@ Contoh harf:
 
 ### Tanda-Tanda Harf
 
-Tanda harf adalah **tidak adanya tanda isim dan tidak adanya tanda fi'il**. Kalau suatu kata tidak bisa dimasuki \ar{ال}, tidak menerima tanwin, tidak didahului harf jarr (kecuali sesama harf), tidak bisa diidhafahkan; dan juga tidak bisa didahului \ar{قَدْ}, \ar{س}, \ar{سَوْفَ}, atau \ar{ت} sukun --- maka dia adalah harf.
+*Al-Jurumiyyah* (Bab al-Kalam):
+
+\hadits{وَالحَرْفُ مَا لَا يَصْلُحُ مَعَهُ دَلِيلُ الاسْمِ وَلَا دَلِيلُ الفِعْلِ}
+
+> "Harf adalah kata yang tidak cocok dimasuki tanda isim dan tidak cocok dimasuki tanda fi'il."
+
+Tanda harf adalah **tidak adanya tanda isim dan tidak adanya tanda fi'il** --- definisi negatif. Kalau suatu kata tidak bisa dimasuki \ar{ال}, tidak menerima tanwin, tidak didahului harf jarr (kecuali sesama harf), tidak bisa diidhafahkan; dan juga tidak bisa didahului \ar{قَدْ}, \ar{س}, \ar{سَوْفَ}, atau \ar{ت} sukun --- maka dia adalah harf.
 
 ## Latihan: Identifikasi di Surat Al-Fatihah
 

@@ -12,6 +12,14 @@ Dua kelompok nawasikh utama: **kana wa akhowatuha** dan **inna wa akhowatuha**. 
 
 ## Konsep Nawasikh
 
+*Al-Jurumiyyah* (Bab al-'Awamil al-Dakhilah 'ala al-Mubtada wal-Khabar) memetakan kelompok nawasikh:
+
+\hadits{وَهِيَ ثَلَاثَةُ أَشْيَاءَ، كَانَ وَأَخَوَاتُهَا، وَإِنَّ وَأَخَوَاتُهَا، وَظَنَنْتُ وَأَخَوَاتُهَا}
+
+> "[Pengubah-pengubah pada mubtada-khabar] ada tiga: *kana* dan saudaranya, *inna* dan saudaranya, dan *zhanantu* dan saudaranya."
+
+Pelajaran ini bahas dua kelompok pertama (kana dan inna). Kelompok ketiga (*zhanantu* --- kata kerja yang ambil dua maf'ul) diperdalam di Level 2.
+
 Nawasikh adalah kata-kata yang ketika dimasukkan ke jumlah ismiyyah, akan **mengubah jabatan dan i'rab** dari mubtada dan khabar.
 
 Mari mulai dengan kalimat dasar:
@@ -62,6 +70,12 @@ Pelajaran ini di Blok 2 (Marfu'at) membahas dua yang **rafa**:
 Dua sisanya (**khabar kana** dan **isim inna**) berada di keadaan **nashb** dan akan dibahas di Blok 3 (Manshubat).
 
 ## Isim Kana
+
+*Al-Jurumiyyah*:
+
+\hadits{فَأَمَّا كَانَ وَأَخَوَاتُهَا، فَإِنَّهَا تَرْفَعُ الاسْمَ وَتَنْصِبُ الخَبَرَ}
+
+> "Adapun *kana* dan saudaranya, mereka me-rafa' isim dan me-nashb khabar."
 
 Setelah dimasuki \ar{كَانَ} atau saudaranya, mubtada **berubah jabatan** menjadi **isim kana**. Tetapi tetap di keadaan rafa.
 
@@ -117,6 +131,14 @@ Contoh dengan \ar{لَيْسَ}:
 - \ar{كَاذِبًا} --- khabar laysa, manshub
 
 ## Khabar Inna
+
+*Al-Jurumiyyah*:
+
+\hadits{وَأَمَّا إِنَّ وَأَخَوَاتُهَا، فَإِنَّهَا تَنْصِبُ الاسْمَ وَتَرْفَعُ الخَبَرَ}
+
+> "Adapun *inna* dan saudaranya, mereka me-nashb isim dan me-rafa' khabar."
+
+Perhatikan: kana dan inna **kebalikan** satu sama lain --- kana me-rafa' isim dan me-nashb khabar; inna sebaliknya.
 
 Setelah dimasuki \ar{إِنَّ} atau saudaranya, khabar **tetap di keadaan rafa**. Tetapi sekarang jabatannya disebut **khabar inna**, bukan lagi sekadar khabar.
 

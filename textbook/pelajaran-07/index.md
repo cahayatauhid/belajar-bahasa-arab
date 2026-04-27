@@ -8,6 +8,14 @@ lang: id
 
 Pada pelajaran sebelumnya kita kenal i'rab sebagai penanda jabatan kata dalam struktur kalimat. Sekarang kita masuk ke detail: empat keadaan i'rab, jabatan-jabatan yang termasuk dalam masing-masing keadaan, dan bentuk penanda untuk kasus normal.
 
+*Al-Jurumiyyah* (Bab al-I'rab) menyatakan:
+
+\hadits{وَأَقْسَامُهُ أَرْبَعَةٌ، رَفْعٌ، وَنَصْبٌ، وَخَفْضٌ، وَجَزْمٌ}
+
+> "Bagian-bagian i'rab ada empat: rafa', nashb, khafd, dan jazm."
+
+Catatan: matn pakai **khafd** (\ar{خَفْضٌ}) untuk keadaan ketiga. Istilah ini sinonim dengan **jarr** (\ar{جَرٌّ}) yang lebih sering kita pakai. Madzhab Bashrah pakai "khafd"; madzhab Kufah pakai "jarr". Sepanjang paket ini, kedua istilah dipakai bergantian, merujuk ke keadaan i'rab yang sama.
+
 ## Empat Keadaan: Ringkasan
 
 | No | Keadaan | Istilah Arab        | Jabatan yang termasuk                                       |

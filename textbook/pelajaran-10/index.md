@@ -42,7 +42,13 @@ Untuk fi'il mudhari, pola majhulnya berbeda --- akan dibahas di Level 2.
 
 ## Naib Fa'il: Pengganti Pelaku
 
-Setelah fi'il diubah menjadi majhul, pelaku asli tidak disebut. Yang disebut justru **kata yang dikenai pekerjaan** --- yang dalam kalimat aktif berperan sebagai maf'ul bih (objek). Karena dia "menggantikan posisi" fa'il, jabatannya disebut **naib fa'il** (\ar{نَائِبُ الْفَاعِلِ}, "pengganti fa'il").
+*Al-Jurumiyyah* memberi nama klasik untuk jabatan ini: \ar{المَفْعُولُ الَّذِي لَمْ يُسَمَّ فَاعِلُهُ} ("maf'ul yang belum disebutkan pelakunya"). Dalam Bab tersebut:
+
+\hadits{وَهُوَ الاسْمُ المَرْفُوعُ الَّذِي لَمْ يُذْكَرْ مَعَهُ فَاعِلُهُ}
+
+> "Yaitu isim marfu' yang tidak disebutkan bersamanya pelakunya."
+
+Setelah fi'il diubah menjadi majhul, pelaku asli tidak disebut. Yang disebut justru **kata yang dikenai pekerjaan** --- yang dalam kalimat aktif berperan sebagai maf'ul bih (objek). Karena dia "menggantikan posisi" fa'il, jabatannya disebut **naib fa'il** (\ar{نَائِبُ الْفَاعِلِ}, "pengganti fa'il") --- istilah yang lebih populer setelah masa Ibn Ajurrum.
 
 Contoh:
 

@@ -23,16 +23,26 @@ Jadi kalau yang diikuti marfu', tabi' juga marfu'. Kalau yang diikuti manshub, t
 
 ## Empat Jenis Tabi'
 
-Ada empat jenis tabi' dalam ilmu nahwu klasik:
+*Al-Jurumiyyah* (Bab al-Marfu'at, di akhir) menyebutkan keempat jenis tabi':
+
+\hadits{وَالتَّابِعُ لِلْمَرْفُوعِ وَهُوَ أَرْبَعَةُ أَشْيَاءَ، النَّعْتُ، وَالعَطْفُ، وَالتَّوْكِيدُ، وَالبَدَلُ}
+
+> "Dan tabi' yang marfu' --- dia ada empat hal: na'at, athaf, taukid, dan badal."
 
 1. **Na'at** (\ar{نَعْتٌ}) --- kata sifat
 2. **Athaf** (\ar{عَطْفٌ}) --- penghubung
-3. **Badal** (\ar{بَدَلٌ}) --- pengganti
-4. **Taukid** (\ar{تَوْكِيدٌ}) --- penegasan
+3. **Taukid** (\ar{تَوْكِيدٌ}) --- penegasan
+4. **Badal** (\ar{بَدَلٌ}) --- pengganti
 
 Sesuai prinsip Level 1 (peta gramatikal lengkap di tingkat overview), kita kenalkan keempatnya secara ringkas. Kategorisasi detail dan kasus khusus per jenis ditangani di Level 2.
 
 ## Na'at (Kata Sifat)
+
+*Al-Jurumiyyah* (Bab al-Na'at):
+
+\hadits{النَّعْتُ تَابِعٌ لِلْمَنْعُوتِ فِي رَفْعِهِ وَنَصْبِهِ وَخَفْضِهِ وَتَعْرِيفِهِ وَتَنْكِيرِهِ}
+
+> "Na'at mengikuti man'ut dalam rafa', nashb, khafd-nya, serta dalam ta'rif (ma'rifah) dan tankir-nya (nakirah)."
 
 \ar{نَعْتٌ} (na'at) adalah **kata sifat yang menjelaskan isim sebelumnya**. Isim yang dijelaskan disebut **man'ut** (\ar{مَنْعُوتٌ}, "yang disifati").
 
@@ -94,7 +104,13 @@ Sebagaimana na'at, ma'thuf **mengikuti i'rab** ma'thuf 'alaihnya. Kalau yang dii
 
 ### Huruf-Huruf Athaf
 
-Beberapa huruf athaf yang sering muncul:
+*Al-Jurumiyyah* (Bab al-'Athf) memberikan daftar lengkap:
+
+\hadits{وَحُرُوفُ العَطْفِ عَشَرَةٌ، وَهِيَ الوَاوُ، وَالفَاءُ، وَثُمَّ، وَأَوْ، وَأَمْ، وَإِمَّا، وَبَلْ، وَلَا، وَلَكِنْ، وَحَتَّى فِي بَعْضِ المَوَاضِعِ}
+
+> "Huruf-huruf athaf ada sepuluh: wawu, fa', tsumma, au, am, imma, bal, la, lakin, dan hatta pada sebagian tempat."
+
+Beberapa yang paling sering muncul:
 
 | Huruf       | Arti / fungsi              |
 |-------------|----------------------------|
@@ -131,6 +147,12 @@ Kalau ma'thuf 'alaih majrur, ma'thuf juga majrur:
 
 ## Badal (Pengganti)
 
+*Al-Jurumiyyah* (Bab al-Badal):
+
+\hadits{إِذَا أُبْدِلَ اسْمٌ مِنِ اسْمٍ، أَوْ فِعْلٌ مِنْ فِعْلٍ، تَبِعَهُ فِي جَمِيعِ إِعْرَابِهِ. وَهُوَ عَلَى أَرْبَعَةِ أَقْسَامٍ، بَدَلُ الشَّيْءِ مِنَ الشَّيْءِ، وَبَدَلُ البَعْضِ مِنَ الكُلِّ، وَبَدَلُ الاشْتِمَالِ، وَبَدَلُ الغَلَطِ}
+
+> "Apabila isim digantikan oleh isim, atau fi'il digantikan oleh fi'il, maka [pengganti] mengikuti seluruh i'rabnya. Dia [badal] terdiri dari empat bagian: badal dari sesuatu untuk sesuatu (sama / mutabiq), badal sebagian dari keseluruhan, badal isytimal, dan badal ghalath (kesalahan / mubayyin)."
+
 \ar{بَدَلٌ} (badal) adalah **kata yang menggantikan kata sebelumnya**, di mana yang sebenarnya dimaksud adalah kata pengganti tersebut. Kata yang digantikan disebut **mubdal minhu** (\ar{مُبْدَلٌ مِنْهُ}, "yang darinya digantikan").
 
 Beda dengan na'at: na'at *menyifati* (memberi sifat tambahan), sementara badal *menggantikan* (yang dimaksud sebenarnya adalah badalnya).
@@ -159,6 +181,12 @@ Untuk Level 1, kenali pola umumnya: kalau ada dua isim berturut-turut tanpa harf
 
 ## Taukid (Penegasan)
 
+*Al-Jurumiyyah* (Bab al-Tawkid):
+
+\hadits{التَّوْكِيدُ تَابِعٌ لِلْمُؤَكَّدِ فِي رَفْعِهِ وَنَصْبِهِ وَخَفْضِهِ وَتَعْرِيفِهِ. وَيَكُونُ بِأَلْفَاظٍ مَعْلُومَةٍ، وَهِيَ النَّفْسُ، وَالعَيْنُ، وَكُلٌّ، وَأَجْمَعُ}
+
+> "Taukid mengikuti mu'akkad dalam rafa', nashb, khafd-nya, dan ta'rif-nya. Dia [taukid] terjadi dengan lafazh-lafazh yang sudah dikenal, yaitu: *nafs*, *'ain*, *kull*, dan *ajma'*."
+
 \ar{تَوْكِيدٌ} (taukid) adalah **kata yang menegaskan kata sebelumnya** untuk menghilangkan keraguan atau memperkuat makna. Kata yang ditegaskan disebut **mu'akkad** (\ar{مُؤَكَّدٌ}, "yang ditegaskan").
 
 Beda dengan badal: badal menggantikan; taukid hanya menegaskan tanpa menggantikan.
@@ -176,12 +204,12 @@ Contoh:
 - \ar{زَيْدٌ} pertama --- fa'il, marfu'
 - \ar{زَيْدٌ} kedua --- taukid lafzhi, juga marfu'
 
-**Taukid ma'nawi** (\ar{تَوْكِيدٌ مَعْنَوِيٌّ}) --- penegasan dengan kata khusus, terutama:
+**Taukid ma'nawi** (\ar{تَوْكِيدٌ مَعْنَوِيٌّ}) --- penegasan dengan kata khusus. Matn menyebut empat lafazh:
 
 - \ar{نَفْسٌ} (nafs, "diri")
 - \ar{عَيْنٌ} ('ain, "diri/sendiri")
 - \ar{كُلٌّ} (kull, "seluruh / setiap")
-- \ar{جَمِيعٌ} (jami', "semua")
+- \ar{أَجْمَعُ} (ajma', "seluruhnya tanpa kecuali" --- biasa dipakai bersama \ar{كُلٌّ} sebagai penguatan)
 
 Contoh:
 
@@ -196,7 +224,7 @@ Contoh:
 - \ar{الْقَوْمُ} --- fa'il, marfu'
 - \ar{كُلُّهُمْ} --- taukid ma'nawi, juga marfu'
 
-Untuk Level 1, kenali pola: pengulangan kata identik = taukid lafzhi. Penambahan kata seperti *nafs*, *kull*, *jami'* setelah isim = taukid ma'nawi.
+Untuk Level 1, kenali pola: pengulangan kata identik = taukid lafzhi. Penambahan kata seperti *nafs*, *'ain*, *kull*, *ajma'* setelah isim = taukid ma'nawi.
 
 ## Tabi' yang Marfu'
 

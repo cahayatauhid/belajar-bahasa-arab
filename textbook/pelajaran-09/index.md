@@ -10,7 +10,19 @@ Pada pelajaran sebelumnya kita kenal mubtada --- subjek dari **jumlah ismiyyah**
 
 ## Apa Itu Fa'il?
 
-\ar{فَاعِلٌ} (fa'il) artinya secara harfiah: "yang melakukan". Jabatannya: **isim yang melakukan pekerjaan yang disebutkan oleh fi'il**, dalam jumlah fi'liyyah.
+*Al-Jurumiyyah* (Bab al-Fa'il):
+
+\hadits{الفَاعِلُ هُوَ الاسْمُ المَرْفُوعُ المَذْكُورُ قَبْلَهُ فِعْلُهُ}
+
+> "Fa'il adalah isim marfu' yang disebutkan sebelumnya fi'ilnya."
+
+Tiga unsur dari definisi:
+
+1. **Isim** --- fa'il selalu berupa isim
+2. **Marfu'** --- fa'il selalu di keadaan rafa
+3. **Disebutkan sebelumnya fi'ilnya** --- artinya fi'il ada di depan fa'il dalam urutan kalimat
+
+\ar{فَاعِلٌ} (fa'il) secara harfiah: "yang melakukan". Jabatannya: **isim yang melakukan pekerjaan yang disebutkan oleh fi'il**, dalam jumlah fi'liyyah.
 
 Contoh sederhana:
 
