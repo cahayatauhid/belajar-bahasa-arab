@@ -255,6 +255,111 @@ Hasil spesifik Level 1:
 
 Yang **belum** tercakup di Level 1 (target Level 2 ke atas): detail perkecualian (asma' al-khamsah, asma' al-sittah, mu'rab dengan tanda far'i lengkap, jamak taksir patterns), fi'il mu'tal komprehensif, kasus khusus tabi' (badal, athaf bayan), analisis i'rab kompleks, serta produksi tulisan paragraf bebas dan ringkasan kitab.
 
+## Cakupan Paket Level 2
+
+Level 2 fokus pada **detail dan kasus khusus per kategori i'rab**, sambil melengkapi tashrif fi'il dari *al-'Izzi*. Setelah Level 2, peserta menguasai *Jurumiyyah* dengan detail penuh dan tashrif fi'il mujarrad + mazid komprehensif. Bisa meng-i'rab kalimat dengan tanda far'i, perkecualian, dan kasus khusus yang sebelumnya tidak dipelajari di Level 1.
+
+Cakupan ~45 pelajaran terbagi tujuh blok:
+
+| Blok                                | Pel.   | Cakupan                                                                                                                                |
+|-------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1. I'rab Detail dan Tanda Far'i     | 1–5    | Mu'rab vs mabni komprehensif, asma' al-khamsah, mutsanna, jamak mudzakkar/mu'annats salim, asma' ghair munsharif                       |
+| 2. Marfu'at Detail                  | 6–13   | Mubtada nakirah dengan syarat, varian khabar, fa'il/naib fa'il dengan dhamir, *kana wa akhowatuha* lengkap, *inna wa akhowatuha* lengkap, tabi' detail (na'at sababi/haqiqi, badal, taukid) |
+| 3. Manshubat Detail                 | 14–23  | Maf'ul bih dengan kata kerja banyak objek, maf'ul muthlaq, maf'ul fih, maf'ul li-ajlih, maf'ul ma'ah, hal varian, tamyiz, mustathna, munada, *la nafiyatul jins* |
+| 4. Majrurat Detail                  | 24–28  | Harf jarr lengkap (20 huruf), idhafah ma'nawiyah/lafzhiyah, idhafah dengan dhamir, asma' al-khamsah dalam idhafah, tabi' majrur        |
+| 5. Majzumat Detail                  | 29–31  | Sembilan adawat jazm satu fi'il, adawat syarat lengkap, idgham dan mu'tal dalam jazm                                                   |
+| 6. Tashrif Fi'il Mujarrad dan Mazid | 32–41  | Tashrif madhi/mudhari/amr untuk semua dhamir, mujarrad dan mazid, mashdar qiyasi, ism fa'il dan ism maf'ul untuk wazan mazid           |
+| 7. Bacaan Terpandu dan Khataman     | 42–45  | Pembacaan paragraf kitab pemula, khataman matn *Jurumiyyah* dan *Tashrif al-'Izzi*                                                     |
+
+Setiap pelajaran memuat: penjelasan detail dengan exception dan kasus khusus, kosakata akumulatif yang lebih kaya, kutipan matn dengan i'rab penuh, drill produktif yang lebih kompleks (parsing detail, terjemah dua arah, i'rab lengkap), contoh dari Quran/hadits panjang, dan audio.
+
+Hasil spesifik Level 2:
+
+- **Reading** — meng-i'rab detail kalimat di Quran (ayat dengan struktur kompleks), hadits panjang, paragraf awal kitab pemula
+- **Writing** — paragraf 5–8 kalimat; terjemah Indonesia→Arab tingkat menengah
+- **Listening** — ikut narasi pendek dan durus pemula dengan kosakata familiar
+- **Tata bahasa** — detail lengkap *Jurumiyyah* + tashrif fi'il mujarrad + mazid lengkap
+
+Yang **belum** tercakup di Level 2 (target Level 3 ke atas): i'lal komprehensif (qalb, hadzaf, iskan), fi'il mu'tal komprehensif, kasus dari *Qotrun Nada* (mubtada wajib, khabar muqaddam wajib, mustathna kompleks), composition mandiri.
+
+## Cakupan Paket Level 3
+
+Level 3 mendalami **paruh pertama Qotrun Nada** dan **i'lal komprehensif** via *Lamiyyah al-Af'al*. Setelah Level 3, peserta menguasai i'rab tingkat menengah (kategorisasi yang lebih halus dari Jurumiyyah), memahami i'lal seluruh kategori, dan bisa membaca kitab pemula komplit dengan analisis lengkap. Mulai latihan menulis paragraf bahasa Arab.
+
+Cakupan ~45 pelajaran terbagi tujuh blok:
+
+| Blok                                       | Pel.   | Cakupan                                                                                                                                  |
+|--------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Pengenalan QN + I'rab Komprehensif      | 1–8    | Sejarah Ibn Hisyam, definisi i'rab QN, mu'rab/mabni kategorisasi penuh, isim mabni komprehensif (dhamir, isyarah, mawshul, syarat, istifham), fi'il mabni, asma' ghair munsharif |
+| 2. Marfu'at Lanjutan dari QN               | 9–14   | Fa'il dengan dhamir mustatir, naib fa'il dengan dhamir, mubtada wajib, mubtada dengan amal nawasikh kompleks, mubtada nakirah dengan syarat lengkap, tabi' marfu' kasus kompleks |
+| 3. Manshubat Lanjutan QN                   | 15–22  | Maf'ul bih dua/tiga objek, maf'ul muthlaq dengan naib mashdar, hal qaidah, tamyiz nisbah dengan bilangan, mustathna munqati' vs muttashil, munada mudhaf, khabar *la nafiyatul jins* |
+| 4. Majrurat Lanjutan QN                    | 23–26  | Idhafah lafzhiyah/ma'nawiyah, idhafah ila ma'rifah/nakirah, pembagian harf jarr (zaidah/syibhah/ashliyyah), tabi' majrur kasus campuran  |
+| 5. I'lal dan Fi'il Mu'tal via Lamiyyah     | 27–36  | Pengenalan *Lamiyyah*, i'lal qalb/hadzaf/iskan, fi'il shahih/mahmuz/mudha'af, fi'il mu'tal mitsal/ajwaf/naqish/lafif, latihan i'lal komprehensif |
+| 6. Bacaan Terpandu Kitab Pemula            | 37–41  | *Akhlak lil-Banin* lengkap, *Tsalatsatul Ushul* lengkap                                                                                  |
+| 7. Pengenalan Composition (Insya')         | 42–45  | Konstruksi paragraf Arab, kohesi, conjunction, latihan menulis paragraf deskriptif sederhana                                             |
+
+Setiap pelajaran memuat: penjelasan i'rab tingkat menengah, kosakata kitab pemula, kutipan matn QN dengan tafshil, drill i'lal dan tashrif kompleks, pembacaan terpandu kitab klasik, audio dan latihan listening pendek.
+
+Hasil spesifik Level 3:
+
+- **Reading** — kitab pemula komplit (*Akhlak lil-Banin*, *Tsalatsatul Ushul*); matn *Qotrun Nada* paruh pertama
+- **Writing** — esai singkat, ringkasan paragraf kitab dalam bahasa Arab
+- **Listening** — ceramah pendek pada topik familiar yang dibawakan dalam fusha
+- **Tata bahasa** — i'rab tingkat menengah + i'lal komprehensif
+
+Yang **belum** tercakup di Level 3 (target Level 4 ke atas): QN paruh kedua (adad, mawshul detail, isyarah lengkap, syarat detail), tashrif lanjutan (sifah musyabbahah, mubalaghah, ism musytaq), kitab tingkat menengah, composition tingkat lanjut, listening ceramah ulama panjang.
+
+## Cakupan Paket Level 4
+
+Level 4 menyelesaikan **Qotrun Nada lengkap** dan menambah **composition** (insya') dan **listening intensif**. Setelah Level 4, peserta menguasai i'rab tingkat menengah komprehensif, bisa menulis ringkasan kitab dalam bahasa Arab fusha, dan memahami ceramah ulama pada topik klasik. Ini adalah level di mana peserta mencapai tujuan utama paket pembelajaran.
+
+Cakupan ~40 pelajaran terbagi lima blok:
+
+| Blok                                       | Pel.   | Cakupan                                                                                                                                  |
+|--------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. QN Bagian Lanjutan                      | 1–10   | Mafa'il review komprehensif, mustathna detail, adad/bilangan, murakkab (adadi, mazji, isnadi), mawshul lengkap, asma' isyarah lengkap, asma' istifham, isim syarat, asma' al-af'al, munada |
+| 2. Tashrif Lanjutan dan I'lal Komprehensif | 11–18  | I'lal qalb/hadzaf/iskan semua case, idgham wajib/ja'iz, hamzah qatha'/washl, imalah/tafkhim, tashrif kombinasi i'lal kompleks, mashdar sima'i, sifah musyabbahah, mubalaghah, ism makan/zaman/alat, khataman *Lamiyyah al-Af'al* |
+| 3. Pembacaan Kitab Tingkat Menengah        | 19–26  | *Riyadush Shalihin* bab pilihan, hadits Bukhari pilihan, khataman *Akhlak lil-Banin*                                                     |
+| 4. Composition / Insya'                    | 27–34  | Pengenalan insya', konstruksi paragraf Arab, conjunction dan transition, paragraf deskriptif/naratif, ringkasan paragraf kitab, ringkasan bab kitab, workshop ringkasan *Jurumiyyah* |
+| 5. Listening Intensif                      | 35–40  | Pengenalan ceramah Arab (formal/semi-formal, pacing, dialek), durus pemula dengan transcript, ceramah pendek dengan transcript, ceramah tanpa transcript, durus kitab pemula tingkat menengah, workshop final dengar→tulis ringkasan dalam Arab |
+
+Setiap pelajaran memuat: i'rab tingkat menengah komprehensif, kosakata kitab tingkat menengah, kutipan QN dan kitab klasik, latihan composition produktif, latihan listening dengan transcript dan glosari.
+
+Hasil spesifik Level 4:
+
+- **Reading** — *Qotrun Nada* lengkap; hadits panjang dengan i'rab penuh; kitab tingkat menengah (*Riyadush Shalihin*, hadits Bukhari pilihan)
+- **Writing** — ringkasan kitab pemula-menengah dalam bahasa Arab fusha
+- **Listening** — ceramah ulama pada topik klasik dan durus kitab tingkat menengah
+- **Tata bahasa** — i'rab tingkat menengah komprehensif
+
+Setelah Level 4, peserta sudah mencapai tujuan utama paket. Level 5 (mahir) opsional untuk peserta yang ingin lanjut ke kapasitas ulama-level dengan *Alfiyah Ibn Malik*.
+
+## Cakupan Paket Level 5 (Mahir, Opsional)
+
+Level 5 mengkhatamkan ***Alfiyah Ibn Malik*** sebagai capstone klasik --- integrasi nahwu dan shorf tingkat lanjut. Tidak wajib bagi peserta yang sudah puas dengan kemampuan Level 4. Bagi yang lanjut: setelah Level 5, peserta bisa membaca kitab tingkat lanjut (tafsir, syarah hadits, fiqh muqaran) dan memahami durus kitab tingkat menengah-lanjut.
+
+Cakupan ~50 pelajaran terbagi enam blok:
+
+| Blok                                       | Pel.   | Cakupan                                                                                                                                  |
+|--------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Pengenalan dan Bab Awal Alfiyah         | 1–8    | Sejarah Ibn Malik dan struktur *Alfiyah*, bait pendahuluan, bab al-kalam, mu'rab/mabni dengan kasus tambahan, nakirah/ma'rifah, mubtada-khabar, *kana wa akhowatuha*, af'al muqarabah/raja'/syuru'                |
+| 2. Marfu'at Lengkap Alfiyah                | 9–16   | *Inna wa akhowatuha*, *la nafiyatul jins*, *zhanna* (dua objek), *a'lama* (tiga objek), fa'il, naib fa'il, isytighal, tana'zu' fi al-'amal |
+| 3. Manshubat Lengkap Alfiyah               | 17–24  | Maf'ul muthlaq, lahu, fihi, ma'ahu; istitsna' tafshil; hal; tamyiz; munada                                                               |
+| 4. Majrurat dan Tawabi' Alfiyah            | 25–32  | Jarr bil-harf, idhafah, ibdal, i'mal (ism fa'il, ism maf'ul, mashdar, sifah musyabbahah), ta'ajjub, fi'l al-amr, na'at-athaf-taukid-badal tafshil |
+| 5. Shorf Alfiyah                           | 33–42  | Mizan shorfi, tashrif al-asma', mashdar, asma' al-fa'il/maf'ul, sifah musyabbahah, mubalaghah, af'al at-tafdhil, i'lal tafshil komprehensif, idgham tafshil, abniyat al-mashadir |
+| 6. Bacaan Kitab Tingkat Lanjut             | 43–50  | *Tafsir Jalalain* (juz pilihan), *Bulughul Maram* dengan syarah (bab pilihan), kitab fiqh muqaran terpilih, khataman *Alfiyah Ibn Malik*, workshop final composition kitabah tingkat lanjut |
+
+Setiap pelajaran memuat: bait-bait *Alfiyah* dengan syarah, i'rab tingkat lanjut termasuk kasus klasik dan exception langka, pembacaan kitab tingkat lanjut, composition mandiri dengan tema klasik.
+
+Hasil spesifik Level 5:
+
+- **Reading** — *Tafsir Jalalain* (juz pilihan), *Bulughul Maram* dengan syarah, kitab fiqh muqaran tingkat menengah-lanjut
+- **Writing** — composition kitabah tingkat lanjut, ringkasan kitab tingkat menengah dalam bahasa Arab fusha
+- **Listening** — ceramah ulama panjang dan durus kitab tingkat menengah-lanjut
+- **Tata bahasa** — i'rab tingkat lanjut termasuk kasus klasik dan exception langka
+
+Khataman *Alfiyah Ibn Malik* adalah pencapaian klasik tingkat ulama --- peserta yang menyelesaikan Level 5 telah berdiri dalam tradisi keilmuan Arab klasik yang sambung-menyambung sampai ke generasi awal Islam.
+
 ## Komponen Paket
 
 - **Textbook** — materi inti per pelajaran: penjelasan konsep, analogi, tabel perbandingan grammar, contoh kalimat, bacaan korpus
