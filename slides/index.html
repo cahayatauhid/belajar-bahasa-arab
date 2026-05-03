@@ -86,6 +86,41 @@
       color: var(--gold);
     }
 
+    li.pelajaran {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.6em;
+    }
+
+    li.pelajaran .judul {
+      color: var(--navy);
+      font-size: 1.05rem;
+      flex: 1 1 60%;
+    }
+
+    li.pelajaran .materi {
+      display: flex;
+      gap: 0.4em;
+      flex-shrink: 0;
+    }
+
+    li.pelajaran .materi a {
+      display: inline-block;
+      padding: 0.3em 0.8em;
+      border: 1px solid var(--navy);
+      border-radius: 3px;
+      font-size: 0.85rem;
+      color: var(--navy);
+      background: white;
+    }
+
+    li.pelajaran .materi a:hover {
+      background: var(--navy);
+      color: white;
+    }
+
     .intro {
       background: white;
       padding: 1.2em 1.5em;
@@ -141,69 +176,69 @@
       <strong>Status workbook:</strong> hanya 3 prototipe tersedia. Workbook lengkap akan dirilis per-blok (7 file untuk Level 1) setelah format prototipe disetujui.
     </p>
 
-    <h2>Slide Presentasi (untuk Pengajar)</h2>
-    <p>Buka slide pelajaran yang dibutuhkan; navigasi dengan tombol panah (←/→), tombol spasi, atau tombol next/prev di pojok kanan bawah.</p>
+    <h2>Materi per Pelajaran</h2>
+    <p>Tiap pelajaran tersedia dalam dua format: <strong>Slide</strong> (untuk pengajar; navigasi dengan tombol panah ←/→, tombol spasi, atau tombol next/prev di pojok kanan bawah) dan <strong>Textbook PDF</strong> B5 printable (untuk peserta; konsep, kutipan matn, contoh dari Quran/hadits, latihan PR).</p>
 
     <h3>Blok 1 — Pengantar dan Motivasi (Pel. 1–7)</h3>
     <ul>
-      <li><a href="pelajaran-01/">Pelajaran 1 — Mengapa Belajar Bahasa Arab</a></li>
-      <li><a href="pelajaran-02/">Pelajaran 2 — Asal Usul Ilmu Bahasa Arab</a></li>
-      <li><a href="pelajaran-03/">Pelajaran 3 — Hubungan Al-Qur'an dengan Bahasa Arab</a></li>
-      <li><a href="pelajaran-04/">Pelajaran 4 — Tulisan Arab dan Konsep Kalam</a></li>
-      <li><a href="pelajaran-05/">Pelajaran 5 — Tiga Jenis Kalimah: Isim, Fi'il, Harf</a></li>
-      <li><a href="pelajaran-06/">Pelajaran 6 — Pengertian I'rab</a></li>
-      <li><a href="pelajaran-07/">Pelajaran 7 — Empat Keadaan I'rab</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 1 — Mengapa Belajar Bahasa Arab</span><span class="materi"><a href="pelajaran-01/">Slide</a><a href="textbook/pelajaran-01.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 2 — Asal Usul Ilmu Bahasa Arab</span><span class="materi"><a href="pelajaran-02/">Slide</a><a href="textbook/pelajaran-02.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 3 — Hubungan Al-Qur'an dengan Bahasa Arab</span><span class="materi"><a href="pelajaran-03/">Slide</a><a href="textbook/pelajaran-03.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 4 — Tulisan Arab dan Konsep Kalam</span><span class="materi"><a href="pelajaran-04/">Slide</a><a href="textbook/pelajaran-04.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 5 — Tiga Jenis Kalimah: Isim, Fi'il, Harf</span><span class="materi"><a href="pelajaran-05/">Slide</a><a href="textbook/pelajaran-05.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 6 — Pengertian I'rab</span><span class="materi"><a href="pelajaran-06/">Slide</a><a href="textbook/pelajaran-06.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 7 — Empat Keadaan I'rab</span><span class="materi"><a href="pelajaran-07/">Slide</a><a href="textbook/pelajaran-07.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <h3>Blok 2 — Marfu'at (Pel. 8–12)</h3>
     <ul>
-      <li><a href="pelajaran-08/">Pelajaran 8 — Mubtada dan Khabar</a></li>
-      <li><a href="pelajaran-09/">Pelajaran 9 — Fa'il</a></li>
-      <li><a href="pelajaran-10/">Pelajaran 10 — Naib Fa'il</a></li>
-      <li><a href="pelajaran-11/">Pelajaran 11 — Isim Kana dan Khabar Inna</a></li>
-      <li><a href="pelajaran-12/">Pelajaran 12 — Tabi' yang Marfu'</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 8 — Mubtada dan Khabar</span><span class="materi"><a href="pelajaran-08/">Slide</a><a href="textbook/pelajaran-08.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 9 — Fa'il</span><span class="materi"><a href="pelajaran-09/">Slide</a><a href="textbook/pelajaran-09.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 10 — Naib Fa'il</span><span class="materi"><a href="pelajaran-10/">Slide</a><a href="textbook/pelajaran-10.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 11 — Isim Kana dan Khabar Inna</span><span class="materi"><a href="pelajaran-11/">Slide</a><a href="textbook/pelajaran-11.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 12 — Tabi' yang Marfu'</span><span class="materi"><a href="pelajaran-12/">Slide</a><a href="textbook/pelajaran-12.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <h3>Blok 3 — Manshubat (Pel. 13–18)</h3>
     <ul>
-      <li><a href="pelajaran-13/">Pelajaran 13 — Maf'ul bih</a></li>
-      <li><a href="pelajaran-14/">Pelajaran 14 — Khabar Kana dan Isim Inna</a></li>
-      <li><a href="pelajaran-15/">Pelajaran 15 — Hal</a></li>
-      <li><a href="pelajaran-16/">Pelajaran 16 — Tamyiz</a></li>
-      <li><a href="pelajaran-17/">Pelajaran 17 — Munada, Mustathna, Maf'ul li-Ajlih, Maf'ul Ma'ah</a></li>
-      <li><a href="pelajaran-18/">Pelajaran 18 — Tabi' yang Manshub + Sintesis Pembanding</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 13 — Maf'ul bih</span><span class="materi"><a href="pelajaran-13/">Slide</a><a href="textbook/pelajaran-13.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 14 — Khabar Kana dan Isim Inna</span><span class="materi"><a href="pelajaran-14/">Slide</a><a href="textbook/pelajaran-14.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 15 — Hal</span><span class="materi"><a href="pelajaran-15/">Slide</a><a href="textbook/pelajaran-15.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 16 — Tamyiz</span><span class="materi"><a href="pelajaran-16/">Slide</a><a href="textbook/pelajaran-16.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 17 — Munada, Mustathna, Maf'ul li-Ajlih, Maf'ul Ma'ah</span><span class="materi"><a href="pelajaran-17/">Slide</a><a href="textbook/pelajaran-17.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 18 — Tabi' yang Manshub + Sintesis Pembanding</span><span class="materi"><a href="pelajaran-18/">Slide</a><a href="textbook/pelajaran-18.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <h3>Blok 4 — Majrurat dan Adad (Pel. 19–22)</h3>
     <ul>
-      <li><a href="pelajaran-19/">Pelajaran 19 — Harf Jarr</a></li>
-      <li><a href="pelajaran-20/">Pelajaran 20 — Idhafah</a></li>
-      <li><a href="pelajaran-21/">Pelajaran 21 — Tabi' yang Majrur</a></li>
-      <li><a href="pelajaran-22/">Pelajaran 22 — Adad dan Ma'dud</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 19 — Harf Jarr</span><span class="materi"><a href="pelajaran-19/">Slide</a><a href="textbook/pelajaran-19.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 20 — Idhafah</span><span class="materi"><a href="pelajaran-20/">Slide</a><a href="textbook/pelajaran-20.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 21 — Tabi' yang Majrur</span><span class="materi"><a href="pelajaran-21/">Slide</a><a href="textbook/pelajaran-21.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 22 — Adad dan Ma'dud</span><span class="materi"><a href="pelajaran-22/">Slide</a><a href="textbook/pelajaran-22.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <h3>Blok 5 — Majzumat (Pel. 23–25)</h3>
     <ul>
-      <li><a href="pelajaran-23/">Pelajaran 23 — Fi'il Mudhari: Rafa', Nashb, Jazm</a></li>
-      <li><a href="pelajaran-24/">Pelajaran 24 — Adawat Jazm Satu Fi'il</a></li>
-      <li><a href="pelajaran-25/">Pelajaran 25 — Adawat Syarat (Jazm Dua Fi'il)</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 23 — Fi'il Mudhari: Rafa', Nashb, Jazm</span><span class="materi"><a href="pelajaran-23/">Slide</a><a href="textbook/pelajaran-23.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 24 — Adawat Jazm Satu Fi'il</span><span class="materi"><a href="pelajaran-24/">Slide</a><a href="textbook/pelajaran-24.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 25 — Adawat Syarat (Jazm Dua Fi'il)</span><span class="materi"><a href="pelajaran-25/">Slide</a><a href="textbook/pelajaran-25.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <h3>Blok 6 — Dhamir (Pel. 26–28)</h3>
     <ul>
-      <li><a href="pelajaran-26/">Pelajaran 26 — Dhamir Munfashil</a></li>
-      <li><a href="pelajaran-27/">Pelajaran 27 — Dhamir Muttashil</a></li>
-      <li><a href="pelajaran-28/">Pelajaran 28 — Dhamir Mustatir</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 26 — Dhamir Munfashil</span><span class="materi"><a href="pelajaran-26/">Slide</a><a href="textbook/pelajaran-26.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 27 — Dhamir Muttashil</span><span class="materi"><a href="pelajaran-27/">Slide</a><a href="textbook/pelajaran-27.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 28 — Dhamir Mustatir</span><span class="materi"><a href="pelajaran-28/">Slide</a><a href="textbook/pelajaran-28.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <h3>Blok 7 — Shorf Garis Besar (Pel. 29–34)</h3>
     <ul>
-      <li><a href="pelajaran-29/">Pelajaran 29 — Tashrif Fi'il: Madhi, Mudhari, Amr</a></li>
-      <li><a href="pelajaran-30/">Pelajaran 30 — Tsulatsi Mujarrad + Konsep Fi'il Mu'tal</a></li>
-      <li><a href="pelajaran-31/">Pelajaran 31 — Tsulatsi Mazid bi-Harf Wahid</a></li>
-      <li><a href="pelajaran-32/">Pelajaran 32 — Tsulatsi Mazid bi-Harfain</a></li>
-      <li><a href="pelajaran-33/">Pelajaran 33 — Tsulatsi Mazid bi-Tsalatsah Ahruf</a></li>
-      <li><a href="pelajaran-34/">Pelajaran 34 — Mashdar, Ism Fa'il, Ism Maf'ul + Penutup Level 1</a></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 29 — Tashrif Fi'il: Madhi, Mudhari, Amr</span><span class="materi"><a href="pelajaran-29/">Slide</a><a href="textbook/pelajaran-29.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 30 — Tsulatsi Mujarrad + Konsep Fi'il Mu'tal</span><span class="materi"><a href="pelajaran-30/">Slide</a><a href="textbook/pelajaran-30.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 31 — Tsulatsi Mazid bi-Harf Wahid</span><span class="materi"><a href="pelajaran-31/">Slide</a><a href="textbook/pelajaran-31.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 32 — Tsulatsi Mazid bi-Harfain</span><span class="materi"><a href="pelajaran-32/">Slide</a><a href="textbook/pelajaran-32.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 33 — Tsulatsi Mazid bi-Tsalatsah Ahruf</span><span class="materi"><a href="pelajaran-33/">Slide</a><a href="textbook/pelajaran-33.pdf">Textbook PDF</a></span></li>
+      <li class="pelajaran"><span class="judul">Pelajaran 34 — Mashdar, Ism Fa'il, Ism Maf'ul + Penutup Level 1</span><span class="materi"><a href="pelajaran-34/">Slide</a><a href="textbook/pelajaran-34.pdf">Textbook PDF</a></span></li>
     </ul>
 
     <div class="footer">

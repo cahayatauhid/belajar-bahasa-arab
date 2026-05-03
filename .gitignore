@@ -12,6 +12,7 @@ out/
 *.pptx
 !docs/**/*.pdf
 !textbook/level-*.pdf
+!textbook/pelajaran-*/index.pdf
 !workbook/level-*.pdf
 !workbook/pelajaran-*/index.pdf
 _build/cache/
