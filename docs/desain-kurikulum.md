@@ -462,10 +462,78 @@ Backbone: *Alfiyah Ibn Malik* khataman.
 - **Sintesis** ditunjukkan ketika satu pelajaran menggabungkan beberapa bab matn (mis. adad-ma'dud Pelajaran 22 = Bab al-Tamyiz + Bab al-Idhafah).
 - Setelah paket lengkap (Level 1--5), peserta secara sahih telah mempelajari **lima matn klasik**: *Jurumiyyah*, *Qotrun Nada*, *Tashrif al-'Izzi*, *Lamiyyah al-Af'al*, dan *Alfiyah Ibn Malik*.
 
+## Pemetaan Format Workbook (Level 1)
+
+Workbook bukan PR yang harus dikejar selesai, melainkan **panduan praktik kesadaran** selama ibadah/aktivitas rutin. Karena setiap pelajaran punya karakter berbeda, workbook Level 1 mengikuti **tiga format prototipe yang sengaja berbeda** --- bukan satu template yang dipaksa berlaku ke semua pelajaran. Tiap pelajaran dipetakan ke salah satu format yang paling cocok dengan topiknya.
+
+### Tiga Format Prototipe
+
+- **Format A (Lab Shalat/Tilawah/Tasyahud)** --- pengamatan struktur kalimat dalam ibadah rutin (Al-Fatihah, surat pendek, tasyahud, dzikir setelah shalat). Cocok untuk pelajaran nahwu di mana konsep grammar diobservasi langsung di bacaan shalat. Prototipe rujukan: **Pelajaran 8 (Mubtada dan Khabar)**.
+- **Format B (Lab Kehidupan Sehari-hari)** --- aplikasi konkret di aktivitas non-shalat (tanggal Hijriyah, hitungan harian, percakapan, jurnal refleksi, drill menulis huruf). Cocok untuk pelajaran pengantar/motivasi dan pelajaran yang dipakai praktis dalam komunikasi. Prototipe rujukan: **Pelajaran 22 (Adad dan Ma'dud)**.
+- **Format C (Lab Vocabulary/Kamus/Wazan)** --- eksplorasi akar kata, wazan shorf, teknik pencarian di kamus klasik (*Lisan al-'Arab*, *Hans Wehr*, Almaany). Cocok untuk pelajaran shorf di mana fokusnya memetakan akar ke berbagai bentuk turunan. Prototipe rujukan: **Pelajaran 30 (Tsulatsi Mujarrad)**.
+
+### Pemetaan per Pelajaran
+
+| Pelajaran | Topik                                                           | Format |
+|-----------|-----------------------------------------------------------------|--------|
+| 1         | Mengapa belajar bahasa Arab                                     | B      |
+| 2         | Asal usul ilmu bahasa Arab                                      | B      |
+| 3         | Hubungan Al-Qur'an dengan bahasa Arab                           | B      |
+| 4         | Tulisan Arab dan konsep kalam                                   | B      |
+| 5         | Tiga jenis kalimah: isim, fi'il, harf                           | A      |
+| 6         | Pengertian i'rab                                                | A      |
+| 7         | Empat keadaan i'rab                                             | A      |
+| 8         | Mubtada dan khabar                                              | A \*   |
+| 9         | Fa'il                                                           | A      |
+| 10        | Naib fa'il                                                      | A      |
+| 11        | Isim kana dan khabar inna                                       | A      |
+| 12        | Tabi' yang marfu'                                               | A      |
+| 13        | Maf'ul bih                                                      | A      |
+| 14        | Khabar kana dan isim inna                                       | A      |
+| 15        | Hal                                                             | A      |
+| 16        | Tamyiz                                                          | A      |
+| 17        | Munada, mustathna, maf'ul li-ajlih, maf'ul ma'ah                | A      |
+| 18        | Tabi' yang manshub + sintesis pembanding                        | A      |
+| 19        | Harf jarr                                                       | B      |
+| 20        | Idhafah                                                         | B      |
+| 21        | Tabi' yang majrur                                               | B      |
+| 22        | Adad dan ma'dud                                                 | B \*   |
+| 23        | Fi'il mudhari mu'rab                                            | A      |
+| 24        | Adawat jazm satu fi'il                                          | A      |
+| 25        | Adawat syarat                                                   | A      |
+| 26        | Dhamir munfashil                                                | A      |
+| 27        | Dhamir muttashil                                                | A      |
+| 28        | Dhamir mustatir                                                 | A      |
+| 29        | Tashrif madhi/mudhari/amr                                       | A      |
+| 30        | Tsulatsi mujarrad + konsep mu'tal                               | C \*   |
+| 31        | Tsulatsi mazid bi-harf wahid                                    | C      |
+| 32        | Tsulatsi mazid bi-harfain                                       | C      |
+| 33        | Tsulatsi mazid bi-tsalatsah ahruf                               | C      |
+| 34        | Mashdar, ism fa'il, ism maf'ul                                  | C      |
+
+(\* = prototipe sudah dirilis)
+
+### Roadmap Implementasi
+
+Workbook dirilis bertahap **per Blok** untuk menjaga kualitas dan memungkinkan validasi pengajar antar batch. Tiap batch di-build sebagai PDF B5 printable dan di-deploy ke GitHub Pages dengan link unduh per-pelajaran.
+
+| Batch | Blok                          | Pelajaran            | Jumlah | Format            | Status         |
+|-------|-------------------------------|----------------------|--------|-------------------|----------------|
+| 0     | Prototipe (Blok 2, 4, 7)      | 8, 22, 30            | 3      | A, B, C           | **Dirilis**    |
+| 1     | Blok 1 — Pengantar/Motivasi   | 1, 2, 3, 4, 5, 6, 7  | 7      | B (1--4), A (5--7)| Pending        |
+| 2     | Blok 2 — Marfu'at             | 9, 10, 11, 12        | 4      | A                 | Pending        |
+| 3     | Blok 3 — Manshubat            | 13, 14, 15, 16, 17, 18 | 6    | A                 | Pending        |
+| 4     | Blok 4 — Majrurat dan Adad    | 19, 20, 21           | 3      | B                 | Pending        |
+| 5     | Blok 5 — Majzumat             | 23, 24, 25           | 3      | A                 | Pending        |
+| 6     | Blok 6 — Dhamir               | 26, 27, 28           | 3      | A                 | Pending        |
+| 7     | Blok 7 — Shorf Garis Besar    | 29, 31, 32, 33, 34   | 5      | A (29), C (31--34)| Pending        |
+
+**Total target Level 1**: 34 workbook (3 prototipe + 31 dalam pipeline). Saat batch baru selesai, roadmap di atas di-update statusnya, dan link unduh ditambahkan di frontpage GitHub Pages.
+
 ## Komponen Paket
 
 - **Textbook** — materi inti per pelajaran: penjelasan konsep, analogi, tabel perbandingan grammar, contoh kalimat, bacaan korpus
-- **Workbook** — PR per pelajaran: drill pemisahan kata, terjemah dua arah, i'rab, menulis huruf dan kalimat, comprehension passage, kunci jawaban
+- **Workbook** — panduan praktik kesadaran selama ibadah/aktivitas rutin (shalat, tilawah, dzikir, doa harian, atau aktivitas non-shalat sehari-hari). Bukan PR yang dikejar selesai, tetapi lab eksperimen di mana aktivitas yang sudah rutin dilakukan dipakai untuk menguji konsep baru. Workbook Level 1 mengikuti tiga format (A/B/C) yang sengaja berbeda; pemetaan ke pelajaran dan roadmap implementasi di bagian "Pemetaan Format Workbook (Level 1)" di bawah
 - **Slides** — alat bantu pengajar di kelas: highlight konsep, demonstrasi i'rab, drill prompts untuk partisipasi kelas
 - **Audio** — rekaman pelafalan kosakata, kalimat contoh, dan bacaan korpus per pelajaran; latihan listening dengan transcript untuk PR mandiri. Untuk level lanjutan, ditambah rekaman ceramah dan durus dari syeikh dengan transcript dan glosari
 

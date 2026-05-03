@@ -31,6 +31,8 @@ Semua angka tentatif. Final ditentukan setelah tiap level selesai didraft dan di
 
 **Tujuan utama**: peserta memiliki kerangka mental lengkap nahwu dan shorf dasar; bisa meng-i'rab kalimat Arab normal di Quran/hadits/kitab pemula; sudah membaca matn *Jurumiyyah* secara overview. Sebelum masuk ke teknis, peserta dibekali motivasi belajar bahasa Arab, sejarah ilmu nahwu/shorf, dan pemahaman tentang hubungan Al-Qur'an dengan bahasa Arab.
 
+**Workbook Level 1**: tiap pelajaran punya workbook PDF B5 yang mengikuti satu dari tiga format prototipe (Format A: lab shalat/tilawah; Format B: lab kehidupan sehari-hari; Format C: lab kamus/wazan). Pemetaan format per pelajaran dan roadmap rilis per Blok ada di `docs/desain-kurikulum.md` bagian "Pemetaan Format Workbook (Level 1)".
+
 ### Blok 1 — Pengantar dan Motivasi (Sesi 1–7)
 
 1. Mengapa belajar bahasa Arab — keutamaan ilmu bahasa Arab dalam Islam; hubungan dengan ibadah harian (sholat, doa, dzikir, tilawah Al-Qur'an); perbedaan antara membaca terjemah dan memahami bahasa aslinya; manfaat untuk membaca kitab klasik (fiqh, aqidah, tafsir, hadits) tanpa perantara terjemah
