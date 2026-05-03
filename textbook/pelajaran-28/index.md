@@ -242,3 +242,5 @@ Selamat! Anda sudah menyelesaikan Blok 6 (Dhamir). Tiga jenis dhamir sudah dikua
 - **Mustatir** --- yang tersembunyi (wajib di mutakallim/mukhathab; jaiz di gha'ib mufrad)
 
 Pelajaran berikutnya kita masuk ke **Blok 7 --- Shorf Garis Besar**, dimulai dengan **tashrif fi'il madhi, mudhari, dan amr**, serta pengenalan matn rujukan **Tashrif al-'Izzi**.
+
+Tiga jenis dhamir di atas akan langsung dipakai sebagai **backbone tabel tashrif lughawi** di Pelajaran 29: 14 baris tabel tashrif = 14 dhomir munfashil yang baru saja dihafal; akhiran fi'il madhi untuk mutakallim/mukhathab = dhomir muttashil dari Pelajaran 27; dan fa'il setiap baris fi'il = dhomir mustatir dari pelajaran ini. Jadi Pelajaran 29 bukan tabel hafalan baru --- itu **rangkaian penerapan** dari Blok 6.

@@ -393,7 +393,7 @@ Tabel berikut menunjukkan **matn klasik mana** yang dikutip atau dirujuk pada ti
 | 26        | Dhamir munfashil                     | *Jurumiyyah*: Bab al-Fa'il (singgung dhamir munfashil) + tabel ekstra dari konvensi nahwu klasik |
 | 27        | Dhamir muttashil                     | (Tersebar di Jurumiyyah; tabel komprehensif diadopsi dari Tashrif al-'Izzi)          |
 | 28        | Dhamir mustatir                      | (Implisit di Jurumiyyah; konsep wajib/jaiz dari Qotrun Nada --- preview)             |
-| 29        | Tashrif madhi/mudhari/amr            | *Jurumiyyah*: Bab al-Af'al (review) + pengenalan *Tashrif al-'Izzi* sebagai matn rujukan shorf |
+| 29        | Tashrif madhi/mudhari/amr            | *Jurumiyyah*: Bab al-Af'al (review) + pengenalan *Tashrif al-'Izzi* sebagai matn rujukan shorf. Tabel tashrif lughawi disampaikan **sebagai lanjutan Blok 6 (Dhamir)**: kolom dhomir munfashil dari Pelajaran 26 dipasangkan dengan kolom fi'il; akhiran madhi mutakallim/mukhathab dipetakan ke dhomir muttashil dari Pelajaran 27; fa'il tiap baris = dhomir mustatir dari Pelajaran 28. Penanda klasik (ta' ta'nits, alif tatsniyah, wau jama'ah, nun niswah) diperkenalkan di sini sebagai bridging ke matn *al-'Izzi*. |
 | 30        | Tsulatsi mujarrad + konsep mu'tal    | *Tashrif al-'Izzi*: empat wazan dasar; preview konsep mu'tal --- forward ke *Lamiyyah al-Af'al* (Level 3) |
 | 31        | Tsulatsi mazid bi-harf wahid         | *Tashrif al-'Izzi*: af'ala, fa''ala, faa'ala dengan wazan dan makna utama            |
 | 32        | Tsulatsi mazid bi-harfain            | *Tashrif al-'Izzi*: lima wazan (tafa''ala, tafa'ala, ifta'ala, infa'ala, if'alla)    |

@@ -53,72 +53,106 @@ Untuk Level 1 fokus pada konsep dan pengenalan; tashrif lughawi dan istilahi dip
 
 ## Tashrif Lughawi: Madhi
 
-Tashrif lughawi adalah tabel yang menunjukkan bagaimana satu fi'il berubah berdasarkan **siapa pelakunya**. Untuk fi'il madhi \ar{كَتَبَ}:
+Tashrif lughawi adalah tabel yang menunjukkan bagaimana satu fi'il berubah berdasarkan **siapa pelakunya**. "Pelaku" di sini bukan kategori baru --- inilah 14 dhomir yang sudah dipetakan di Blok 6 (Pelajaran 26--28). Tabel tashrif pada hakikatnya adalah **kelanjutan tabel dhomir**: kolom dhomir berisi yang sudah dihafal, kolom fi'il berisi bentuk yang menyesuaikan tiap dhomir.
 
-| Pelaku       | Bentuk         | Cara baca         | Arti               |
-|--------------|----------------|-------------------|--------------------|
-| Dia-L        | \ar{كَتَبَ}     | kataba            | dia menulis        |
-| Mereka-2-L   | \ar{كَتَبَا}    | katabaa           | mereka 2 menulis   |
-| Mereka-L     | \ar{كَتَبُوا}   | katabuu           | mereka menulis     |
-| Dia-P        | \ar{كَتَبَتْ}   | katabat           | dia (P) menulis    |
-| Mereka-2-P   | \ar{كَتَبَتَا}  | katabataa         | mereka 2 (P) menulis|
-| Mereka-P     | \ar{كَتَبْنَ}   | katabna           | mereka (P) menulis |
-| Engkau-L     | \ar{كَتَبْتَ}   | katabta           | engkau (L) menulis |
-| Kalian-2     | \ar{كَتَبْتُمَا}| katabtumaa        | kalian 2 menulis   |
-| Kalian-L     | \ar{كَتَبْتُمْ} | katabtum          | kalian (L) menulis |
-| Engkau-P     | \ar{كَتَبْتِ}   | katabti           | engkau (P) menulis |
-| Kalian-P     | \ar{كَتَبْتُنَّ}| katabtunna        | kalian (P) menulis |
-| Saya         | \ar{كَتَبْتُ}   | katabtu           | saya menulis       |
-| Kami         | \ar{كَتَبْنَا}  | katabnaa          | kami menulis       |
+### Kaidah Sederhana Penghubung Dhomir dan Tashrif
+
+Sebelum membaca tabel, tiga kaidah pengantar yang menjadikan tashrif terasa **lanjutan**, bukan hafalan baru:
+
+1. **Madhi --- mutakallim dan mukhathab**: akhirannya **persis dhomir muttashil** dari Pelajaran 27. Akhiran \ar{ـتُ} (saya), \ar{ـنَا} (kami), \ar{ـتَ} (engkau-L), \ar{ـتِ} (engkau-P), \ar{ـتُمْ} (kalian-L), \ar{ـتُنَّ} (kalian-P) bukan akhiran baru --- itulah dhomirnya yang menempel ke fi'il sebagai fa'il.
+
+2. **Madhi --- gha'ib**: akhirannya membawa penanda gender dan jumlah dengan istilah klasiknya:
+
+   - **\ar{تَاءُ التَّأْنِيثِ}** (ta' ta'nits) --- huruf \ar{ت} penanda mu'annats; sama dasarnya dengan ta' marbuthah yang sudah dikenal di isim.
+   - **\ar{أَلِفُ التَّثْنِيَةِ}** (alif tatsniyah) --- huruf \ar{ا} penanda mutsanna.
+   - **\ar{وَاوُ الجَمَاعَةِ}** (wau jama'ah) --- huruf \ar{و} penanda jamak mudzakkar.
+   - **\ar{نُونُ النِّسْوَةِ}** (nun niswah) --- huruf \ar{ن} penanda jamak mu'annats.
+
+   Empat istilah ini akan dipakai lagi di mudhari dan di matn-matn klasik berikutnya, jadi penting untuk dikenali namanya, bukan hanya bentuknya.
+
+3. **Mudhari**: pelaku ditandai oleh **prefix** yang mengambil satu huruf dari dhomir munfashil --- \ar{أَ} dari \ar{أَنَا}, \ar{نَ} dari \ar{نَحْنُ}, \ar{يَ} untuk gha'ib mudzakkar, \ar{تَ} untuk mukhathab dan gha'ib mu'annats. Mnemonic *anaytu* dari Pelajaran 23 merangkum ini.
+
+Dengan tiga kaidah ini, baris-baris tabel di bawah bisa **diturunkan dari pengetahuan dhomir yang sudah dikuasai**, bukan dihafal dari nol. Detail per pola akan diperdalam di Level 2 Blok 6 (khataman *Tashrif al-'Izzi*).
+
+### Tabel Tashrif Madhi \ar{كَتَبَ}
+
+| Pelaku       | Dhomir         | Bentuk          | Cara baca         | Arti                |
+|--------------|----------------|-----------------|-------------------|---------------------|
+| Dia-L        | \ar{هُوَ}      | \ar{كَتَبَ}      | kataba            | dia menulis         |
+| Mereka-2-L   | \ar{هُمَا}     | \ar{كَتَبَا}     | katabaa           | mereka 2 menulis    |
+| Mereka-L     | \ar{هُمْ}      | \ar{كَتَبُوا}    | katabuu           | mereka menulis      |
+| Dia-P        | \ar{هِيَ}      | \ar{كَتَبَتْ}    | katabat           | dia (P) menulis     |
+| Mereka-2-P   | \ar{هُمَا}     | \ar{كَتَبَتَا}   | katabataa         | mereka 2 (P) menulis|
+| Mereka-P     | \ar{هُنَّ}     | \ar{كَتَبْنَ}    | katabna           | mereka (P) menulis  |
+| Engkau-L     | \ar{أَنْتَ}    | \ar{كَتَبْتَ}    | katabta           | engkau (L) menulis  |
+| Kalian-2     | \ar{أَنْتُمَا} | \ar{كَتَبْتُمَا} | katabtumaa        | kalian 2 menulis    |
+| Kalian-L     | \ar{أَنْتُمْ}  | \ar{كَتَبْتُمْ}  | katabtum          | kalian (L) menulis  |
+| Engkau-P     | \ar{أَنْتِ}    | \ar{كَتَبْتِ}    | katabti           | engkau (P) menulis  |
+| Kalian-P     | \ar{أَنْتُنَّ} | \ar{كَتَبْتُنَّ} | katabtunna        | kalian (P) menulis  |
+| Saya         | \ar{أَنَا}     | \ar{كَتَبْتُ}    | katabtu           | saya menulis        |
+| Kami         | \ar{نَحْنُ}    | \ar{كَتَبْنَا}   | katabnaa          | kami menulis        |
 
 Tiga belas bentuk untuk satu fi'il --- jauh lebih banyak dari Bahasa Inggris (yang hanya membedakan 3rd-person singular dengan "-s"). Inilah ketelitian bahasa Arab dalam menyandikan pelaku.
 
-Pola yang terlihat:
+Periksa kembali kaidah 1 dan 2 di atas pada tabel:
 
-- **Gha'ib** (dia/mereka): tidak ada akhiran, atau akhiran \ar{ـَا، ـُوا، ـَتْ، ـَتَا، ـْنَ}
-- **Mukhathab** (engkau/kalian): semua akhiran dimulai dengan \ar{ـْتَـ} (dengan ta')
-- **Mutakallim** (saya/kami): \ar{ـْتُ} dan \ar{ـْنَا}
+- **Mutakallim dan mukhathab**: akhiran \ar{ـتُ ـنَا ـتَ ـتِ ـتُمَا ـتُمْ ـتُنَّ} = dhomir muttashil dari Pelajaran 27.
+- **Ta' ta'nits**: \ar{كَتَبَتْ} (dia-P), \ar{كَتَبَتَا} (mereka-2-P).
+- **Alif tatsniyah**: \ar{كَتَبَا} (mereka-2-L), \ar{كَتَبَتَا} (mereka-2-P; alif tatsniyah setelah ta' ta'nits).
+- **Wau jama'ah**: \ar{كَتَبُوا} (mereka-L).
+- **Nun niswah**: \ar{كَتَبْنَ} (mereka-P).
 
 ## Tashrif Lughawi: Mudhari
 
-Untuk fi'il mudhari, polanya berbeda --- pelaku ditandai oleh **prefix** (huruf di awal) dan kadang juga suffix.
+Untuk fi'il mudhari, pelaku ditandai oleh **prefix** (huruf di awal) dan kadang juga **suffix** dari penanda yang sama yang sudah dikenal di madhi (alif tatsniyah, wau jama'ah, nun niswah).
 
 Untuk \ar{يَكْتُبُ} ("dia menulis"):
 
-| Pelaku       | Bentuk           | Cara baca       |
-|--------------|------------------|------------------|
-| Dia-L        | \ar{يَكْتُبُ}     | yaktubu          |
-| Mereka-2-L   | \ar{يَكْتُبَانِ}  | yaktubaani       |
-| Mereka-L     | \ar{يَكْتُبُونَ}  | yaktubuuna       |
-| Dia-P        | \ar{تَكْتُبُ}     | taktubu          |
-| Mereka-2-P   | \ar{تَكْتُبَانِ}  | taktubaani       |
-| Mereka-P     | \ar{يَكْتُبْنَ}   | yaktubna         |
-| Engkau-L     | \ar{تَكْتُبُ}     | taktubu          |
-| Kalian-2     | \ar{تَكْتُبَانِ}  | taktubaani       |
-| Kalian-L     | \ar{تَكْتُبُونَ}  | taktubuuna       |
-| Engkau-P     | \ar{تَكْتُبِينَ}  | taktubiina       |
-| Kalian-P     | \ar{تَكْتُبْنَ}   | taktubna         |
-| Saya         | \ar{أَكْتُبُ}     | aktubu           |
-| Kami         | \ar{نَكْتُبُ}     | naktubu          |
+| Pelaku       | Dhomir         | Bentuk            | Cara baca       |
+|--------------|----------------|-------------------|------------------|
+| Dia-L        | \ar{هُوَ}      | \ar{يَكْتُبُ}      | yaktubu          |
+| Mereka-2-L   | \ar{هُمَا}     | \ar{يَكْتُبَانِ}   | yaktubaani       |
+| Mereka-L     | \ar{هُمْ}      | \ar{يَكْتُبُونَ}   | yaktubuuna       |
+| Dia-P        | \ar{هِيَ}      | \ar{تَكْتُبُ}      | taktubu          |
+| Mereka-2-P   | \ar{هُمَا}     | \ar{تَكْتُبَانِ}   | taktubaani       |
+| Mereka-P     | \ar{هُنَّ}     | \ar{يَكْتُبْنَ}    | yaktubna         |
+| Engkau-L     | \ar{أَنْتَ}    | \ar{تَكْتُبُ}      | taktubu          |
+| Kalian-2     | \ar{أَنْتُمَا} | \ar{تَكْتُبَانِ}   | taktubaani       |
+| Kalian-L     | \ar{أَنْتُمْ}  | \ar{تَكْتُبُونَ}   | taktubuuna       |
+| Engkau-P     | \ar{أَنْتِ}    | \ar{تَكْتُبِينَ}   | taktubiina       |
+| Kalian-P     | \ar{أَنْتُنَّ} | \ar{تَكْتُبْنَ}    | taktubna         |
+| Saya         | \ar{أَنَا}     | \ar{أَكْتُبُ}      | aktubu           |
+| Kami         | \ar{نَحْنُ}    | \ar{نَكْتُبُ}      | naktubu          |
 
-Pola prefix sesuai mnemonic **anaytu** (Pelajaran 23):
+Pola prefix sesuai mnemonic **anaytu** (Pelajaran 23) --- masing-masing prefix mengambil satu huruf dari dhomir munfashilnya:
 
-- \ar{أَ} → saya
-- \ar{نَ} → kami
-- \ar{يَ} → dia (L) / mereka
-- \ar{تَ} → engkau / dia (P)
+- \ar{أَ} ← \ar{أَنَا} (saya)
+- \ar{نَ} ← \ar{نَحْنُ} (kami)
+- \ar{يَ} → gha'ib mudzakkar (\ar{هُوَ}, \ar{هُمَا}-L, \ar{هُمْ}) dan jamak mu'annats gha'ib (\ar{هُنَّ})
+- \ar{تَ} → mukhathab (\ar{أَنْتَ}, \ar{أَنْتِ}, \ar{أَنْتُمَا}, \ar{أَنْتُمْ}, \ar{أَنْتُنَّ}) dan gha'ib mu'annats mufrad/mutsanna (\ar{هِيَ}, \ar{هُمَا}-P)
+
+Suffix-suffix yang muncul juga sudah dikenal:
+
+- **Alif tatsniyah** + **nun**: \ar{يَكْتُبَانِ}, \ar{تَكْتُبَانِ} (mutsanna).
+- **Wau jama'ah** + **nun**: \ar{يَكْتُبُونَ}, \ar{تَكْتُبُونَ} (jamak mudzakkar).
+- **Nun niswah**: \ar{يَكْتُبْنَ}, \ar{تَكْتُبْنَ} (jamak mu'annats).
+- **Ya' mukhathabah** + **nun**: \ar{تَكْتُبِينَ} (engkau-P) --- huruf \ar{ي} sebagai penanda mukhathab mu'annats, kembali ke kasrah \ar{أَنْتِ}.
+
+Nun di akhir mutsanna/jamak/mukhathab-P (\ar{ـَانِ، ـُونَ، ـِينَ}) hanya muncul di mudhari rafa'; akan hilang saat fi'il nashb atau jazm (Pelajaran 23).
 
 ## Tashrif Lughawi: Amr
 
-Fi'il amr hanya untuk pelaku **mukhathab** (engkau/kalian) --- karena perintah hanya bermakna kalau ditujukan ke orang kedua.
+Fi'il amr hanya untuk pelaku **mukhathab** (engkau/kalian) --- karena perintah hanya bermakna kalau ditujukan ke orang kedua. Bentuknya berasal dari mudhari mukhathab dengan **prefix \ar{تَ} dibuang** dan ditambah **hamzah washl** di awal.
 
-| Pelaku       | Bentuk           | Cara baca   |
-|--------------|------------------|-------------|
-| Engkau-L     | \ar{اكْتُبْ}      | uktub       |
-| Kalian-2     | \ar{اكْتُبَا}     | uktubaa     |
-| Kalian-L     | \ar{اكْتُبُوا}    | uktubuu     |
-| Engkau-P     | \ar{اكْتُبِي}     | uktubii     |
-| Kalian-P     | \ar{اكْتُبْنَ}    | uktubna     |
+| Pelaku       | Dhomir         | Bentuk           | Cara baca   |
+|--------------|----------------|------------------|-------------|
+| Engkau-L     | \ar{أَنْتَ}    | \ar{اكْتُبْ}      | uktub       |
+| Kalian-2     | \ar{أَنْتُمَا} | \ar{اكْتُبَا}     | uktubaa     |
+| Kalian-L     | \ar{أَنْتُمْ}  | \ar{اكْتُبُوا}    | uktubuu     |
+| Engkau-P     | \ar{أَنْتِ}    | \ar{اكْتُبِي}     | uktubii     |
+| Kalian-P     | \ar{أَنْتُنَّ} | \ar{اكْتُبْنَ}    | uktubna     |
+
+Suffix-nya konsisten dengan yang sudah dikenal: **alif tatsniyah** (\ar{اكْتُبَا}), **wau jama'ah** (\ar{اكْتُبُوا}), **ya' mukhathabah** (\ar{اكْتُبِي}), **nun niswah** (\ar{اكْتُبْنَ}). Tidak ada nun rafa' di akhir karena amr selalu mabni.
 
 Untuk gha'ib (dia / mereka) tidak ada amr langsung; perintah ke orang ketiga pakai **lam amr** + mudhari (Pelajaran 24).
 

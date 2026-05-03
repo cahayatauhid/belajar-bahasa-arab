@@ -91,6 +91,8 @@ Tabel dhamir muttashil yang berperan sebagai fa'il (di mahalli rafa') ketika men
 
 Untuk fi'il mudhari, polanya berbeda --- akan diperdalam di Blok 7. Untuk Level 1, kenali bahwa **akhiran fi'il madhi mengandung fa'il yang melekat**.
 
+Tabel akhiran di atas akan muncul lagi di Pelajaran 29 sebagai **baris-baris tashrif lughawi madhi**: \ar{كَتَبْتُ، كَتَبْنَا، كَتَبْتَ، كَتَبْتِ، كَتَبْتُمَا، كَتَبْتُمْ، كَتَبْتُنَّ}, dst. Akhiran-akhiran tersebut bukan tabel baru di tashrif --- itulah dhomir muttashil yang baru saja dipetakan di sini.
+
 \ar{كَتَبْتُ}
 
 > "Saya menulis"
