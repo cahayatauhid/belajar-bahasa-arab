@@ -521,14 +521,14 @@ Workbook dirilis bertahap **per Blok** untuk menjaga kualitas dan memungkinkan v
 |-------|-------------------------------|----------------------|--------|-------------------|----------------|
 | 0     | Prototipe (Blok 2, 4, 7)      | 8, 22, 30            | 3      | A, B, C           | **Dirilis**    |
 | 1     | Blok 1 --- Pengantar/Motivasi | 1, 2, 3, 4, 5, 6, 7  | 7      | B (1--4), A (5--7)| **Dirilis**    |
-| 2     | Blok 2 --- Marfu'at           | 9, 10, 11, 12        | 4      | A                 | Pending        |
+| 2     | Blok 2 --- Marfu'at           | 9, 10, 11, 12        | 4      | A                 | **Dirilis**    |
 | 3     | Blok 3 --- Manshubat          | 13, 14, 15, 16, 17, 18 | 6    | A                 | Pending        |
 | 4     | Blok 4 --- Majrurat dan Adad  | 19, 20, 21           | 3      | B                 | Pending        |
 | 5     | Blok 5 --- Majzumat           | 23, 24, 25           | 3      | A                 | Pending        |
 | 6     | Blok 6 --- Dhamir             | 26, 27, 28           | 3      | A                 | Pending        |
 | 7     | Blok 7 --- Shorf Garis Besar  | 29, 31, 32, 33, 34   | 5      | A (29), C (31--34)| Pending        |
 
-**Total target Level 1**: 34 workbook (10 sudah dirilis = 3 prototipe + 7 Blok 1; 24 dalam pipeline). Saat batch baru selesai, roadmap di atas di-update statusnya, dan link unduh ditambahkan di frontpage GitHub Pages.
+**Total target Level 1**: 34 workbook (14 sudah dirilis = 3 prototipe + 7 Blok 1 + 4 Blok 2; 20 dalam pipeline). Saat batch baru selesai, roadmap di atas di-update statusnya, dan link unduh ditambahkan di frontpage GitHub Pages.
 
 ## Komponen Paket
 
