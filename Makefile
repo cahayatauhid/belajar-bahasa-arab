@@ -84,29 +84,23 @@ docs: $(DOCS_PDFS)
 DOCS_PANDOC_FLAGS = \
 	--pdf-engine=xelatex \
 	--include-in-header=_build/header.tex \
-	--toc --toc-depth=2 \
-	--shift-heading-level-by=-1 \
-	-V papersize=a4 \
-	-V geometry:margin=2.5cm \
-	-V mainfont="TeX Gyre Pagella" \
-	-V lang=id \
-	-V documentclass=article \
-	-V numbersections=true \
-	-V toc-title="Daftar Isi"
+	--toc
 
-docs/desain-kurikulum.pdf: docs/desain-kurikulum.md _build/header.tex
+docs/desain-kurikulum.pdf: docs/desain-kurikulum.md _build/desain-kurikulum-frontmatter.md _build/header.tex
+	@mkdir -p _build/cache
+	@cat _build/desain-kurikulum-frontmatter.md > _build/cache/desain-kurikulum.md
+	@echo "" >> _build/cache/desain-kurikulum.md
+	@cat docs/desain-kurikulum.md >> _build/cache/desain-kurikulum.md
 	$(DOCKER_RUN) pandoc $(DOCS_PANDOC_FLAGS) \
-		--metadata=title:"Desain Kurikulum" \
-		--metadata=subtitle:"Belajar Bahasa Arab --- Cahaya Tauhid" \
-		--metadata=author:"Cahaya Tauhid" \
-		$< -o $@
+		_build/cache/desain-kurikulum.md -o $@
 
-docs/silabus.pdf: docs/silabus.md _build/header.tex
+docs/silabus.pdf: docs/silabus.md _build/silabus-frontmatter.md _build/header.tex
+	@mkdir -p _build/cache
+	@cat _build/silabus-frontmatter.md > _build/cache/silabus.md
+	@echo "" >> _build/cache/silabus.md
+	@cat docs/silabus.md >> _build/cache/silabus.md
 	$(DOCKER_RUN) pandoc $(DOCS_PANDOC_FLAGS) \
-		--metadata=title:"Silabus Lengkap" \
-		--metadata=subtitle:"Belajar Bahasa Arab Level 1--5 --- Cahaya Tauhid" \
-		--metadata=author:"Cahaya Tauhid" \
-		$< -o $@
+		_build/cache/silabus.md -o $@
 
 clean:
 	find textbook -name "*.pdf" -delete 2>/dev/null || true
