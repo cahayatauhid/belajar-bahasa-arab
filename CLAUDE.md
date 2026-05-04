@@ -109,7 +109,7 @@ open slides/pelajaran-01/index.html
 - Jangan tambah vocabulary di luar konteks matn klasik dan korpus Quran/hadits/kitab pemula
 - Jangan auto-commit; tunggu instruksi eksplisit
 - Jangan pakai dev jargon (lihat tabel di atas)
-- Jangan ubah palette warna (dark navy `#0E2954` + rich gold `#C9A227`)
+- Jangan ubah palette warna brand (navy `#203543` + gold `#D18C1C`, diadopsi dari logo Cahaya Tauhid di `assets/logo/`)
 - Jangan ubah ukuran kertas dari B5 (preference user untuk printable)
 
 ## Git Workflow

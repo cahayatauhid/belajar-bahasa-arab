@@ -10,6 +10,35 @@
 % Font Mushaf Madinah (Rasm Utsmani) untuk semua teks Arab dalam paket
 \babelfont[arabic]{rm}[Script=Arabic, Scale=1.15]{Amiri Quran}
 
+% Color palette dari logo Cahaya Tauhid
+\usepackage{xcolor}
+\definecolor{ctnavy}{HTML}{203543}
+\definecolor{ctgold}{HTML}{D18C1C}
+
+% Logo di title page
+\usepackage{graphicx}
+\usepackage{titling}
+\pretitle{%
+  \begin{center}%
+  \vspace*{0.5em}%
+  \includegraphics[width=0.32\textwidth]{assets/logo/sumber/cahaya-tauhid.pdf}\par%
+  \vspace{1.5em}%
+  \LARGE\color{ctnavy}\bfseries%
+}
+\posttitle{\par\end{center}\vspace{1em}}
+
+% Watermark logo semi-transparent di setiap halaman
+% File watermark.png sudah di-pre-process dengan alpha 6%
+% (lihat assets/logo/README.md untuk regenerasi)
+\usepackage{eso-pic}
+\AddToShipoutPictureBG{%
+  \AtPageCenter{%
+    \makebox(0,0){%
+      \includegraphics[width=0.55\paperwidth]{assets/logo/cahaya-tauhid-watermark.png}%
+    }%
+  }%
+}
+
 \usepackage{parskip}
 
 % Spasi item dalam list (override pandoc \tightlist agar item yang wrap

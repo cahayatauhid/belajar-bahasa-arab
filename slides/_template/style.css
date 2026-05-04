@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Amiri+Quran&family=Crimson+Pro:wght@400;700&display=swap');
 
 :root {
-  --navy: #0E2954;
-  --gold: #C9A227;
+  --navy: #203543;
+  --gold: #D18C1C;
   --bg: #FDFBF6;
   --text: #1a1a1a;
   --muted: #6b6b6b;
@@ -42,6 +42,19 @@ html, body {
 .slide.active {
   display: flex;
   opacity: 1;
+}
+
+/* Logo Cahaya Tauhid pada title slide (slide pertama) */
+.slide:first-child::before {
+  content: '';
+  display: block;
+  width: clamp(120px, 18vw, 220px);
+  height: clamp(120px, 18vw, 220px);
+  background-image: url('../logo.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto 1em auto;
 }
 
 .slide h1 {

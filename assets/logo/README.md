@@ -30,6 +30,39 @@ File editable untuk modifikasi atau ekspor ke format baru.
 
 SVG di-generate dari `sumber/cahaya-tauhid.pdf` lewat `pdf2svg`. Untuk regenerasi: `pdf2svg sumber/cahaya-tauhid.pdf cahaya-tauhid.svg`.
 
+### Watermark
+
+| File                              | Format | Resolusi    | Pemakaian                                 |
+|-----------------------------------|--------|-------------|-------------------------------------------|
+| `cahaya-tauhid-watermark.png`     | PNG    | 1500×1500   | Watermark semi-transparan (alpha 6%) di setiap halaman PDF textbook/workbook |
+
+Watermark di-generate dari `cahaya-tauhid-warna-transparan.png` dengan alpha dikalikan 0.06 via Pillow. Untuk regenerasi:
+
+```bash
+python3 -m venv /tmp/venv-pillow
+/tmp/venv-pillow/bin/pip install Pillow
+/tmp/venv-pillow/bin/python -c "
+from PIL import Image
+img = Image.open('assets/logo/cahaya-tauhid-warna-transparan.png').convert('RGBA')
+a = img.split()[3]
+a = a.point(lambda x: int(x*0.06))
+img.putalpha(a)
+img.thumbnail((1500,1500))
+img.save('assets/logo/cahaya-tauhid-watermark.png')
+"
+```
+
+## Color Palette
+
+Diadopsi dari logo:
+
+| Warna  | Hex       | RGB                  | Pemakaian                              |
+|--------|-----------|----------------------|----------------------------------------|
+| Navy   | `#203543` | `rgb(32, 53, 67)`    | Heading, border, accent gelap          |
+| Gold   | `#D18C1C` | `rgb(209, 140, 28)`  | Highlight, separator, accent terang    |
+
+Palette ini dipakai konsisten di seluruh produk (textbook PDF, workbook PDF, slide HTML, frontpage GitHub Pages).
+
 ## Konvensi Penamaan
 
 - Lowercase, hyphen-separated

@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'slides/**'
+      - 'assets/**'
       - 'textbook/level-*.pdf'
       - 'textbook/**/*.pdf'
       - 'workbook/**/*.pdf'
