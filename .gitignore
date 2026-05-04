@@ -15,4 +15,5 @@ out/
 !textbook/pelajaran-*/index.pdf
 !workbook/level-*.pdf
 !workbook/pelajaran-*/index.pdf
+!assets/**/*.pdf
 _build/cache/
