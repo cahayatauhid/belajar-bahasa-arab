@@ -42,7 +42,10 @@ jobs:
           cp -r slides/* _pages_site/
           mkdir -p _pages_site/buku _pages_site/docs _pages_site/textbook _pages_site/workbook
           if [ -f textbook/level-1.pdf ]; then
-            cp textbook/level-1.pdf _pages_site/buku/level-1.pdf
+            cp textbook/level-1.pdf _pages_site/buku/textbook-level-1.pdf
+          fi
+          if [ -f workbook/level-1.pdf ]; then
+            cp workbook/level-1.pdf _pages_site/buku/workbook-level-1.pdf
           fi
           if [ -f docs/desain-kurikulum.pdf ]; then
             cp docs/desain-kurikulum.pdf _pages_site/docs/desain-kurikulum.pdf

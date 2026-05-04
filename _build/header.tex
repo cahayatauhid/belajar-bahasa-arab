@@ -29,6 +29,13 @@
 }
 \posttitle{\par\end{center}\vspace{1em}}
 
+% Lebarkan kolom nomor di TOC supaya nomor 2-digit (mis. 34.10)
+% tidak bersentuhan dengan judul section.
+\usepackage{tocloft}
+\setlength{\cftsecnumwidth}{3.2em}
+\setlength{\cftsubsecnumwidth}{4em}
+\setlength{\cftsubsubsecnumwidth}{5em}
+
 % Watermark logo semi-transparent di setiap halaman
 % File watermark.png sudah di-pre-process dengan alpha 6%
 % (lihat assets/logo/README.md untuk regenerasi)

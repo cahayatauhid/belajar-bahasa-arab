@@ -554,7 +554,3 @@ Workbook dirilis bertahap **per Blok** untuk menjaga kualitas dan memungkinkan v
 **Lembaga penerbit:** Cahaya Tauhid
 
 **Lisensi:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — turunan bebas dipakai, dimodifikasi, dan dijual ulang dengan syarat atribusi ke Cahaya Tauhid dan turunan tetap CC BY-SA. Model Wikipedia: cocok untuk konten edukasi Islam yang ingin tetap bebas selamanya. Teks lisensi lengkap di `LICENSE` di root repo.
-
-## Open Items
-
-1. **Logo Cahaya Tauhid** — prompt untuk Nano Banana akan disusun ketika diminta, dengan input arah visual dari user (warna, gaya, simbolisme tauhid yang diinginkan)
