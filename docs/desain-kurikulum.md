@@ -526,9 +526,9 @@ Workbook dirilis bertahap **per Blok** untuk menjaga kualitas dan memungkinkan v
 | 4     | Blok 4 --- Majrurat dan Adad  | 19, 20, 21           | 3      | B                 | **Dirilis**    |
 | 5     | Blok 5 --- Majzumat           | 23, 24, 25           | 3      | A                 | **Dirilis**    |
 | 6     | Blok 6 --- Dhamir             | 26, 27, 28           | 3      | A                 | **Dirilis**    |
-| 7     | Blok 7 --- Shorf Garis Besar  | 29, 31, 32, 33, 34   | 5      | A (29), C (31--34)| Pending        |
+| 7     | Blok 7 --- Shorf Garis Besar  | 29, 31, 32, 33, 34   | 5      | A (29), C (31--34)| **Dirilis**    |
 
-**Total target Level 1**: 34 workbook (29 sudah dirilis = 3 prototipe + 7 Blok 1 + 4 Blok 2 + 6 Blok 3 + 3 Blok 4 + 3 Blok 5 + 3 Blok 6; 5 dalam pipeline). Saat batch baru selesai, roadmap di atas di-update statusnya, dan link unduh ditambahkan di frontpage GitHub Pages.
+**Total target Level 1**: **34 workbook --- semua sudah dirilis** (3 prototipe + 7 Blok 1 + 4 Blok 2 + 6 Blok 3 + 3 Blok 4 + 3 Blok 5 + 3 Blok 6 + 5 Blok 7). Roadmap selesai untuk Level 1.
 
 ## Komponen Paket
 
