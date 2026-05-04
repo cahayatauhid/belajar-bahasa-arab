@@ -9,7 +9,10 @@ PANDOC_FLAGS = \
 	-V papersize=b5 \
 	-V geometry:margin=2cm \
 	-V mainfont="TeX Gyre Pagella" \
-	-V lang=id
+	-V lang=id \
+	--metadata=author="Cahaya Tauhid" \
+	--metadata=subject="Bahasa Arab klasik untuk Muslim Indonesia dewasa" \
+	--metadata=keywords="bahasa arab,nahwu,shorf,al-jurumiyyah,quran,hadits,kitab klasik,cahaya tauhid"
 
 # Per-pelajaran preview build (artikel)
 TEXTBOOK_SRCS = $(wildcard textbook/pelajaran-*/index.md)

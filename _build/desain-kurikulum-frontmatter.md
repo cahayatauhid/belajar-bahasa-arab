@@ -1,6 +1,14 @@
 ---
 title-meta: "Desain Kurikulum --- Cahaya Tauhid"
 author-meta: "Cahaya Tauhid"
+subject: "Desain kurikulum paket pembelajaran bahasa Arab klasik Cahaya Tauhid"
+keywords:
+  - bahasa arab
+  - nahwu
+  - shorf
+  - kurikulum
+  - al-jurumiyyah
+  - cahaya tauhid
 documentclass: book
 classoption:
   - openany

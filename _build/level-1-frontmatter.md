@@ -1,6 +1,15 @@
 ---
 title-meta: "Belajar Bahasa Arab — Level 1"
 author-meta: "Cahaya Tauhid"
+subject: "Paket pembelajaran bahasa Arab klasik Level 1 (Pondasi: Peta Gramatikal Lengkap) Cahaya Tauhid"
+keywords:
+  - bahasa arab
+  - nahwu
+  - shorf
+  - al-jurumiyyah
+  - tashrif al-izzi
+  - peta gramatikal
+  - cahaya tauhid
 documentclass: book
 classoption:
   - openany

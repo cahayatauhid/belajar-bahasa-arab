@@ -1,6 +1,18 @@
 ---
 title-meta: "Silabus Lengkap --- Cahaya Tauhid"
 author-meta: "Cahaya Tauhid"
+subject: "Silabus lengkap paket pembelajaran bahasa Arab Level 1-5 Cahaya Tauhid"
+keywords:
+  - bahasa arab
+  - nahwu
+  - shorf
+  - silabus
+  - al-jurumiyyah
+  - tashrif al-izzi
+  - qotrun nada
+  - lamiyyah al-afal
+  - alfiyah ibn malik
+  - cahaya tauhid
 documentclass: book
 classoption:
   - openany
